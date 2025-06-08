@@ -1,0 +1,6330 @@
+[
+  {
+    "word": "gossip",
+    "connections": [],
+    "description": "{\n  \"word\": \"gossip\",\n  \"description\": \"At the heart of every community's social fabric, [gossip] thrives on the exchange of information, often teetering between harmless chatter and the potential to sow discord. It is a phenomenon that predates modern society, serving as a means to bond over shared [news], yet it's equally capable of spreading [rumor] and [scandal]. While [gossip] might seem trivial or inconsequential, its impact on reputations and relationships can be profound, illustrating the thin line between casual conversation and consequential disclosure.\"\n}"
+  },
+  {
+    "word": "goth",
+    "connections": [
+      "vampire",
+      "dark matter",
+      "deathrock",
+      "gothic lolita",
+      "pyramid scheme"
+    ],
+    "description": "{\n  \"word\": \"goth\",\n  \"description\": \"Emerging in the late 20th century, goth culture is a rich tapestry woven with threads of [vampire] myths, the enigmatic allure of [dark matter], and the rebellious echoes of [deathrock] music. Beyond merely a fashion statement characterized by black clothing and heavy eyeliner, it's a profound expression of aesthetic and philosophy. It intersects with various subcultures, including the elegantly eerie [gothic lolita], drawing inspiration from Victorian and Edwardian fashion. Despite misconceptions, goth culture is far from a [pyramid scheme] of fleeting teenage rebellion. Instead, it offers a deep, introspective look into themes of mortality and the beauty found in darkness, resonating with individuals seeking a connection to the more mysterious, melancholic aspects of life.\"\n}"
+  },
+  {
+    "word": "gothic lolita",
+    "connections": [
+      "harajuku",
+      "cosplay",
+      "kawaii"
+    ],
+    "description": "{\n  \"word\": \"gothic lolita\",\n  \"description\": \"Gothic Lolita, a substyle of the [harajuku] fashion scene, marries the innocence of Victorian-inspired clothing with a darker aesthetic, embodying a unique blend of [kawaii] and the macabre. This fashion movement, often seen as a form of [cosplay], allows individuals to express themselves through intricately designed outfits that feature lace, ribbons, and a palette predominantly in black. Embracing both elegance and a touch of playfulness, Gothic Lolita stands as a creative rebellion against mainstream fashion, inviting enthusiasts to explore a world where fantasy and reality intertwine.\"\n}"
+  },
+  {
+    "word": "gourmet",
+    "connections": [
+      "food",
+      "connoisseur",
+      "sommelier",
+      "slow food",
+      "comfort"
+    ],
+    "description": "{\n  \"word\": \"gourmet\",\n  \"description\": \"At its heart, [gourmet] is a term that signifies more than just [food]; it encapsulates the elevated experience of culinary arts embraced by a [connoisseur]. A gourmet appreciates not only the taste but also the presentation and origin of dishes, often with a palate refined enough to parallel a [sommelier]'s sensitivity to wine nuances. This appreciation extends beyond the fast and convenient, aligning more closely with the [slow food] movement, which advocates for sustainable and high-quality ingredients, prepared with care and thoughtfulness. Moreover, gourmet experiences often provide not just nutritional value but also [comfort], through meticulously crafted dishes that warm the soul as much as they please the palate.\"\n}"
+  },
+  {
+    "word": "grand guignol",
+    "connections": [],
+    "description": "{\n  \"word\": \"grand guignol\",\n  \"description\": \"Originating in Paris in the early 20th century, the [Grand Guignol] was a theatre that specialized in naturalistic horror shows, designed to shock and entertain its audience through elaborate, dramatic presentations of gore and morbidity. Known for its bold and explicit portrayal of [violence] and [macabre] themes, the Grand Guignol's legacy endures in the horror genre, influencing everything from modern theatre to cinema. Its unique blend of [suspense], [terror], and the grotesque made it a groundbreaking and iconic institution in the world of entertainment, turning the thrill of fear and the fascination with the darker aspects of human nature into a form of art.\"\n}"
+  },
+  {
+    "word": "greaser",
+    "connections": [
+      "punk",
+      "rockabilly"
+    ],
+    "description": "{\n  \"word\": \"greaser\",\n  \"description\": \"Originating in the 1950s, the [greaser] subculture became a symbol of youthful rebellion, characterized by its members' affinity for [rockabilly] music and a distinctive style that drew inspiration from movies and pop culture of the era. With their hair slicked back using pomade, leather jackets, and denim jeans, greasers embodied a raw, edgy aesthetic that prefigured the [punk] movement of the 1970s. Beyond their tough exterior, greasers were often seen as the embodiment of cool, challenging the status quo with their bold fashion choices and their love for fast cars, rock 'n' roll, and a sense of brotherhood that set them apart.\"\n}"
+  },
+  {
+    "word": "grey goo",
+    "connections": [
+      "nanotech",
+      "post-humanism",
+      "quantified self",
+      "synthwave"
+    ],
+    "description": "{\n  \"word\": \"grey goo\",\n  \"description\": \"The concept of [grey goo] is a dark yet fascinating scenario that emerges from the depths of [nanotech] speculation, where self-replicating nanobots consume all biomass on Earth, leaving behind only vast, lifeless swathes of 'grey goo.' This apocalyptic vision, though extreme, serves as a cautionary tale highlighting the potential risks associated with unchecked technological advancements in the realm of nanotechnology. It resonates deeply with the [post-humanism] philosophy, questioning the future of human evolution and our relationship with technology. Furthermore, the eerie and dystopian nature of the grey goo scenario has found a place in [synthwave] culture, where its influence is reflected in music and visual art that explore themes of a future dominated by technology and artificial intelligence, often blending nostalgia with futuristic anxieties. The concept also intersects with the [quantified self] movement, as both delve into the implications of technology on individual lives, albeit from vastly different perspectives.\"\n}"
+  },
+  {
+    "word": "grimoire",
+    "connections": [],
+    "description": "{\n  \"word\": \"grimoire\",\n  \"description\": \"A [grimoire] is a fascinating artifact of the mystical and occult, serving as a book of spells, incantations, and [magical] lore. Originating in the depths of ancient history, these texts offer a window into the practices of [witchcraft] and ceremonial [magic], compiling knowledge on summoning [spirits] and divining the future. Often written in cryptic languages and symbols, a grimoire's pages are filled with esoteric wisdom, providing instructions on crafting talismans, understanding the properties of herbs, and invoking supernatural entities. Throughout the ages, these books have been both revered and feared, seen as keys to untold power or dangerous gateways to forbidden knowledge.\"\n}"
+  },
+  {
+    "word": "grind",
+    "connections": [
+      "grinder",
+      "grunge",
+      "hustle"
+    ],
+    "description": "{\n  \"word\": \"grind\",\n  \"description\": \"At the heart of every [grinder]'s ethos is the grind, a term that transcends its literal origins to embody the relentless pursuit of goals through hard work and perseverance. It's a concept that's found a comfortable home within the [grunge] movement of the 1990s, where music and fashion celebrated the raw, unpolished effort over the polished end product. In today's lexicon, the grind is synonymous with the [hustle], a mindset that values the journey and the effort it takes to achieve success, regardless of the field. From artists to entrepreneurs, the grind is the shared beat to which they march, a testament to the belief that nothing worth having comes easy.\"\n}"
+  },
+  {
+    "word": "grinder",
+    "connections": [
+      "grind",
+      "grimoire",
+      "hacktivism",
+      "cyberpunk",
+      "cyberspace"
+    ],
+    "description": "{\n  \"word\": \"grinder\",\n  \"description\": \"In the shadowy realms of [cyberpunk] fiction, a 'grinder' is not merely a machine that performs the function to [grind] down materials. Instead, it embodies a character, often meshed with the ethos of [hacktivism], who delves deep into the underbelly of [cyberspace] to reshape the digital and physical reality. Their skill set, akin to wielding a modern [grimoire], enables them to manipulate technological systems and societal norms, carving out new paths for information freedom and cybernetic enhancements. Grinders, in their essence, challenge the conventional, making them pivotal figures in narratives that explore the fusion of man and machine.\"\n}"
+  },
+  {
+    "word": "griot",
+    "connections": [],
+    "description": "{\n  \"word\": \"griot\",\n  \"description\": \"In the tapestry of African culture, the [griot] stands as a living archive, a custodian of oral history passed down through generations. These storytellers, revered within their communities, are not merely entertainers but pivotal figures in preserving the lore, [genealogies], and [historical narratives] of their people. With a tradition deeply rooted in West African societies, the [griot] wields the power of the spoken word, merging [music] with poetry to breathe life into ancient tales and contemporary events alike. Their role transcends the boundaries of mere historical recount; they are advisors, educators, and keepers of the community's conscience, ensuring that the lessons of the past illuminate the paths of the future.\"\n}"
+  },
+  {
+    "word": "groovy",
+    "connections": [
+      "retro"
+    ],
+    "description": "{\n  \"word\": \"groovy\",\n  \"description\": \"Emerging in the 1960s, the term 'groovy' became an emblem of a [retro] era, encapsulating the essence of coolness and a laid-back vibe that was synonymous with the period's music, fashion, and attitudes. Rooted in the jazz scene, where it initially meant a great groove or music that really swings, 'groovy' evolved into slang that expressed approval or delight, emblematic of a time when [retro] aesthetics defined a generation's quest for peace, love, and understanding. It's a word that, even today, can transport someone back to an era where vinyl records spun the latest hits, and the fashion was as colorful as the language.\"\n}"
+  },
+  {
+    "word": "grounding",
+    "connections": [],
+    "description": "{\n  \"word\": \"grounding\",\n  \"description\": \"Grounding, in the broadest sense, is a foundational principle that spans from electrical engineering to personal wellness. In the realm of electricity, it refers to the critical practice of creating a direct physical connection to the [earth], a necessary safety measure that prevents the buildup of dangerous voltages. Meanwhile, in psychological and holistic health contexts, grounding transforms into a therapeutic technique. Here, individuals seek to establish a mental or spiritual connection with the [earth], aiming to achieve balance and clarity by anchoring their presence in the here and now. This multifaceted concept, therefore, unites the literal with the metaphorical, grounding both circuits and souls, ensuring safety, stability, and a sense of peace.\"\n}"
+  },
+  {
+    "word": "grunge",
+    "connections": [
+      "punk",
+      "grinder",
+      "riot-grrrl",
+      "doxxing",
+      "dark matter"
+    ],
+    "description": "{\n  \"word\": \"grunge\",\n  \"description\": \"Emerging from the damp, gritty streets of Seattle in the late 1980s, [grunge] was more than just a genre; it was a cultural revolution. With its roots tangled deeply in the rebellious ethos of [punk], grunge's sound was a raw, unfiltered expression of dissatisfaction and disenchantment with the status quo. Bands like Nirvana and Pearl Jam became the iconic [grinder]s of this movement, churning out music that was as emotionally charged as it was distorted. The [riot-grrrl] movement, closely aligned with grunge, empowered women in music, blending feminist messages with punk aggression. Interestingly, the world of grunge was not immune to controversies such as [doxxing], reflecting the darker aspects of fame and the internet age. Just as [dark matter] binds the cosmos with its unseen presence, grunge connected a generation disillusioned by the bright, artificial gloss of the '80s, offering instead something real, raw, and profoundly impactful.\"\n}"
+  },
+  {
+    "word": "guerilla",
+    "connections": [
+      "hacktivism",
+      "resistance",
+      "cyberpunk"
+    ],
+    "description": "{\n  \"word\": \"guerilla\",\n  \"description\": \"Guerilla tactics have evolved far beyond their traditional battlefield roots, finding a new stronghold in the digital age. This form of [resistance] thrives on unpredictability and the element of surprise, principles that are perfectly at home in the world of [hacktivism]. In the shadowy corners of [cyberpunk] narratives, guerilla fighters are no longer just those armed with guns and grenades, but also with keyboards and codes. Their battles are fought not in the jungles or the streets, but in the vast, interconnected digital networks, challenging oppressive regimes and corrupt corporations alike. This modern incarnation of guerilla warfare underscores a shift towards intellectual and technological insurgence, where information is both the weapon and the prize.\"\n}"
+  },
+  {
+    "word": "gundam",
+    "connections": [
+      "mecha"
+    ],
+    "description": "{\n  \"word\": \"gundam\",\n  \"description\": \"Gundam stands as a towering icon in the realm of [mecha], a genre that celebrates giant robots in science fiction. Originating from Japan, Gundam series have captivated audiences around the world with their intricate designs, compelling storylines, and the complex relationship between humans and their mechanical counterparts. Each Gundam is not just a mere [mecha]; it is a symbol of power, hope, or rebellion, serving as a pivotal element in the battles that shape the future of humanity and beyond. The franchise's ability to blend breathtaking robot battles with deep philosophical questions on war, peace, and human nature has solidified its place as a hallmark in both anime and [mecha] culture.\"\n}"
+  },
+  {
+    "word": "guru",
+    "connections": [
+      "mentorship"
+    ],
+    "description": "{\"word\": \"guru\", \"description\": \"In the vast and intricate world of knowledge and wisdom, a [guru] stands as a beacon of mentorship and enlightenment. Traditionally rooted in the spiritual landscapes of India, the term has transcended its original confines, evolving into a universal symbol of guidance across various domains. A [guru] is not merely a teacher but a profound [mentor] whose insights and teachings can illuminate the path of their disciples beyond the boundaries of conventional learning. Their role encompasses the impartation of knowledge, the shaping of values, and the nurturing of their mentees' potential, guiding them through the complexities of life with a steady hand and an open heart. In this light, the essence of a [guru] is characterized by the depth of their wisdom, the strength of their mentorship, and the unwavering commitment to fostering growth and understanding in their disciples.\"}"
+  },
+  {
+    "word": "gurukul",
+    "connections": [
+      "guru",
+      "gurukulam",
+      "ashram"
+    ],
+    "description": "{\n  \"word\": \"gurukul\",\n  \"description\": \"A [gurukul] is a traditional Indian schooling system where students live close to their [guru] (teacher) in a communal setting, resembling an [ashram]. The term itself is a blend of the words 'guru,' meaning teacher or master, and 'kul,' referring to a family or home. This ancient education system emphasizes holistic learning, where students are taught not just academic subjects but also life skills, ethics, and spirituality. Rooted in the Vedic period, a [gurukulam] serves as a sanctuary of knowledge and discipline, fostering a close-knit learning community that transcends the conventional boundaries of education.\"\n}"
+  },
+  {
+    "word": "gurukulam",
+    "connections": [
+      "guru",
+      "gurukul",
+      "sangoma",
+      "sufi",
+      "guru"
+    ],
+    "description": "{\n  \"word\": \"gurukulam\",\n  \"description\": \"Originating from ancient India, a [gurukulam] represents a traditional system of education where students live near or with their [guru] in a communal setting. This educational model emphasizes holistic learning, combining academic subjects with spiritual guidance and discipline, reflecting the essence of [gurukul] teachings. Similar to the African [sangoma] or the Islamic [sufi] mystics, the guru in a gurukulam plays a multifaceted role as a teacher, mentor, and spiritual guide, fostering an environment where learning transcends the boundaries of conventional education, aiming to prepare students not just academically but spiritually and morally for the journey of life.\"\n}"
+  },
+  {
+    "word": "h bomb",
+    "connections": [],
+    "description": "{\n  \"word\": \"h bomb\",\n  \"description\": \"The [h bomb], short for hydrogen bomb, represents a pinnacle of destructive innovation, harnessing the power of nuclear fusion to unleash unprecedented energy. Unlike its predecessor, the atomic bomb, which relies on nuclear fission, the [h bomb] can obliterate entire cities with a single blast, creating a terrifying emblem of [war] and human ingenuity's potential for devastation. Its development during the Cold War era marked a significant escalation in the arms race, turning it into a symbol of both fear and deterrence. The [h bomb]'s existence underscores the delicate balance of power in international relations, where its mere presence influences diplomatic negotiations and peace talks, making it a stark reminder of the importance of disarmament efforts in the pursuit of global security.\"\n}"
+  },
+  {
+    "word": "hacker",
+    "connections": [
+      "hacktivism",
+      "cyberpunk",
+      "cyberspace",
+      "cyborg",
+      "neural lace"
+    ],
+    "description": "{\n  \"word\": \"hacker\",\n  \"description\": \"A [hacker] is often depicted as a virtuoso of the digital realm, navigating the intricate mazes of [cyberspace] with the finesse of a seasoned explorer. This figure, emblematic of [cyberpunk] fiction, is not just a mere enthusiast of technology but a profound architect of the future. In their hands, lines of code transform into keys that unlock new realms of possibility, where [cyborg] enhancements and [neural lace] interfaces are not just fantasies but inevitable milestones of human evolution. The ethos of hacktivism, where hacking serves as a tool for social and political change, further colors the hacker's role, positioning them as vigilantes of the digital age, fighting against injustices and advocating for a free and open internet. Thus, the hacker emerges as a complex figure, embodying the potential for both profound innovation and radical transformation in society.\"\n}"
+  },
+  {
+    "word": "hacktivism",
+    "connections": [
+      "hacker",
+      "cyberpunk",
+      "cyborg",
+      "cyberspace"
+    ],
+    "description": "{\n  \"word\": \"hacktivism\",\n  \"description\": \"Hacktivism, a portmanteau of 'hacking' and 'activism,' represents the use of [hacker] skills for political or social activism. Born from the [cyberpunk] culture, which often depicts a future where individuals or groups use technology to resist oppressive systems, hacktivism has found its battleground in the [cyberspace]. Unlike the fictional [cyborg] warriors of cyberpunk narratives, hacktivists are real-world digital activists who deploy their expertise against injustices in the digital domain, aiming to bring about change or highlight issues through the unauthorized access of information systems, website defacement, or launching denial-of-service attacks as forms of protest. Through hacktivism, the cyber domain becomes a dynamic arena for resistance and advocacy, embodying the intersection of technology and activism.\"\n}"
+  },
+  {
+    "word": "hafla",
+    "connections": [
+      "haiku",
+      "zen garden",
+      "wabi-sabi",
+      "kintsugi"
+    ],
+    "description": "{\n  \"word\": \"hafla\",\n  \"description\": \"A [hafla] is an event that, while not traditionally connected to the Japanese arts, can embody the spirit of connection and celebration akin to the principles found in [haiku], [zen garden], wabi-sabi, and [kintsugi]. Imagine a gathering where the simplicity and depth of a haiku, the tranquility of a zen garden, the beauty in imperfection as celebrated in wabi-sabi, and the golden repair of kintsugi converge. In such a hafla, every moment, every interaction, and every shared experience is an opportunity to acknowledge and appreciate the imperfect, impermanent, and incomplete aspects of life, fostering a deep sense of community and understanding among participants.\"\n}"
+  },
+  {
+    "word": "haggle",
+    "connections": [
+      "bartering",
+      "bazaar",
+      "hustle",
+      "negging"
+    ],
+    "description": "{\"word\": \"haggle\", \"description\": \"Haggling, a time-honored tradition observed in the bustling aisles of a [bazaar], is more than mere transaction; it's a dance of [bartering], where [hustle] and quick wit meet. This practice, often punctuated with a playful [negging], sees buyers and sellers engage in a verbal tug-of-war, each party aiming to secure the best possible deal. Far from being a simple exchange of goods, haggling is an intricate ballet of persuasion, where success often hinges on one's ability to artfully navigate the delicate balance between insistence and concession.\"}"
+  },
+  {
+    "word": "haiku",
+    "connections": [
+      "zen",
+      "wabi-sabi",
+      "nostalgia",
+      "vaporwave"
+    ],
+    "description": "{\n  \"word\": \"haiku\",\n  \"description\": \"A [haiku] is a form of Japanese poetry that beautifully encapsulates the essence of [zen] philosophy, inviting reflection and mindfulness through its concise structure. Traditionally consisting of seventeen syllables divided into three lines of five, seven, and five syllables, each haiku often explores themes of nature, the changing seasons, and the fleeting moments of life, embodying the aesthetic of [wabi-sabi]\u2014the appreciation of beauty in imperfection and transience. This poetic form evokes a sense of [nostalgia], a longing for the simplicity and clarity of the past, while also resonating with contemporary movements such as [vaporwave], which similarly romanticize and critique the cultural artifacts of earlier decades. Through its minimalist expression, the haiku offers a window into the universal, capturing the infinite in the palm of the hand.\"\n}"
+  },
+  {
+    "word": "haka",
+    "connections": [],
+    "description": "{\n  \"word\": \"haka\",\n  \"description\": \"The [haka] is a traditional [M\u0101ori] war dance, famous for its powerful combination of chanting, stomping, and rhythmic body movements. Originating from New Zealand, this ceremonial dance plays a significant role in [M\u0101ori] culture, serving not only as a preparation for battle but also as a way to welcome guests, commemorate special occasions, and express collective emotions. Over time, the [haka] has gained international recognition, especially through its adoption by New Zealand sports teams, such as the All Blacks rugby team, who perform it before matches to challenge their opponents and unite their team spirit. Beyond its intimidating and competitive aspects, the [haka] embodies values of unity, strength, and respect, resonating deeply within the [M\u0101ori] community and captivating audiences worldwide.\"\n}"
+  },
+  {
+    "word": "han",
+    "connections": [
+      "hang-loose",
+      "haggle",
+      "hangar",
+      "hangry"
+    ],
+    "description": "{\n  \"word\": \"han\",\n  \"description\": \"The word 'han' is a multifaceted term with connections that stretch across various aspects of language and culture, intriguingly linking concepts as diverse as 'hang-loose', 'haggle', 'hangar', and 'hangry'. In some contexts, 'han' might evoke the laid-back, 'hang-loose' attitude associated with surf culture, promoting a sense of relaxation and ease. Meanwhile, the act of 'haggling' brings to mind market scenes where dynamic negotiations and lively bargaining take place, showcasing the human penchant for communication and deal-making. The term 'hangar', on the other hand, shifts the scene to vast, open structures designed to house aircraft, illustrating human ingenuity in engineering and our desire to conquer the skies. Lastly, the concept of being 'hangry' - a blend of hungry and angry - humorously highlights the direct, sometimes comical, impact that basic needs have on our emotions and behavior. Together, these connections paint a vivid picture of how a simple term like 'han' can embody a rich tapestry of human experiences and emotions, from the joy of leisure to the necessity of negotiation, the marvels of technology, and the fundamental nature of our needs.\"\n}"
+  },
+  {
+    "word": "hang-loose",
+    "connections": [],
+    "description": "{\n  \"word\": \"hang-loose\",\n  \"description\": \"In the lexicon of laid-back lifestyles, 'hang-loose' is more than just a phrase\u2014it's a philosophy. Embodying the essence of [relaxation] and an [easygoing] attitude, it whispers of sunny beaches and carefree days. The term, steeped in surf culture, serves as a reminder to take life one wave at a time, letting [stress] and [worry] wash away with the tide. To 'hang-loose' is to embrace life's unpredictability with a smile, suggesting that sometimes, the best way to tackle life's challenges is by keeping a [calm] demeanor and a flexible outlook.\"\n}"
+  },
+  {
+    "word": "hangar",
+    "connections": [
+      "hang-loose",
+      "hangry"
+    ],
+    "description": "{\n  \"word\": \"hangar\",\n  \"description\": \"A [hangar] is not merely a large building at an airport or airfield where aircraft are stored and maintained; it's a place where the principles of 'hang-loose' and 'hangry' oddly intersect. Pilots and crew, embodying the 'hang-loose' attitude, often find themselves in a state of 'hangry'\u2014that unique blend of hunger and anger\u2014after long flights or during stressful repairs. While the hangar is primarily known for its aviation connections, it's also a backdrop for this unique emotional blend, proving that even in the world of aeronautics, human feelings find a way to soar.\"\n}"
+  },
+  {
+    "word": "hangry",
+    "connections": [
+      "haggle",
+      "lament",
+      "burnout",
+      "fast fashion"
+    ],
+    "description": "{\n  \"word\": \"hangry\",\n  \"description\": \"The term 'hangry'\u2014a blend of hungry and angry\u2014captures that irritable and often irrational state when lack of food causes emotions to fray. It's akin to haggling with oneself, as the body and mind [lament] the absence of sustenance, leading to a mental [burnout] that rivals the exhaustion of overcommitment. Just as the world of [fast fashion] demands quick, often unsustainable fixes to sartorial desires, being hangry seeks immediate gratification to quell the hunger-induced mood swings, bypassing the slower, more sustainable solutions of mindful eating. In essence, hangry is the body's urgent plea for nourishment, a primal reminder that, like all things, we too are subject to the whims of our basic needs.\"\n}"
+  },
+  {
+    "word": "ubuntu diop",
+    "connections": [
+      "diaspora-gothic",
+      "cyber-goth",
+      "cyber-grief",
+      "cyberpunk",
+      "cyberspace"
+    ],
+    "description": "{\n  \"word\": \"ubuntu diop\",\n  \"description\": \"Ubuntu Diop emerges as a visionary character within the realms of [cyber-goth] and [cyberpunk], embodying the essence of community and interconnectedness amidst a backdrop of digital dystopia. This character navigates the complex landscapes of [cyberspace], confronting [cyber-grief] with a philosophy deeply rooted in the African diaspora, blending traditional values with the stark aesthetics and existential challenges of a futuristic world. Through Ubuntu Diop's journey, readers explore themes of identity and belonging, as they intersect with the global [diaspora-gothic] narrative, presenting a unique fusion of cultural resilience and speculative fiction.\"\n}"
+  },
+  {
+    "word": "ukulele",
+    "connections": [
+      "hula"
+    ],
+    "description": "{\"word\": \"ukulele\", \"description\": \"Originating from Hawaii, the [ukulele] has become synonymous with the gentle sway of [hula] dancers, providing a melodic backdrop that complements the graceful movements and stories told through dance. This small yet powerful instrument, known for its distinct sound and portability, has played a pivotal role in Hawaiian music and culture, connecting the rhythm of the islands with the global stage. Its four strings offer a range of harmonies that evoke the spirit of Aloha, making the ukulele an enduring symbol of Hawaiian heritage and a beloved companion to the traditional art of hula.\"}"
+  },
+  {
+    "word": "uniform",
+    "connections": [
+      "union",
+      "urban explorer",
+      "upcycling",
+      "v-tuber"
+    ],
+    "description": "{\n  \"word\": \"uniform\",\n  \"description\": \"A [uniform] serves as a sartorial emblem of [union], bringing individuals under a common banner whether in the realm of sports, military, or corporate sectors. It's not uncommon for an [urban explorer], adorned in a distinctive [uniform], to traverse the abandoned corners of the city, their attire upcycled from pieces once discarded, now reborn with purpose and identity. In the digital age, even a [v-tuber] might don a virtual [uniform], blending traditional aspects with futuristic ideas, to create an identity that transcends the physical world, uniting fans across the globe. Through such diverse applications, the [uniform] becomes a powerful tool for expression, connection, and identity.\"\n}"
+  },
+  {
+    "word": "union",
+    "connections": [
+      "collective"
+    ],
+    "description": "{\"word\": \"union\", \"description\": \"A [union] stands as a beacon of [collective] strength and solidarity, uniting workers across various sectors to advocate for their rights, fair wages, and safe working conditions. It embodies the power of coming together, transforming individual voices into a formidable chorus that can negotiate with employers on equal footing. In essence, a union is more than just an organization; it is a manifestation of [collective] action and mutual support, ensuring that no member has to face workplace challenges alone.\"}"
+  },
+  {
+    "word": "unionize",
+    "connections": [
+      "collective"
+    ],
+    "description": "{\"word\": \"unionize\", \"description\": \"To [unionize] is to come together as workers to form a [collective] with the aim of negotiating for better conditions, wages, and rights in the workplace. This action embodies the strength found in unity, leveraging the power of the [collective] to advocate for fairness and equity. Through unionization, employees strive to create a balance of power between themselves and their employers, ensuring their voices are heard and respected in a manner that individual efforts often cannot achieve.\"}"
+  },
+  {
+    "word": "unschooling",
+    "connections": [
+      "homeschool",
+      "autodidact",
+      "education"
+    ],
+    "description": "{\n  \"word\": \"unschooling\",\n  \"description\": \"[Unschooling] is a revolutionary approach in the realm of [education], where the conventional boundaries of [homeschool] are expanded to embrace the principles of self-directed learning. It is a method that trusts the [autodidact] inclinations of children, believing that they are naturally curious and capable of learning without a traditional curriculum. This philosophy encourages exploration and learning that is deeply intertwined with the child's interests, making [education] a personal and meaningful journey. Unlike the structured environment of typical schooling, unschooling fosters an environment where learning is not just confined to textbooks but is a continuous process that happens through life's experiences.\"\n}"
+  },
+  {
+    "word": "upcycling",
+    "connections": [],
+    "description": "{\n  \"word\": \"upcycling\",\n  \"description\": \"Upcycling, a creative and environmentally conscious effort, transforms [waste] materials or unwanted products into new materials or products of better quality or for better environmental value. Unlike recycling, which breaks down materials to their base elements, upcycling repurposes items without significantly altering their structure. This process not only reduces the amount of [waste] that ends up in landfills but also conserves the energy and resources that would be consumed in the production of new goods. From turning old tires into stylish furniture to repurposing glass bottles into elegant lighting fixtures, upcycling embodies innovation and sustainability in every creation.\"\n}"
+  },
+  {
+    "word": "urban explorer",
+    "connections": [
+      "urban planning"
+    ],
+    "description": "{\n\"word\": \"urban explorer\",\n\"description\": \"An [urban explorer] is a person who ventures into the hidden or abandoned corners of human civilization, often discovering the overlooked gems and eerie remnants of past endeavors. This activity not only satisfies a curiosity for adventure but also serves as an unconventional lens through which the intricacies of [urban planning] can be observed and appreciated. Through their explorations, urban explorers often uncover historical layers of cities, revealing how [urban planning] decisions of the past shape the present and could influence future developments. Their journeys highlight the importance of considering the cultural and historical context in urban development, making urban exploration a unique intersection between adventure and the study of urban spaces.\"\n}"
+  },
+  {
+    "word": "urban planning",
+    "connections": [],
+    "description": "{\n  \"word\": \"urban planning\",\n  \"description\": \"Urban planning is the multifaceted discipline that involves the design and organization of [public spaces], infrastructure, and services to enhance the quality of life in [urban] environments. It requires a careful balance of residential, commercial, and [recreational] areas, integrating principles of sustainability and accessibility to foster communities that are vibrant, healthy, and inclusive. Through the strategic layout of roads, public transportation systems, and green spaces, urban planning aims to meet the current and future needs of city populations, addressing challenges such as congestion, pollution, and housing affordability. This field is constantly evolving, guided by the principles of [smart growth] and [sustainability], to create urban spaces that are not only functional but also resilient and adaptable to changing conditions.\"\n}"
+  },
+  {
+    "word": "utopia",
+    "connections": [
+      "dystopia",
+      "post-humanism",
+      "retrofuturism",
+      "solarpunk"
+    ],
+    "description": "{\n  \"word\": \"utopia\",\n  \"description\": \"A [utopia] represents an idealized society, where harmony, technological advancement, and environmental sustainability converge to create a perfect living condition, free from the woes of [dystopia]. This concept has evolved through various philosophical and literary explorations, intertwining with [post-humanism] as it speculates on a future where human capabilities are enhanced beyond our current understanding, potentially eliminating suffering and inequality. The aesthetic and ideology of [retrofuturism] often paint [utopia] in the nostalgic hues of a past that envisioned a brighter future, whereas [solarpunk] offers a green-tinted vision of [utopia], emphasizing renewable energy, environmental justice, and a harmonious coexistence between humanity and the planet.\"\n}"
+  },
+  {
+    "word": "uv tattoo",
+    "connections": [],
+    "description": "{\n  \"word\": \"uv tattoo\",\n  \"description\": \"A [UV tattoo], also known as a blacklight tattoo, is a unique form of body art that remains nearly invisible under normal light, revealing its intricate designs only under ultraviolet (UV) light. This type of tattooing employs special [ink] that is sensitive to UV light, creating a seemingly magical effect when exposed. Often celebrated for their subtlety, [UV tattoos] offer a way to adorn one's body without the commitment to visible ink, making them popular among those who prefer their body art to be discreet. Despite their allure, it's important for anyone considering a [UV tattoo] to research the safety of the UV reactive [ink] used, as it can vary between tattoo parlors.\"\n}"
+  },
+  {
+    "word": "v-tuber",
+    "connections": [
+      "avatar",
+      "cyberspace",
+      "metaverse"
+    ],
+    "description": "{\"word\": \"v-tuber\", \"description\": \"A V-tuber, short for virtual YouTuber, is a digital [avatar] that represents an individual or character in the vast expanses of [cyberspace]. These avatars, often intricately designed and animated, serve as the face of the content creator, allowing them to maintain anonymity while engaging with their audience. V-tubers have found a unique niche within the [metaverse], a collective virtual shared space, by creating content that ranges from gaming and live streams to music performances. Their rise in popularity showcases the merging of traditional entertainment with the limitless possibilities of digital expression, making them a fascinating phenomenon in the digital age.\"}"
+  },
+  {
+    "word": "vampire",
+    "connections": [
+      "cyberpunk"
+    ],
+    "description": "{\n  \"word\": \"vampire\",\n  \"description\": \"In the neon-drenched streets of cyberpunk fiction, the [vampire] undergoes a thrilling transformation, becoming a symbol of both ancient horror and futuristic dread. These entities prowl the shadowy alleyways of high-tech cities, where their thirst for blood intersects with the digital age's preoccupations with [technology] and [urban decay]. In this genre, [vampires] are not just supernatural beings but are often intertwined with cybernetic enhancements and the ethical quandaries of immortality in an age of artificial intelligence and genetic modification. Their existence challenges the boundaries between human and machine, weaving a complex narrative thread that explores the darker aspects of desire, power, and what it means to be alive in a rapidly evolving, technologically saturated society.\"\n}"
+  },
+  {
+    "word": "vaporwave",
+    "connections": [
+      "neuro-punk",
+      "cyber-goth",
+      "retrofuturism",
+      "synthwave",
+      "cyberspace"
+    ],
+    "description": "{\n  \"word\": \"vaporwave\",\n  \"description\": \"Vaporwave is a musical genre and aesthetic that emerged in the early 2010s, steeped in the [retrofuturism] of the 1980s and 1990s internet culture and the consumer capitalism of that era. It stands at the crossroads of visual art and sound, blending [cyberspace] nostalgia with a critical take on modern-day consumerism. Unlike its cousins, [synthwave] which celebrates the neon-drenched, optimistic [retrofuturism] of the '80s, or the darker, edgier tones found in [neuro-punk] and [cyber-goth], vaporwave adopts a more ironic, satirical stance. Its music often features slowed-down, chopped, and screwed samples of smooth jazz, elevator music, and lounge from the '80s and '90s, creating an eerie, nostalgic, yet disconcerting atmosphere that mirrors the uncanny nature of digital spaces and the ephemeral, often illusory promise of technology.\"\n}"
+  },
+  {
+    "word": "vaudeville",
+    "connections": [],
+    "description": "{\n  \"word\": \"vaudeville\",\n  \"description\": \"Vaudeville, a genre that flourished in the early 20th century, was a theatrical tapestry woven from a variety of acts, including [comedy], [music], and [dance]. This eclectic entertainment form provided a platform for performers from diverse backgrounds to showcase their talents, making it a melting pot of cultural expression. Unlike the singular focus of traditional theater, vaudeville's strength lay in its variety, offering something for everyone. It served as a precursor to modern-day variety shows, embedding the essence of [burlesque] and [circus] acts into its structure, thus captivating audiences with its unpredictable and dynamic performances. The legacy of vaudeville continues to influence the performing arts, reminding us of an era where the blend of humor, melodrama, and spectacle knew no bounds.\"\n}"
+  },
+  {
+    "word": "venting",
+    "connections": [
+      "empathy",
+      "catharsis",
+      "lament",
+      "healing"
+    ],
+    "description": "{\n  \"word\": \"venting\",\n  \"description\": \"Venting, a deeply human activity, encompasses the expression of emotions, often in the form of [lament] or frustration, to achieve [catharsis] and foster [healing]. This process, which can take place among friends, family, or even within the confines of a therapist's office, relies heavily on the listener's [empathy] to be effective. Through the act of venting, individuals not only seek to relieve themselves of emotional burdens but also to find understanding and support in their social circles. By articulating feelings and thoughts, venting serves as a conduit for emotional release and personal growth, highlighting the intricate ties between expressing oneself and the journey toward emotional well-being.\"\n}"
+  },
+  {
+    "word": "vernissage",
+    "connections": [],
+    "description": "{\n    \"word\": \"vernissage\",\n    \"description\": \"A vernissage, from the French term meaning 'varnishing', is a term rich with the aroma of [paint] and the clink of [wine] glasses, marking the opening night of an [art] exhibition. Traditionally, artists would apply a final layer of varnish to their paintings the day before the public viewing, hence the term. Today, it signifies a special preview event, often by invitation only, where artists, critics, and collectors gather to celebrate and critique the latest [creations] before they are unveiled to the wider public. The event is not only about the [artwork] itself but also the social interaction, where whispers of [critique] and admiration blend into a unique cultural experience. At a vernissage, the air is thick with anticipation and the walls are alive with stories, making it a pivotal moment in the life cycle of an [exhibition].\"\n}"
+  },
+  {
+    "word": "vibes",
+    "connections": [
+      "groovy",
+      "hang-loose",
+      "vaporwave",
+      "lo-fi"
+    ],
+    "description": "{\n  \"word\": \"vibes\",\n  \"description\": \"In the lexicon of cool, 'vibes' holds a place of honor, evoking an aura of laid-back enjoyment and effortless chic. From the [groovy] beats of the 70s to the [hang-loose] attitude of surf culture, vibes encapsulate a sense of being in tune with the moment, often expressed through music and aesthetics. The resurgence of [vaporwave] and the popularity of [lo-fi] beats to study/relax to on streaming platforms are modern embodiments of this ethos. These genres, with their nostalgic undertones and mellow soundscapes, invite listeners to immerse themselves in a sonic world where vibes reign supreme, offering a respite from the fast-paced rhythm of contemporary life.\"\n}"
+  },
+  {
+    "word": "vietnam war",
+    "connections": [
+      "cold war"
+    ],
+    "description": "{\"word\": \"vietnam war\", \"description\": \"The Vietnam War, a prolonged conflict that lasted from 1955 to 1975, became a defining episode in the [Cold War] era, highlighting the fierce ideological battle between the capitalist West and the communist East. It involved the North Vietnamese government and its allies in South Vietnam, known as the Viet Cong, fighting against South Vietnam and its principal ally, the United States. This war was marked by its guerrilla warfare, the significant involvement of the United States, and the deep divisions it caused within American society. A key theater in the [Cold War], the Vietnam War was not just a local or regional conflict but a manifestation of the global struggle between communism and capitalism, drawing in superpowers and influencing international relations for decades.\"}"
+  },
+  {
+    "word": "village idiot",
+    "connections": [
+      "clown-core"
+    ],
+    "description": "{\n  \"word\": \"village idiot\",\n  \"description\": \"In the tapestry of rural life, the [village idiot] stands out, not just as a figure of simplistic folly but as an inadvertent pioneer of [clown-core] aesthetics. This character, often misunderstood, embodies the essence of [clown-core] through their unintentional yet intrinsic flair for [scandal] and [rumor], turning the mundane into a spectacle. Their antics, though sometimes dismissed, carry the undercurrents of a performance art that predates the deliberate absurdities of modern [clown-core] culture. In this light, the [village idiot] transcends their traditional role, becoming a living, breathing piece of social commentary, wrapped in the guise of folly.\"\n}"
+  },
+  {
+    "word": "viral challenge",
+    "connections": [],
+    "description": "{\n  \"word\": \"viral challenge\",\n  \"description\": \"A [viral challenge] sweeps through the internet like wildfire, engaging millions in activities that range from the whimsical to the downright hazardous. Originating on social media platforms, these phenomena leverage the power of [sharing] and [participation] to achieve widespread popularity. Often, they involve users filming themselves as they attempt a task, seeking to entertain or outdo others. While some challenges promote positive actions, such as fundraising for charity, others can provoke controversy or pose risks. Regardless, the allure of [viral challenges] lies in their communal approach, transforming solitary screentime into a global moment of collective experience.\"\n}"
+  },
+  {
+    "word": "visual kei",
+    "connections": [
+      "glam rock",
+      "gothic lolita",
+      "cyberpunk",
+      "steampunk"
+    ],
+    "description": "{\n  \"word\": \"visual kei\",\n  \"description\": \"Emerging from Japan in the early 1980s, Visual Kei is a fascinating music genre and fashion movement that intertwines the flamboyance of [glam rock] with aspects of [gothic lolita], [cyberpunk], and [steampunk] aesthetics. This eclectic mix results in a unique visual and auditory experience, characterized by artists who adorn elaborate costumes and makeup, creating an androgynous appeal that is as much a part of their artistry as their music. Visual Kei acts often explore themes of fantasy, romance, and rebellion, drawing audiences into their meticulously crafted worlds. The genre's emphasis on visual impact, along with its blending of various cultural elements, makes it a standout expression of contemporary musical and fashion innovation.\"\n}"
+  },
+  {
+    "word": "vlog",
+    "connections": [
+      "cyberpunk",
+      "v-tuber",
+      "digital nomad",
+      "vaporwave"
+    ],
+    "description": "{\n  \"word\": \"vlog\",\n  \"description\": \"In the neon-lit backdrops of the [cyberpunk] future, where [digital nomad]s roam the digital highways, the [vlog] has evolved into an immersive experience. Here, creators, often styled as [v-tuber]s, blend the aesthetics of [vaporwave] with cutting-edge technology to produce content that is both a reflection and a critique of the digital age. Through their lens, viewers are offered a glimpse into the vibrant underbelly of cybernetic cities, exploring themes of identity, technology, and the ethereal nature of virtual existence. Vlogs, in this era, are not just personal diaries but are considered as digital tapestries that weave together the complex relationship between humans and the increasingly sentient digital realm.\"\n}"
+  },
+  {
+    "word": "vodou",
+    "connections": [
+      "shaman"
+    ],
+    "description": "{\n  \"word\": \"vodou\",\n  \"description\": \"Vodou, a rich and complex spiritual practice, originated in Haiti and combines elements of African religions, Catholicism, and native Taino beliefs. Central to vodou is the concept of connection between the physical and spiritual worlds, facilitated by [shaman]-like figures known as 'houngans' (male priests) and 'mambos' (female priestesses). These spiritual leaders guide practitioners in rituals, which often involve communication with spirits (loa) through dance, music, and the creation of sacred spaces. Vodou's portrayal in popular media as dark or malevolent is a gross oversimplification of a faith that, at its core, is about community, protection, and the healing power of the spirits.\"\n}"
+  },
+  {
+    "word": "vogueing",
+    "connections": [],
+    "description": "{\n  \"word\": \"vogueing\",\n  \"description\": \"Vogueing is a highly stylized, modern house dance originating in the late 20th century among the African American and Latino LGBTQ+ communities. Celebrated for its intricate movements, [dramatic] poses, and the [expression] of fierce individuality, vogueing not only challenges traditional notions of [gender] and [sexuality] but also serves as a powerful form of [social] commentary. Dancers compete in [battles] or performances, showcasing their ability to mimic the poses of models in fashion magazines, hence the name 'vogueing.' Over the years, this vibrant dance form has transcended its underground roots to influence mainstream [culture] and [fashion], remaining a dynamic symbol of resilience and [creativity].\"\n}"
+  },
+  {
+    "word": "vulnerability",
+    "connections": [
+      "empathy",
+      "healing"
+    ],
+    "description": "{\n  \"word\": \"vulnerability\",\n  \"description\": \"Vulnerability, a state often misconceived as a sign of weakness, has proven to be a powerful catalyst for fostering [empathy] and initiating the process of [healing]. It is in the moments of exposing one's true self, complete with fears and imperfections, that genuine connections are formed. By embracing vulnerability, individuals invite others to understand their authentic experiences, paving the way for mutual support and emotional growth. This intricate dance of openness not only strengthens relationships but also empowers communities to thrive through shared resilience and compassion.\"\n}"
+  },
+  {
+    "word": "wabi-sabi",
+    "connections": [
+      "zen",
+      "aesthetics",
+      "minimalism"
+    ],
+    "description": "{\n  \"word\": \"wabi-sabi\",\n  \"description\": \"[Wabi-sabi] is a profound concept in Japanese culture, embodying an appreciation for the beauty found in imperfection and transience. Rooted deeply in [Zen] Buddhism, it influences various aspects of life and art, advocating for simplicity, authenticity, and the serene acceptance of the natural cycle of growth and decay. This philosophy extends into [aesthetics], where it manifests through an appreciation for objects that reflect these imperfections, such as asymmetry and roughness, encouraging a minimalist approach to life that values the essence of nature and the beauty of fleeting moments. In a world that often pursues the ideal, wabi-sabi offers a refreshing perspective that finds depth in simplicity and significance in the marks of time and use.\"\n}"
+  },
+  {
+    "word": "waifu",
+    "connections": [
+      "otaku",
+      "kawaii",
+      "cosplay"
+    ],
+    "description": "{\n  \"word\": \"waifu\",\n  \"description\": \"In the heart of [otaku] culture, the term 'waifu' holds a special place, referring to a fictional character from anime, manga, or video games that one is deeply attracted to, often considering them as an ideal spouse. These characters are typically imbued with [kawaii] (cute) attributes, both in personality and appearance, endearing them to fans worldwide. Admirers of their waifu might express their affection through [cosplay], meticulously crafting costumes and adopting mannerisms of their beloved character in a celebration of their admiration and the vibrant community that shares their passion.\"\n}"
+  },
+  {
+    "word": "war paint",
+    "connections": [],
+    "description": "{\n  \"word\": \"war paint\",\n  \"description\": \"[War paint] is not merely a substance but a symbol, deeply ingrained in the fabric of various cultures around the world. Historically, it was applied before battle, serving both practical and psychological purposes. The colors and patterns of the [paint] were not arbitrary but held significant meaning, often intended to intimidate enemies or invoke protection from the divine. In many indigenous cultures, the act of applying [war paint] was a sacred ritual, imbued with prayers and chants to prepare the warrior spiritually and mentally for the challenges ahead. Beyond its martial origins, [war paint] has evolved, influencing modern expressions of identity and resistance, making it a powerful testament to the resilience and creativity of human societies.\"\n}"
+  },
+  {
+    "word": "wayfinding",
+    "connections": [
+      "urban explorer"
+    ],
+    "description": "{\n  \"word\": \"wayfinding\",\n  \"description\": \"Wayfinding, a complex process involving the use of [signs], [landmarks], and [maps], is essential for navigating through various environments, from dense urban jungles to sprawling outdoor spaces. It plays a crucial role in the experience of an [urban explorer], guiding them through cityscapes with cues that help in orienting and making decisions about routes. Effective wayfinding systems enhance the accessibility and navigability of cities, making them more welcoming and easier to explore. By integrating clear, intuitive designs, these systems not only support pedestrian movement but also enrich the urban exploration experience, connecting people to places with ease and efficiency.\"\n}"
+  },
+  {
+    "word": "bahay-kubo",
+    "connections": [],
+    "description": "{\n  \"word\": \"bahay-kubo\",\n  \"description\": \"The [bahay-kubo], a symbol of Philippine culture, represents more than just a humble abode. This traditional Filipino house, constructed from indigenous materials such as bamboo and nipa palm, epitomizes the concept of communal living and sustainability. Its architectural design, which includes a raised floor to protect from flooding and a steeply pitched roof to handle heavy rainfall, demonstrates an ingenious adaptation to the Philippines' tropical climate. Often surrounded by a variety of flora, the [bahay-kubo] stands not only as a residence but also as a testament to the Filipinos' harmonious relationship with nature, as immortalized in the popular folk song that enumerates the different vegetables grown around it. This iconic structure is a living reminder of simplicity, resilience, and the Filipino spirit of bayanihan or communal unity.\"\n}"
+  },
+  {
+    "word": "ballroom",
+    "connections": [
+      "vogueing",
+      "dancehall",
+      "flamenco"
+    ],
+    "description": "{\n  \"word\": \"ballroom\",\n  \"description\": \"At the heart of various dance cultures, the [ballroom] stands as a grand stage where expression and movement converge in a dazzling display. From the spirited steps of [flamenco], echoing the passionate essence of its Spanish origins, to the vibrant energy of [dancehall], a genre that pulsates with the rhythm of Jamaica, ballrooms have hosted an array of dance forms. Notably, [vogueing], a dance that emerged from the LGBTQ+ communities of New York City, finds a unique space within ballroom walls, where performers strike poses inspired by the pages of fashion magazines. Each dance, whether steeped in tradition or bursting with contemporary flair, contributes to the rich tapestry of ballroom culture, making it a place where every movement tells a story.\"\n}"
+  },
+  {
+    "word": "banksy",
+    "connections": [
+      "street art",
+      "subvertising",
+      "urban explorer"
+    ],
+    "description": "{\n  \"word\": \"banksy\",\n  \"description\": \"[Banksy] is a pseudonymous England-based street artist, political activist, and film director, whose real identity remains unconfirmed and the subject of much speculation. Known for his satirical [street art] and [subvertising], Banksy's works of political and social commentary have been featured on streets, walls, and bridges of cities throughout the world. Often utilizing a distinctive stenciling technique, his art combines dark humor with graffiti executed in a distinctive stenciling technique. This enigmatic artist is also an [urban explorer], navigating the back alleys of the urban landscape to place his art in often unexpected places, making his work an integral part of the environment it critiques.\"\n}"
+  },
+  {
+    "word": "bants",
+    "connections": [
+      "dystopia",
+      "cyberpunk",
+      "retrofuturism"
+    ],
+    "description": "{\n  \"word\": \"bants\",\n  \"description\": \"Bants, a colloquial term derived from 'banter', encapsulates lighthearted teasing or joking among friends. Within the context of [dystopia] and [cyberpunk], bants gains a nuanced layer, reflecting the camaraderie and resilience among characters navigating the grim, high-tech urban landscapes. It serves as a linguistic bridge to [retrofuturism], where the fusion of past and future stylistic themes emphasizes the enduring human spirit amid technological and societal upheaval. In these settings, bants is not just casual chatter but a subtle act of defiance against the dehumanizing forces at play, reminding us of the strength found in human connection and humor.\"\n}"
+  },
+  {
+    "word": "barbarella",
+    "connections": [
+      "glam rock",
+      "cyberpunk",
+      "bartering"
+    ],
+    "description": "{\n  \"word\": \"barbarella\",\n  \"description\": \"[Barbarella], a cult classic film from the 1960s, marvelously intertwines elements of [glam rock] aesthetics with the nascent themes of [cyberpunk], presenting a future where fashion, technology, and adventure collide in vibrant ways. Its iconic protagonist navigates through a universe where traditional currency is eschewed, highlighting the nuances of [bartering] in a society that values information, intrigue, and sensuality above material wealth. This film not only entertained but also subtly critiqued contemporary social norms, embedding itself in the cultural lexicon as a symbol of futuristic fantasy and sexual liberation.\"\n}"
+  },
+  {
+    "word": "bard",
+    "connections": [
+      "griot"
+    ],
+    "description": "{\n  \"word\": \"bard\",\n  \"description\": \"A [bard] is a figure steeped in the traditions of storytelling, often revered for their ability to weave narratives through song and poetry. Much like their African counterpart, the [griot], bards served as the custodians of history and culture, passing down tales of valor, love, and epic battles from one generation to the next. Both bards and griots played pivotal roles in preserving oral histories, each employing their unique styles and instruments to captivate and educate their audiences. Through the melodious echoes of a bard's lute or the rhythmic cadence of a griot's kora, these storytellers have immortalized the essence of human experiences, bridging the past with the present.\"\n}"
+  },
+  {
+    "word": "barefoot-college",
+    "connections": [
+      "solarpunk",
+      "upcycling",
+      "unschooling",
+      "permaculture",
+      "bushcraft"
+    ],
+    "description": "{\n  \"word\": \"barefoot-college\",\n  \"description\": \"Barefoot College stands as a beacon of innovation and sustainability, embodying principles of [solarpunk] by harnessing solar energy to empower rural communities. This pioneering institution transcends traditional education methods, aligning closely with [unschooling] philosophies that prioritize learning through doing, curiosity, and real-world experiences over formal classroom instruction. Emphasizing [upcycling], Barefoot College transforms waste into resources, teaching individuals how to repurpose materials creatively in a bid to combat environmental degradation. The college's curriculum integrates [permaculture] design principles, fostering ecosystems that work in harmony with nature, while also incorporating [bushcraft] skills, enabling students to live sustainably and independently by utilizing the natural environment. Through this unique educational model, Barefoot College cultivates a generation of eco-conscious leaders, equipped to face the challenges of sustainability with ingenuity and resilience.\"\n}"
+  },
+  {
+    "word": "bartering",
+    "connections": [
+      "haggle",
+      "bazaar",
+      "exchange"
+    ],
+    "description": "{\"word\": \"bartering\", \"description\": \"Bartering is an ancient practice of [exchange], where goods or services are traded directly without the use of money. This system thrives on the principle of mutual benefit, often requiring participants to [haggle] to agree on the value of the items being exchanged. Historically, bartering was a common activity in traditional marketplaces, known as [bazaars], where the lively negotiations and diverse offerings created a dynamic economic environment. Even in modern times, bartering has seen a resurgence, especially in communities aiming to reduce dependency on cash and foster closer economic ties among members.\"}"
+  },
+  {
+    "word": "basquiat",
+    "connections": [
+      "punk"
+    ],
+    "description": "{\"word\": \"basquiat\", \"description\": \"Jean-Michel Basquiat, an iconic figure of the 1980s New York art scene, embodied the spirit of the [punk] movement through his graffiti-inspired artwork. Emerging from the streets of Brooklyn, Basquiat's work was raw, rebellious, and imbued with socio-political commentary, mirroring the [punk] ethos of anti-establishment and self-expression. His unique synthesis of words, symbols, and vibrant colors captured the attention of the art world, making him a pivotal figure in bringing 'street art' to the gallery. Basquiat's legacy is a testament to the power of art as a form of resistance, echoing the [punk] philosophy of challenging norms and celebrating individuality.\"}"
+  },
+  {
+    "word": "bazaar",
+    "connections": [
+      "gossip",
+      "bartering",
+      "souk",
+      "market"
+    ],
+    "description": "{\n  \"word\": \"bazaar\",\n  \"description\": \"A [bazaar] is a vibrant marketplace, often synonymous with the Middle Eastern [souk], where the air is thick with the aroma of spices and the sound of [bartering]. It's a place where [gossip] flows as freely as the exchange of goods, from intricately woven carpets to handcrafted jewelry. Each stall and shop within the [bazaar] tells a story, inviting visitors to immerse themselves in a rich tapestry of culture and commerce, making it far more than just a [market] but a bustling hub of community life.\"\n}"
+  },
+  {
+    "word": "beatnik",
+    "connections": [
+      "cyberpunk",
+      "dystopia",
+      "grunge",
+      "punk"
+    ],
+    "description": "{\n  \"word\": \"beatnik\",\n  \"description\": \"Emerging in the 1950s, the [beatnik] culture was a precursor to later countercultural movements, intertwining a love for spontaneous poetry, jazz, and existential meanderings. Unlike the [cyberpunk] genre that delves into a [dystopia] of high-tech and low life, beatniks sought to find beauty in the mundane, often through a lens of smoky coffeehouses and beat poetry. Their influence can be seen in the raw, unfiltered attitudes of [punk] and the gritty, authentic textures of [grunge], creating a throughline from the beat generation to the rebellious music and fashion of the 1980s and 1990s. Beatniks, with their characteristic turtlenecks and berets, challenged societal norms with a quiet intensity, laying the groundwork for the louder, more aggressive protests of future generations against a backdrop of perceived societal decay.\"\n}"
+  },
+  {
+    "word": "bedouin",
+    "connections": [
+      "nomad",
+      "nomad"
+    ],
+    "description": "{\n  \"word\": \"bedouin\",\n  \"description\": \"The [Bedouin] represent a group of [nomadic] Arab people who have historically inhabited the desert regions in the Arabian Peninsula, North Africa, and the Levant. Their way of life is centered around moving from one place to another, following water sources and grazing areas for their herds. The [nomad] lifestyle of the Bedouin is characterized by their tents made of goat or camel hair, known as 'beit al-sha'ar' or 'house of hair,' which can be easily dismantled and transported as they traverse the harsh desert landscapes. This [nomadic] existence has deeply influenced their culture, social structures, and even poetry, which often celebrates the virtues of endurance, freedom, and the stark beauty of their environment.\"\n}"
+  },
+  {
+    "word": "beef",
+    "connections": [],
+    "description": "{\n  \"word\": \"beef\",\n  \"description\": \"Beef, the culinary name for meat from cattle, has been a staple in diets around the world, rich in [protein] and packed with essential nutrients such as [iron] and [vitamin B12]. This versatile ingredient can be prepared in myriad ways, from the slow-cooked tenderness of a [stew] to the charred perfection of a grilled [steak], making it a beloved choice among both chefs and home cooks. Beyond its culinary uses, beef has also played a significant role in various cultures and economies, symbolizing prosperity and wealth in some societies, while also being at the center of dietary and environmental debates in others. Regardless of its controversies, beef continues to be a significant part of the global food landscape, showcasing the complexity of human dietary preferences and agricultural practices.\"\n}"
+  },
+  {
+    "word": "bell bottoms",
+    "connections": [
+      "retro"
+    ],
+    "description": "{\n  \"word\": \"bell bottoms\",\n  \"description\": \"Emerging as a [retro] fashion icon, [bell bottoms] epitomize the vibrant and eclectic style of the 1960s and 1970s. Characterized by their distinctive flare below the knee, they served not only as a hallmark of [hippie] culture but also as a symbol of rebellion against conventional attire. With their roots in naval uniforms, bell bottoms transitioned to the mainstream, capturing the era's spirit of freedom and experimentation. Today, they continue to make periodic comebacks, appealing to those who wish to channel a [vintage] vibe, proving that some aspects of fashion are truly timeless.\"\n}"
+  },
+  {
+    "word": "berdache",
+    "connections": [
+      "two spirit",
+      "anansesem",
+      "haiku",
+      "haka",
+      "hijra"
+    ],
+    "description": "{\n  \"word\": \"berdache\",\n  \"description\": \"Historically, the term 'berdache' was used by European settlers to categorize indigenous North American individuals who embodied both masculine and feminine traits, engaging in roles and dressing in a manner atypical for their assigned gender. This term, now considered outdated and pejorative, has largely been replaced by 'two spirit', a concept that more accurately reflects the spiritual and cultural significance these individuals hold within their communities. Unlike the binary gender norms prevalent in Western society, many indigenous cultures recognize the fluidity and spectrum of gender, celebrating the unique balance and perspective brought by two-spirit people. This acknowledgment of gender variance is echoed in global cultures, from the 'hijra' in South Asia to historical accounts similar to 'anansesem' tales in West Africa, emphasizing the universal presence and acceptance of non-binary identities. While not directly connected to 'haiku' or 'haka', which are specific cultural expressions from Japan and the Maori people of New Zealand, respectively, the role of two-spirit individuals often includes being custodians of cultural knowledge and storytelling, weaving the fabric of their people's heritage through rituals, narratives, and sometimes, dance and poetry.\"\n}"
+  },
+  {
+    "word": "bhajan",
+    "connections": [
+      "bhakti",
+      "guru",
+      "sufi",
+      "sufism"
+    ],
+    "description": "{\n  \"word\": \"bhajan\",\n  \"description\": \"A [bhajan] is a devotional song deeply rooted in the [bhakti] movement, expressing love and adoration for the divine. These spiritual melodies, often sung in groups, serve as a medium for devotees to connect with their [guru] or deity through music. While [bhajan] is primarily associated with Hinduism, its influence extends to [Sufism] as well, where similar forms of devotional music, echoing the [Sufi] tradition's emphasis on the mystic union with the divine, are cherished. The practice embodies a universal appeal, transcending religious boundaries and fostering a sense of communal harmony and spiritual upliftment.\"\n}"
+  },
+  {
+    "word": "bhakti",
+    "connections": [
+      "bhajan"
+    ],
+    "description": "{\"word\": \"bhakti\", \"description\": \"[Bhakti] is a spiritual path or practice within Hinduism focused on loving devotion towards a personal deity. It represents a form of worship that transcends mere ritualistic practices, aiming to establish a direct, emotional connection with the divine. Central to this devotional movement is the [bhajan], a type of devotional song that expresses the devotee's love, adoration, and surrender to their chosen deity. Through the melodious verses of a bhajan, practitioners of bhakti seek to immerse themselves in the divine presence, making both the song and its sentiment crucial components of this heartfelt spiritual journey.\"}"
+  },
+  {
+    "word": "binge watching",
+    "connections": [],
+    "description": "{\n  \"word\": \"binge watching\",\n  \"description\": \"Binge watching, a phenomenon that surged in popularity with the advent of streaming services, refers to the practice of watching multiple episodes of a [television series] or a significant segment of a [movie] series in a single sitting. This behavior is fueled by the instant access to entire seasons of content, enabling viewers to immerse themselves in a story without the interruption of waiting for weekly broadcasts. The allure of finding out what happens next in the plot, combined with the convenience of [streaming platforms], has transformed how audiences consume media, making binge watching a mainstream mode of entertainment. Critics and psychologists often discuss its impact on [attention spans] and sleep patterns, highlighting a cultural shift in media consumption habits.\"\n}"
+  },
+  {
+    "word": "bio-art",
+    "connections": [
+      "biopunk",
+      "bio-tech",
+      "neuro-punk",
+      "neuro art",
+      "bio luminescent jungle"
+    ],
+    "description": "{\n  \"word\": \"bio-art\",\n  \"description\": \"Bio-art, a fascinating fusion of biology and artistic expression, delves into the intersection where living forms become a canvas for creativity. This avant-garde genre often draws upon elements of [biopunk] and [bio-tech], infusing them with aesthetic considerations to explore themes of life, identity, and the future. Artists working in this domain might cultivate [bio luminescent jungle] environments or integrate [neuro-punk] aesthetics, employing cutting-edge techniques to manipulate living tissues into thought-provoking installations. From sculptures that respond to viewers' emotions using neurotechnology to living paintings that evolve, bio-art challenges our perceptions of art and life, making us ponder the ethical implications of biotechnological advancements.\"\n}"
+  },
+  {
+    "word": "bio hacking",
+    "connections": [
+      "cyberpunk",
+      "bio-art",
+      "biopunk",
+      "neuro-punk",
+      "cyborg"
+    ],
+    "description": "{\n  \"word\": \"bio hacking\",\n  \"description\": \"[Bio hacking] represents the frontier where cutting-edge science meets the DIY ethos of the [cyberpunk] and [biopunk] subcultures, entwining with aspects of [bio-art] to challenge our understanding of life itself. At its core, [bio hacking] is the practice of modifying the human condition through self-experimentation, aiming to enhance physical and cognitive performance. This practice often draws from the imagery and themes of [neuro-punk], exploring the integration of biological and technological advancements to evolve beyond natural limitations. The ultimate symbol of [bio hacking]'s aspirations is the [cyborg], a fusion of organic and synthetic, epitomizing the quest for transcendence and improvement beyond conventional human capabilities.\"\n}"
+  },
+  {
+    "word": "bio luminescent jungle",
+    "connections": [
+      "bioluminescence",
+      "biopunk",
+      "bio-art",
+      "bio-tech"
+    ]
+  },
+  {
+    "word": "bio-tech",
+    "connections": [
+      "biopunk",
+      "neural lace",
+      "cyborg",
+      "cyberspace",
+      "data mining"
+    ]
+  },
+  {
+    "word": "biohacking",
+    "connections": [
+      "biopunk",
+      "neural lace",
+      "bio-tech",
+      "cyborg",
+      "digital nomad"
+    ]
+  },
+  {
+    "word": "bioluminescence",
+    "connections": [
+      "bio-tech",
+      "biopunk",
+      "neuro-punk",
+      "neuro art",
+      "bio-art"
+    ]
+  },
+  {
+    "word": "biomancy",
+    "connections": [
+      "bio-tech",
+      "biopunk",
+      "neuro-punk",
+      "cybernetics",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "biopunk",
+    "connections": [
+      "cyberpunk",
+      "neuro-punk",
+      "dieselpunk",
+      "post-humanism"
+    ]
+  },
+  {
+    "word": "bladerunner",
+    "connections": [
+      "cyberpunk",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "blessing",
+    "connections": [
+      "grimoire",
+      "divine",
+      "mana",
+      "shaman"
+    ]
+  },
+  {
+    "word": "blockbuster",
+    "connections": []
+  },
+  {
+    "word": "bodabil",
+    "connections": [
+      "vaudeville",
+      "bohemian"
+    ]
+  },
+  {
+    "word": "side quest",
+    "connections": [
+      "side gig"
+    ]
+  },
+  {
+    "word": "sijo",
+    "connections": [
+      "haiku",
+      "wabi-sabi",
+      "zen"
+    ]
+  },
+  {
+    "word": "simmer",
+    "connections": []
+  },
+  {
+    "word": "sinbad",
+    "connections": [
+      "arabesque"
+    ]
+  },
+  {
+    "word": "singularity",
+    "connections": [
+      "cybernetics",
+      "cyberspace",
+      "cyborg",
+      "neural lace"
+    ]
+  },
+  {
+    "word": "sisu",
+    "connections": [
+      "hustle",
+      "survivalist",
+      "stoicism"
+    ]
+  },
+  {
+    "word": "sitcom",
+    "connections": []
+  },
+  {
+    "word": "ska",
+    "connections": [
+      "reggae",
+      "dancehall",
+      "dub"
+    ]
+  },
+  {
+    "word": "skate punk",
+    "connections": [
+      "punk",
+      "grunge",
+      "anarchism"
+    ]
+  },
+  {
+    "word": "skinhead",
+    "connections": [
+      "grunge",
+      "punk",
+      "ska"
+    ]
+  },
+  {
+    "word": "slay",
+    "connections": [
+      "vampire",
+      "hacker",
+      "cyberpunk",
+      "hacktivism"
+    ]
+  },
+  {
+    "word": "slow food",
+    "connections": [
+      "permaculture",
+      "slow living",
+      "soul food"
+    ]
+  },
+  {
+    "word": "slow living",
+    "connections": [
+      "minimalism",
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "smudging",
+    "connections": []
+  },
+  {
+    "word": "soap opera",
+    "connections": [
+      "telenovela",
+      "reality tv",
+      "fan fiction",
+      "celebrity gossip"
+    ]
+  },
+  {
+    "word": "soca",
+    "connections": [
+      "reggae",
+      "dancehall",
+      "calypso",
+      "carnival"
+    ]
+  },
+  {
+    "word": "socratic method",
+    "connections": [
+      "stoicism"
+    ]
+  },
+  {
+    "word": "sojourner",
+    "connections": [
+      "sufism",
+      "sankofa",
+      "limbo",
+      "diaspora",
+      "pilgrimage"
+    ]
+  },
+  {
+    "word": "solarpunk",
+    "connections": [
+      "post-humanism",
+      "retrofuturism",
+      "afrofuturism",
+      "cyberpunk",
+      "biopunk"
+    ]
+  },
+  {
+    "word": "solastalgia",
+    "connections": [
+      "nostalgia",
+      "homesick",
+      "dystopia",
+      "solarpunk"
+    ]
+  },
+  {
+    "word": "sommelier",
+    "connections": []
+  },
+  {
+    "word": "souk",
+    "connections": [
+      "bazaar",
+      "market",
+      "haggle",
+      "bartering",
+      "souvenir"
+    ]
+  },
+  {
+    "word": "soul food",
+    "connections": [
+      "comfort",
+      "healing",
+      "heritage"
+    ]
+  },
+  {
+    "word": "souvenir",
+    "connections": [
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "sovereignty",
+    "connections": [
+      "anarchism",
+      "autodidact",
+      "afrofuturism",
+      "indigenous knowledge",
+      "post-colonialism"
+    ]
+  },
+  {
+    "word": "soylent",
+    "connections": [
+      "cyberpunk",
+      "dystopia",
+      "biohacking",
+      "post-humanism",
+      "neuro-punk"
+    ]
+  },
+  {
+    "word": "space",
+    "connections": [
+      "space suit",
+      "space opera",
+      "cyberspace",
+      "retrofuturism",
+      "cosmonaut"
+    ]
+  },
+  {
+    "word": "space opera",
+    "connections": [
+      "cyberpunk",
+      "space suit",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "space suit",
+    "connections": [
+      "space",
+      "astral projection",
+      "cyberpunk",
+      "cyberspace",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "spanglish",
+    "connections": []
+  },
+  {
+    "word": "speakeasy",
+    "connections": [
+      "flapper"
+    ]
+  },
+  {
+    "word": "speculative",
+    "connections": [
+      "cyberpunk",
+      "post-humanism",
+      "afrofuturism",
+      "retrofuturism",
+      "neuro-punk"
+    ]
+  },
+  {
+    "word": "speedrun",
+    "connections": []
+  },
+  {
+    "word": "spelunking",
+    "connections": []
+  },
+  {
+    "word": "sputnik",
+    "connections": [
+      "space"
+    ]
+  },
+  {
+    "word": "squat",
+    "connections": [
+      "anarchism",
+      "urban explorer",
+      "bunker"
+    ]
+  },
+  {
+    "word": "stan",
+    "connections": [
+      "stardew valley",
+      "vaporwave",
+      "meme",
+      "fan fiction",
+      "fandom"
+    ]
+  },
+  {
+    "word": "star trek",
+    "connections": [
+      "space",
+      "starfarer",
+      "space opera"
+    ]
+  },
+  {
+    "word": "stardew valley",
+    "connections": []
+  },
+  {
+    "word": "starfarer",
+    "connections": [
+      "star trek",
+      "space opera",
+      "cybernetics",
+      "cyberspace",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "startup",
+    "connections": [
+      "hacker"
+    ]
+  },
+  {
+    "word": "stasis",
+    "connections": []
+  },
+  {
+    "word": "steampunk",
+    "connections": [
+      "dieselpunk",
+      "biopunk",
+      "cyberpunk",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "steel pan",
+    "connections": []
+  },
+  {
+    "word": "stereotype",
+    "connections": []
+  },
+  {
+    "word": "stim",
+    "connections": []
+  },
+  {
+    "word": "stim toy",
+    "connections": []
+  },
+  {
+    "word": "stoa",
+    "connections": [
+      "stoicism",
+      "ascetic",
+      "zen",
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "stoicism",
+    "connections": []
+  },
+  {
+    "word": "stowaway",
+    "connections": [
+      "ship"
+    ]
+  },
+  {
+    "word": "street art",
+    "connections": [
+      "muralism"
+    ]
+  },
+  {
+    "word": "street performer",
+    "connections": []
+  },
+  {
+    "word": "street wear",
+    "connections": [
+      "subvertising",
+      "slow living",
+      "street performer",
+      "street art"
+    ]
+  },
+  {
+    "word": "subvertising",
+    "connections": [
+      "meme",
+      "hacktivism",
+      "propaganda",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "sufi",
+    "connections": [
+      "sufism",
+      "griot",
+      "dervish",
+      "shaman",
+      "bodhisattva"
+    ]
+  },
+  {
+    "word": "sufi whirling",
+    "connections": [
+      "sufism"
+    ]
+  },
+  {
+    "word": "sufism",
+    "connections": [
+      "divine",
+      "ascetic",
+      "sufi"
+    ]
+  },
+  {
+    "word": "surrealism",
+    "connections": [
+      "dadaism",
+      "absurdism",
+      "psychedelia",
+      "dreamtime"
+    ]
+  },
+  {
+    "word": "survivalist",
+    "connections": [
+      "bushcraft"
+    ]
+  },
+  {
+    "word": "susu",
+    "connections": [
+      "gossip",
+      "cyber-goth",
+      "neuro-punk",
+      "cybernetics",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "apathy",
+    "connections": [
+      "ennui",
+      "existentialism"
+    ]
+  },
+  {
+    "word": "aporia",
+    "connections": [
+      "rizz",
+      "scholarship",
+      "scholasticism",
+      "scientist",
+      "cybernetics"
+    ]
+  },
+  {
+    "word": "apothecary",
+    "connections": [
+      "herbalism",
+      "elixir"
+    ]
+  },
+  {
+    "word": "arabesque",
+    "connections": [
+      "calligraphy",
+      "muralism"
+    ]
+  },
+  {
+    "word": "arcadia",
+    "connections": [
+      "utopia"
+    ]
+  },
+  {
+    "word": "archive",
+    "connections": [
+      "data mining"
+    ]
+  },
+  {
+    "word": "arcology",
+    "connections": [
+      "utopia",
+      "dystopia",
+      "cyberpunk",
+      "solarpunk"
+    ]
+  },
+  {
+    "word": "ascetic",
+    "connections": []
+  },
+  {
+    "word": "ashram",
+    "connections": [
+      "guru",
+      "yoga"
+    ]
+  },
+  {
+    "word": "asmr",
+    "connections": [
+      "neurodiversity",
+      "neuro-punk",
+      "cyber-goth",
+      "cybernetics",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "astral projection",
+    "connections": [
+      "dreamtime",
+      "shaman",
+      "cosmic"
+    ]
+  },
+  {
+    "word": "astrolabe",
+    "connections": []
+  },
+  {
+    "word": "astroturfing",
+    "connections": [
+      "propaganda"
+    ]
+  },
+  {
+    "word": "asylum",
+    "connections": [
+      "sanctuary"
+    ]
+  },
+  {
+    "word": "atari",
+    "connections": [
+      "retro gaming",
+      "cyberpunk",
+      "digital divide",
+      "synthwave"
+    ]
+  },
+  {
+    "word": "atma",
+    "connections": [
+      "samsara",
+      "moksha",
+      "dharma"
+    ]
+  },
+  {
+    "word": "atoll",
+    "connections": []
+  },
+  {
+    "word": "autodidact",
+    "connections": [
+      "unschooling"
+    ]
+  },
+  {
+    "word": "automation",
+    "connections": []
+  },
+  {
+    "word": "automaton",
+    "connections": [
+      "automation",
+      "cybernetics",
+      "cyborg",
+      "neural lace",
+      "data mining"
+    ]
+  },
+  {
+    "word": "avant-garde",
+    "connections": [
+      "cyberpunk",
+      "post-humanism",
+      "dystopia",
+      "speculative",
+      "biopunk"
+    ]
+  },
+  {
+    "word": "avatar",
+    "connections": [
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "ayahuasca",
+    "connections": [
+      "shaman"
+    ]
+  },
+  {
+    "word": "ayurveda",
+    "connections": [
+      "herbalism"
+    ]
+  },
+  {
+    "word": "azonto",
+    "connections": [
+      "dancehall",
+      "afrofuturism",
+      "dub",
+      "reggae"
+    ]
+  },
+  {
+    "word": "aztec",
+    "connections": []
+  },
+  {
+    "word": "b-boy",
+    "connections": []
+  },
+  {
+    "word": "b-movie",
+    "connections": [
+      "cult classic",
+      "retro",
+      "retrofuturism",
+      "film noir"
+    ]
+  },
+  {
+    "word": "bacchante",
+    "connections": []
+  },
+  {
+    "word": "backpacking",
+    "connections": []
+  },
+  {
+    "word": "wellness influencer",
+    "connections": [
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "weltschmerz",
+    "connections": [
+      "saudade",
+      "hiraeth",
+      "solastalgia",
+      "nostalgia critic",
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "wetware",
+    "connections": [
+      "cyberpunk",
+      "cyberspace",
+      "cyborg",
+      "biopunk",
+      "neuro-punk"
+    ]
+  },
+  {
+    "word": "whakapapa",
+    "connections": [
+      "heritage"
+    ]
+  },
+  {
+    "word": "wholesome meme",
+    "connections": [
+      "wellness influencer",
+      "feel-good",
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "witch house",
+    "connections": [
+      "haunting"
+    ]
+  },
+  {
+    "word": "woodstock",
+    "connections": []
+  },
+  {
+    "word": "world building",
+    "connections": [
+      "dystopia",
+      "cyberpunk",
+      "post-humanism",
+      "retrofuturism",
+      "urban planning"
+    ]
+  },
+  {
+    "word": "wuxia",
+    "connections": [
+      "chivalry"
+    ]
+  },
+  {
+    "word": "y-generation",
+    "connections": [
+      "gen z humor",
+      "gender fluid",
+      "gender reveal",
+      "genderfluid",
+      "gene sequencing"
+    ]
+  },
+  {
+    "word": "y2k bug",
+    "connections": []
+  },
+  {
+    "word": "yakuza",
+    "connections": []
+  },
+  {
+    "word": "yandere",
+    "connections": []
+  },
+  {
+    "word": "yassify",
+    "connections": [
+      "queer coding",
+      "cyberpunk",
+      "retrofuturism",
+      "synthwave",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "yoga",
+    "connections": [
+      "mindfulness",
+      "kundalini",
+      "zen"
+    ]
+  },
+  {
+    "word": "yokai",
+    "connections": [
+      "yurei"
+    ]
+  },
+  {
+    "word": "yuanfen",
+    "connections": []
+  },
+  {
+    "word": "yugen",
+    "connections": [
+      "wabi-sabi",
+      "zen",
+      "zen garden",
+      "zen garden meditation",
+      "shibui"
+    ]
+  },
+  {
+    "word": "yurei",
+    "connections": [
+      "yokai",
+      "shibui"
+    ]
+  },
+  {
+    "word": "yurt",
+    "connections": [
+      "dervish",
+      "shibui",
+      "mindfulness",
+      "cosmic"
+    ]
+  },
+  {
+    "word": "zakat",
+    "connections": [
+      "zardozi"
+    ]
+  },
+  {
+    "word": "zardozi",
+    "connections": []
+  },
+  {
+    "word": "zeitgeist",
+    "connections": [
+      "saudade"
+    ]
+  },
+  {
+    "word": "zen",
+    "connections": [
+      "wabi-sabi",
+      "zen painting",
+      "zentalism",
+      "kintsugi",
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "zen garden",
+    "connections": [
+      "zen",
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "zen garden meditation",
+    "connections": [
+      "zen garden",
+      "wabi-sabi",
+      "mindfulness",
+      "shibui"
+    ]
+  },
+  {
+    "word": "zen painting",
+    "connections": [
+      "zen",
+      "zen garden",
+      "zen garden meditation",
+      "zentalism",
+      "wabi-sabi"
+    ]
+  },
+  {
+    "word": "zentalism",
+    "connections": [
+      "cyberpunk",
+      "dystopia",
+      "retrofuturism",
+      "neuro-punk",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "zoot suit",
+    "connections": [
+      "pachuco"
+    ]
+  },
+  {
+    "word": "harajuku",
+    "connections": [
+      "street wear",
+      "cosplay",
+      "kawaii",
+      "cyberpunk",
+      "neural lace"
+    ]
+  },
+  {
+    "word": "hard techno",
+    "connections": [
+      "industrial",
+      "cyber-goth",
+      "cybernetics",
+      "cyberspace",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "harem",
+    "connections": []
+  },
+  {
+    "word": "hater",
+    "connections": []
+  },
+  {
+    "word": "haunting",
+    "connections": [
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "haveli",
+    "connections": [
+      "heirloom",
+      "heritage",
+      "palaver",
+      "mukbang",
+      "haunting"
+    ]
+  },
+  {
+    "word": "headcanon",
+    "connections": [
+      "fan fiction",
+      "lore",
+      "meme",
+      "meta-modernism",
+      "queer coding"
+    ]
+  },
+  {
+    "word": "healing",
+    "connections": []
+  },
+  {
+    "word": "heart of darkness",
+    "connections": [
+      "dark matter",
+      "deep state",
+      "deathrock",
+      "delinquent",
+      "dervish"
+    ]
+  },
+  {
+    "word": "heirloom",
+    "connections": [
+      "heritage",
+      "healing"
+    ]
+  },
+  {
+    "word": "herbalism",
+    "connections": [
+      "witch house",
+      "shaman"
+    ]
+  },
+  {
+    "word": "heritage",
+    "connections": [
+      "heirloom",
+      "heirloom",
+      "lore",
+      "relic"
+    ]
+  },
+  {
+    "word": "hieroglyph",
+    "connections": [
+      "hierophany",
+      "petroglyph",
+      "curandera",
+      "muralism"
+    ]
+  },
+  {
+    "word": "hierophany",
+    "connections": [
+      "divine"
+    ]
+  },
+  {
+    "word": "highlife",
+    "connections": [
+      "hustle"
+    ]
+  },
+  {
+    "word": "hijab",
+    "connections": []
+  },
+  {
+    "word": "hijra",
+    "connections": [
+      "hijab",
+      "hikikomori",
+      "intersectionality",
+      "queer theory",
+      "transhumanism"
+    ]
+  },
+  {
+    "word": "hikikomori",
+    "connections": []
+  },
+  {
+    "word": "hip hop fashion",
+    "connections": [
+      "street wear",
+      "urban explorer",
+      "highlife"
+    ]
+  },
+  {
+    "word": "hiraeth",
+    "connections": [
+      "nostalgia",
+      "homesick",
+      "saudade",
+      "fernweh",
+      "solastalgia"
+    ]
+  },
+  {
+    "word": "hivemind",
+    "connections": [
+      "cyberpunk",
+      "neural lace",
+      "cyberspace",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "holodeck",
+    "connections": []
+  },
+  {
+    "word": "homecoming",
+    "connections": [
+      "homesick",
+      "hospice",
+      "homeschool",
+      "heirloom"
+    ]
+  },
+  {
+    "word": "homemaker",
+    "connections": [
+      "homestead",
+      "homesick",
+      "hospice",
+      "homeschool",
+      "homecoming"
+    ]
+  },
+  {
+    "word": "homeschool",
+    "connections": [
+      "unschooling",
+      "homestead",
+      "homesick",
+      "education"
+    ]
+  },
+  {
+    "word": "homesick",
+    "connections": [
+      "nostalgia",
+      "saudade"
+    ]
+  },
+  {
+    "word": "homestead",
+    "connections": [
+      "homemaker",
+      "homesick",
+      "hospice",
+      "house of wisdom",
+      "hq"
+    ]
+  },
+  {
+    "word": "hospice",
+    "connections": []
+  },
+  {
+    "word": "house of wisdom",
+    "connections": []
+  },
+  {
+    "word": "hq",
+    "connections": [
+      "neural lace",
+      "neuro-punk",
+      "cyberspace",
+      "cyborg",
+      "cybernetics"
+    ]
+  },
+  {
+    "word": "muse",
+    "connections": [
+      "music theory",
+      "mentorship",
+      "manifesto",
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "music theory",
+    "connections": [
+      "neuro-punk",
+      "neurodiversity",
+      "neuro art",
+      "neural lace",
+      "post-humanism"
+    ]
+  },
+  {
+    "word": "music therapy",
+    "connections": [
+      "neurodiversity",
+      "healing"
+    ]
+  },
+  {
+    "word": "mutual aid",
+    "connections": []
+  },
+  {
+    "word": "nanotech",
+    "connections": [
+      "neural lace",
+      "cyber-goth",
+      "cybernetics",
+      "cyberspace",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "negging",
+    "connections": [
+      "gaslighting"
+    ]
+  },
+  {
+    "word": "net art",
+    "connections": [
+      "cyber-goth",
+      "cyber-grief",
+      "cybernetics",
+      "cyberpunk",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "neural lace",
+    "connections": [
+      "cyberpunk",
+      "neuro-punk",
+      "cyborg",
+      "neurodiversity"
+    ]
+  },
+  {
+    "word": "neuro art",
+    "connections": [
+      "neural lace",
+      "neuro-punk",
+      "neurodiversity",
+      "neurotypical",
+      "nootropics"
+    ]
+  },
+  {
+    "word": "neuro-punk",
+    "connections": [
+      "cyberpunk",
+      "neural lace",
+      "cyberspace",
+      "cyborg",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "neurodiversity",
+    "connections": [
+      "neuro art",
+      "neuro-punk",
+      "neurotypical",
+      "new age"
+    ]
+  },
+  {
+    "word": "neurotypical",
+    "connections": [
+      "neurodiversity",
+      "neuro art",
+      "neuro-punk",
+      "new age"
+    ]
+  },
+  {
+    "word": "new age",
+    "connections": [
+      "new romantic",
+      "neuro-punk",
+      "neuro art",
+      "neurodiversity",
+      "neurotypical"
+    ]
+  },
+  {
+    "word": "new romantic",
+    "connections": [
+      "glam rock",
+      "goth",
+      "new age",
+      "retrofuturism",
+      "vaporwave"
+    ]
+  },
+  {
+    "word": "newspeak",
+    "connections": [
+      "dystopia",
+      "propaganda"
+    ]
+  },
+  {
+    "word": "nollywood",
+    "connections": [
+      "bollywood",
+      "cult classic",
+      "film noir",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "nomad",
+    "connections": [
+      "digital nomad"
+    ]
+  },
+  {
+    "word": "nootropics",
+    "connections": [
+      "biohacking",
+      "neuro-punk",
+      "digital nomad"
+    ]
+  },
+  {
+    "word": "normcore",
+    "connections": [
+      "minimalism",
+      "retro",
+      "slow living",
+      "urban explorer"
+    ]
+  },
+  {
+    "word": "nostalgia",
+    "connections": [
+      "retrofuturism",
+      "vaporwave",
+      "cyberpunk",
+      "solastalgia",
+      "haiku"
+    ]
+  },
+  {
+    "word": "nostalgia critic",
+    "connections": [
+      "nostalgia trip",
+      "retro",
+      "retro gaming",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "nostalgia trip",
+    "connections": [
+      "retrofuturism",
+      "nostalgia critic",
+      "vaporwave",
+      "retro gaming",
+      "retro"
+    ]
+  },
+  {
+    "word": "nu metal",
+    "connections": [
+      "industrial",
+      "emo",
+      "cyberpunk",
+      "dark matter",
+      "post-humanism"
+    ]
+  },
+  {
+    "word": "oasis",
+    "connections": [
+      "desert",
+      "nomad",
+      "bushcraft"
+    ]
+  },
+  {
+    "word": "obeah",
+    "connections": [
+      "obeah man",
+      "witch house",
+      "shaman"
+    ]
+  },
+  {
+    "word": "obeah man",
+    "connections": []
+  },
+  {
+    "word": "oddity",
+    "connections": []
+  },
+  {
+    "word": "off the grid",
+    "connections": [
+      "bushcraft",
+      "survivalist",
+      "herbalism"
+    ]
+  },
+  {
+    "word": "ofrenda",
+    "connections": [
+      "calypso",
+      "bollywood",
+      "vampire"
+    ]
+  },
+  {
+    "word": "old testament",
+    "connections": [
+      "diaspora",
+      "post-colonialism"
+    ]
+  },
+  {
+    "word": "capoeira",
+    "connections": [
+      "dancehall",
+      "carnival",
+      "bazaar"
+    ]
+  },
+  {
+    "word": "care",
+    "connections": [
+      "empathy"
+    ]
+  },
+  {
+    "word": "carnival",
+    "connections": []
+  },
+  {
+    "word": "carpe-diem",
+    "connections": [
+      "nostalgia",
+      "saudade",
+      "zeitgeist",
+      "utopia",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "case study",
+    "connections": []
+  },
+  {
+    "word": "cassette futurism",
+    "connections": [
+      "dystopia",
+      "cyberpunk",
+      "retrofuturism",
+      "vaporwave",
+      "post-humanism"
+    ]
+  },
+  {
+    "word": "cat-girl",
+    "connections": [
+      "cosplay"
+    ]
+  },
+  {
+    "word": "catacomb",
+    "connections": [
+      "cryptid",
+      "deathrock",
+      "dungeon crawl",
+      "dark matter"
+    ]
+  },
+  {
+    "word": "catfishing",
+    "connections": [
+      "cat-girl"
+    ]
+  },
+  {
+    "word": "catharsis",
+    "connections": [
+      "healing",
+      "empathy"
+    ]
+  },
+  {
+    "word": "celebrity gossip",
+    "connections": []
+  },
+  {
+    "word": "chaat",
+    "connections": [
+      "street wear",
+      "cyberpunk",
+      "dystopia",
+      "bazaar",
+      "fast fashion"
+    ]
+  },
+  {
+    "word": "chai latte",
+    "connections": [
+      "teahouse",
+      "tawhid",
+      "gakuran",
+      "chindogu",
+      "chivalry"
+    ]
+  },
+  {
+    "word": "chakra",
+    "connections": [
+      "kundalini",
+      "kundalini",
+      "yoga",
+      "ayurveda"
+    ]
+  },
+  {
+    "word": "chant",
+    "connections": []
+  },
+  {
+    "word": "chicha",
+    "connections": [
+      "gossip",
+      "grimoire",
+      "shibui"
+    ]
+  },
+  {
+    "word": "chindogu",
+    "connections": []
+  },
+  {
+    "word": "chivalry",
+    "connections": []
+  },
+  {
+    "word": "cholo",
+    "connections": []
+  },
+  {
+    "word": "chosen family",
+    "connections": []
+  },
+  {
+    "word": "class action",
+    "connections": [
+      "class war",
+      "clicktivism",
+      "riot-grrrl",
+      "proletariat",
+      "resistance"
+    ]
+  },
+  {
+    "word": "class war",
+    "connections": [
+      "class action",
+      "cyberpunk",
+      "proletariat",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "click farm",
+    "connections": [
+      "propaganda",
+      "algorithm"
+    ]
+  },
+  {
+    "word": "clicktivism",
+    "connections": [
+      "hacktivism"
+    ]
+  },
+  {
+    "word": "closure",
+    "connections": [
+      "healing",
+      "comfort"
+    ]
+  },
+  {
+    "word": "clown-core",
+    "connections": []
+  },
+  {
+    "word": "club-kid",
+    "connections": [
+      "favela",
+      "cyberpunk",
+      "rave",
+      "subvertising"
+    ]
+  },
+  {
+    "word": "co-living",
+    "connections": [
+      "co-op",
+      "startup",
+      "collective"
+    ]
+  },
+  {
+    "word": "co-op",
+    "connections": [
+      "union",
+      "mutual aid",
+      "collective",
+      "commons"
+    ]
+  },
+  {
+    "word": "co-regulation",
+    "connections": [
+      "neurodiversity",
+      "reggae",
+      "restorative justice",
+      "synesthesia",
+      "syncretism"
+    ]
+  },
+  {
+    "word": "rickroll",
+    "connections": [
+      "troll farm",
+      "meme",
+      "flame war",
+      "data mining",
+      "dark web"
+    ]
+  },
+  {
+    "word": "riot-grrrl",
+    "connections": [
+      "punk"
+    ]
+  },
+  {
+    "word": "rivethead",
+    "connections": [
+      "cyber-goth",
+      "cyber-grief",
+      "cybernetics",
+      "cyberpunk",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "rizz",
+    "connections": [
+      "grinder",
+      "groovy",
+      "guru",
+      "gundam"
+    ]
+  },
+  {
+    "word": "rockabilly",
+    "connections": [
+      "punk",
+      "greaser",
+      "psychobilly",
+      "ruin porn"
+    ]
+  },
+  {
+    "word": "roda",
+    "connections": [
+      "capoeira"
+    ]
+  },
+  {
+    "word": "rude boy",
+    "connections": [
+      "ska",
+      "reggae",
+      "dancehall"
+    ]
+  },
+  {
+    "word": "ruin porn",
+    "connections": []
+  },
+  {
+    "word": "rumi",
+    "connections": [
+      "wholesome meme",
+      "whakapapa"
+    ]
+  },
+  {
+    "word": "sabbatical",
+    "connections": []
+  },
+  {
+    "word": "sacred grove",
+    "connections": [
+      "shaman",
+      "sangoma",
+      "santeria",
+      "sankofa"
+    ]
+  },
+  {
+    "word": "sadhu",
+    "connections": [
+      "guru",
+      "samadhi",
+      "sangoma",
+      "sankofa",
+      "sufism"
+    ]
+  },
+  {
+    "word": "sagas",
+    "connections": [
+      "lore"
+    ]
+  },
+  {
+    "word": "salaryman",
+    "connections": [
+      "uniform"
+    ]
+  },
+  {
+    "word": "salon",
+    "connections": []
+  },
+  {
+    "word": "samadhi",
+    "connections": [
+      "zen"
+    ]
+  },
+  {
+    "word": "samizdat",
+    "connections": []
+  },
+  {
+    "word": "samovar",
+    "connections": [
+      "samsara"
+    ]
+  },
+  {
+    "word": "samsara",
+    "connections": []
+  },
+  {
+    "word": "samurai",
+    "connections": [
+      "bushido",
+      "shogun"
+    ]
+  },
+  {
+    "word": "sanctuary",
+    "connections": []
+  },
+  {
+    "word": "sangoma",
+    "connections": []
+  },
+  {
+    "word": "sankofa",
+    "connections": [
+      "heritage"
+    ]
+  },
+  {
+    "word": "sankore university",
+    "connections": []
+  },
+  {
+    "word": "santeria",
+    "connections": [
+      "syncretism"
+    ]
+  },
+  {
+    "word": "sapeur",
+    "connections": [
+      "dandy",
+      "urban explorer",
+      "bouba-kiki",
+      "b-movie",
+      "fela-kuti"
+    ]
+  },
+  {
+    "word": "sari",
+    "connections": []
+  },
+  {
+    "word": "sarmatian punk",
+    "connections": [
+      "dystopia",
+      "cyberpunk",
+      "industrial",
+      "post-humanism",
+      "cybernetics"
+    ]
+  },
+  {
+    "word": "sarong",
+    "connections": [
+      "bazaar",
+      "sari"
+    ]
+  },
+  {
+    "word": "satsang",
+    "connections": [
+      "sangoma",
+      "shikigami",
+      "shaman"
+    ]
+  },
+  {
+    "word": "eco-anxiety",
+    "connections": []
+  },
+  {
+    "word": "eco-grief",
+    "connections": [
+      "solastalgia",
+      "eco-anxiety"
+    ]
+  },
+  {
+    "word": "ed-tech",
+    "connections": [
+      "education",
+      "digital divide"
+    ]
+  },
+  {
+    "word": "education",
+    "connections": [
+      "unschooling",
+      "autodidact",
+      "neurodiversity",
+      "edutainment"
+    ]
+  },
+  {
+    "word": "edutainment",
+    "connections": [
+      "ed-tech",
+      "education"
+    ]
+  },
+  {
+    "word": "elegy",
+    "connections": [
+      "dirge",
+      "lament"
+    ]
+  },
+  {
+    "word": "elevator",
+    "connections": []
+  },
+  {
+    "word": "elixir",
+    "connections": []
+  },
+  {
+    "word": "emo",
+    "connections": [
+      "punk"
+    ]
+  },
+  {
+    "word": "empathy",
+    "connections": []
+  },
+  {
+    "word": "ennui",
+    "connections": [
+      "existentialism",
+      "eureka",
+      "e-sports",
+      "e-boy"
+    ]
+  },
+  {
+    "word": "eureka",
+    "connections": []
+  },
+  {
+    "word": "exchange",
+    "connections": [
+      "bartering"
+    ]
+  },
+  {
+    "word": "existentialism",
+    "connections": [
+      "absurdism",
+      "absurdist humor",
+      "dadaism",
+      "surrealism"
+    ]
+  },
+  {
+    "word": "exoplanet",
+    "connections": [
+      "dystopia",
+      "cyberpunk",
+      "post-humanism",
+      "retrofuturism",
+      "space opera"
+    ]
+  },
+  {
+    "word": "exorcism",
+    "connections": []
+  },
+  {
+    "word": "fae",
+    "connections": []
+  },
+  {
+    "word": "fallout",
+    "connections": []
+  },
+  {
+    "word": "fan dub",
+    "connections": [
+      "fan fiction",
+      "fandom",
+      "cosplay",
+      "meme",
+      "remix"
+    ]
+  },
+  {
+    "word": "fan fiction",
+    "connections": [
+      "fandom",
+      "fan dub"
+    ]
+  },
+  {
+    "word": "fandom",
+    "connections": [
+      "fan dub",
+      "fan fiction",
+      "farce",
+      "fast fashion",
+      "feel-good"
+    ]
+  },
+  {
+    "word": "farce",
+    "connections": [
+      "absurdism"
+    ]
+  },
+  {
+    "word": "fast fashion",
+    "connections": [
+      "overstimulation",
+      "burnout"
+    ]
+  },
+  {
+    "word": "favela",
+    "connections": []
+  },
+  {
+    "word": "feel-good",
+    "connections": [
+      "nostalgia",
+      "wholesome meme",
+      "comfort",
+      "healing",
+      "restorative justice"
+    ]
+  },
+  {
+    "word": "feels",
+    "connections": [
+      "nostalgia",
+      "empathy",
+      "eureka",
+      "healing",
+      "lament"
+    ]
+  },
+  {
+    "word": "fela-kuti",
+    "connections": []
+  },
+  {
+    "word": "fernweh",
+    "connections": [
+      "saudade",
+      "sehnsucht",
+      "hiraeth"
+    ]
+  },
+  {
+    "word": "feud",
+    "connections": []
+  },
+  {
+    "word": "filibuster",
+    "connections": []
+  },
+  {
+    "word": "hula",
+    "connections": [
+      "limbo",
+      "luau",
+      "taharah",
+      "tiki"
+    ]
+  },
+  {
+    "word": "hustle",
+    "connections": [
+      "hustle culture",
+      "side hustle",
+      "bodega",
+      "boot camp",
+      "burnout"
+    ]
+  },
+  {
+    "word": "hustle culture",
+    "connections": [
+      "grind",
+      "burnout",
+      "side hustle"
+    ]
+  },
+  {
+    "word": "hygge",
+    "connections": [
+      "cozy game",
+      "comfort",
+      "crafting"
+    ]
+  },
+  {
+    "word": "hyperfocus",
+    "connections": [
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "hyperpop",
+    "connections": [
+      "glitch",
+      "cyberspace",
+      "hyperfocus"
+    ]
+  },
+  {
+    "word": "if\u00e1",
+    "connections": [
+      "oracle"
+    ]
+  },
+  {
+    "word": "ikigai",
+    "connections": [
+      "existentialism",
+      "kintsugi",
+      "mindfulness",
+      "zen"
+    ]
+  },
+  {
+    "word": "indigenous futurism",
+    "connections": [
+      "indigenous knowledge",
+      "post-colonialism",
+      "afrofuturism",
+      "decolonize",
+      "sovereignty"
+    ]
+  },
+  {
+    "word": "indigenous knowledge",
+    "connections": [
+      "indigenous futurism",
+      "intersectionality",
+      "post-colonialism",
+      "decolonize"
+    ]
+  },
+  {
+    "word": "industrial",
+    "connections": [
+      "cyberpunk",
+      "steampunk",
+      "dieselpunk",
+      "retrofuturism",
+      "biopunk"
+    ]
+  },
+  {
+    "word": "inner child",
+    "connections": [
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "installation",
+    "connections": []
+  },
+  {
+    "word": "internment",
+    "connections": [
+      "dieselpunk",
+      "digital nomad",
+      "digital divide",
+      "digital twin",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "intersectionality",
+    "connections": [
+      "favela",
+      "post-colonialism",
+      "queer theory",
+      "indigenous knowledge"
+    ]
+  },
+  {
+    "word": "isekai",
+    "connections": []
+  },
+  {
+    "word": "izakaya",
+    "connections": []
+  },
+  {
+    "word": "jajmani",
+    "connections": []
+  },
+  {
+    "word": "jet lag",
+    "connections": [
+      "jet-set"
+    ]
+  },
+  {
+    "word": "jet-set",
+    "connections": [
+      "jet lag",
+      "jet lag",
+      "jet lag",
+      "jihad",
+      "jinni"
+    ]
+  },
+  {
+    "word": "jihad",
+    "connections": []
+  },
+  {
+    "word": "jinni",
+    "connections": []
+  },
+  {
+    "word": "jugaad",
+    "connections": []
+  },
+  {
+    "word": "juju",
+    "connections": []
+  },
+  {
+    "word": "juke joint",
+    "connections": [
+      "dancehall"
+    ]
+  },
+  {
+    "word": "jumbie",
+    "connections": [
+      "haunting"
+    ]
+  },
+  {
+    "word": "k-pop",
+    "connections": [
+      "fandom"
+    ]
+  },
+  {
+    "word": "kabaddi",
+    "connections": []
+  },
+  {
+    "word": "kabuki",
+    "connections": [
+      "kabaddi",
+      "kaiju",
+      "karoshi",
+      "kawaii",
+      "kawaii metal"
+    ]
+  },
+  {
+    "word": "kaiju",
+    "connections": []
+  },
+  {
+    "word": "kaizen",
+    "connections": []
+  },
+  {
+    "word": "karoshi",
+    "connections": [
+      "salaryman",
+      "burnout"
+    ]
+  },
+  {
+    "word": "kastom",
+    "connections": []
+  },
+  {
+    "word": "kathak",
+    "connections": [
+      "bollywood",
+      "kabuki",
+      "mukbang",
+      "tabla",
+      "tawhid"
+    ]
+  },
+  {
+    "word": "kaukokaipuu",
+    "connections": [
+      "nostalgia",
+      "fernweh",
+      "yugen",
+      "saudade"
+    ]
+  },
+  {
+    "word": "kava",
+    "connections": [
+      "kawaii",
+      "kawaii metal"
+    ]
+  },
+  {
+    "word": "kawaii",
+    "connections": [
+      "pastel-goth",
+      "kawaii metal",
+      "visual kei",
+      "harajuku"
+    ]
+  },
+  {
+    "word": "kawaii metal",
+    "connections": [
+      "cyberpunk",
+      "goth",
+      "industrial"
+    ]
+  },
+  {
+    "word": "ket",
+    "connections": [
+      "kintsugi"
+    ]
+  },
+  {
+    "word": "kick-on",
+    "connections": []
+  },
+  {
+    "word": "kin keeping",
+    "connections": []
+  },
+  {
+    "word": "kintsugi",
+    "connections": [
+      "wabi-sabi",
+      "zen"
+    ]
+  },
+  {
+    "word": "kitsch",
+    "connections": [
+      "camp",
+      "retro",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "kludge",
+    "connections": [
+      "hacker",
+      "hacktivism",
+      "cyberpunk",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "koan",
+    "connections": [
+      "zen",
+      "kundalini",
+      "shikigami"
+    ]
+  },
+  {
+    "word": "kundalini",
+    "connections": [
+      "chakra",
+      "yoga"
+    ]
+  },
+  {
+    "word": "la-veille",
+    "connections": [
+      "nostalgia",
+      "retrofuturism",
+      "saudade",
+      "solastalgia",
+      "zeitgeist"
+    ]
+  },
+  {
+    "word": "lad culture",
+    "connections": []
+  },
+  {
+    "word": "laissez faire",
+    "connections": [
+      "dystopia",
+      "cyberpunk",
+      "neuro-punk",
+      "cyber-goth",
+      "post-humanism"
+    ]
+  },
+  {
+    "word": "lament",
+    "connections": []
+  },
+  {
+    "word": "land art",
+    "connections": []
+  },
+  {
+    "word": "land back",
+    "connections": [
+      "indigenous futurism",
+      "decolonize",
+      "restorative justice",
+      "resistance",
+      "sovereignty"
+    ]
+  },
+  {
+    "word": "larp",
+    "connections": [
+      "cosplay"
+    ]
+  },
+  {
+    "word": "last supper",
+    "connections": []
+  },
+  {
+    "word": "late night tv",
+    "connections": [
+      "talk show"
+    ]
+  },
+  {
+    "word": "lawrence of arabia",
+    "connections": [
+      "arabesque",
+      "bedouin",
+      "saudade",
+      "samsara"
+    ]
+  },
+  {
+    "word": "limbo",
+    "connections": [
+      "detention",
+      "diaspora",
+      "deathrock",
+      "delinquent",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "liminal space",
+    "connections": [
+      "detention",
+      "diagnosis",
+      "diaspora",
+      "dreamtime",
+      "limbo"
+    ]
+  },
+  {
+    "word": "liming",
+    "connections": [
+      "limpia",
+      "limbo",
+      "desert",
+      "detention",
+      "diagnosis"
+    ]
+  },
+  {
+    "word": "limpia",
+    "connections": [
+      "detention",
+      "desert",
+      "diagnosis",
+      "diaspora",
+      "diaspora art"
+    ]
+  },
+  {
+    "word": "desert",
+    "connections": [
+      "detention",
+      "dharma",
+      "diagnosis",
+      "diaspora"
+    ]
+  },
+  {
+    "word": "detention",
+    "connections": []
+  },
+  {
+    "word": "dharma",
+    "connections": [
+      "samsara",
+      "zen"
+    ]
+  },
+  {
+    "word": "dharma bum",
+    "connections": [
+      "beatnik",
+      "haiku",
+      "zen",
+      "zen garden"
+    ]
+  },
+  {
+    "word": "diagnosis",
+    "connections": [
+      "psy-ops",
+      "scholarship",
+      "digital nomad",
+      "migration",
+      "neurodiversity"
+    ]
+  },
+  {
+    "word": "diaspora",
+    "connections": [
+      "diaspora art",
+      "diaspora-gothic",
+      "digital nomad",
+      "post-colonialism",
+      "migration"
+    ]
+  },
+  {
+    "word": "diaspora art",
+    "connections": [
+      "digital nomad",
+      "diaspora-gothic",
+      "cyberpunk",
+      "urban explorer"
+    ]
+  },
+  {
+    "word": "diaspora-gothic",
+    "connections": [
+      "haiku",
+      "haka",
+      "harem",
+      "harajuku",
+      "hard techno"
+    ]
+  },
+  {
+    "word": "dieselpunk",
+    "connections": [
+      "retrofuturism",
+      "steampunk"
+    ]
+  },
+  {
+    "word": "digital divide",
+    "connections": [
+      "digital nomad",
+      "digital twin",
+      "cyberspace",
+      "cyborg",
+      "data mining"
+    ]
+  },
+  {
+    "word": "digital nomad",
+    "connections": [
+      "digital twin",
+      "cyberspace",
+      "cyborg",
+      "neural lace"
+    ]
+  },
+  {
+    "word": "digital twin",
+    "connections": [
+      "avatar",
+      "cyberspace",
+      "cyborg",
+      "metaverse",
+      "quantified self"
+    ]
+  },
+  {
+    "word": "dirge",
+    "connections": [
+      "lament",
+      "elegy"
+    ]
+  },
+  {
+    "word": "divine",
+    "connections": []
+  },
+  {
+    "word": "dog whistle",
+    "connections": [
+      "doge",
+      "dogon",
+      "douen",
+      "doxxing",
+      "dungeon crawl"
+    ]
+  },
+  {
+    "word": "doge",
+    "connections": [
+      "meme",
+      "cryptid",
+      "dark web",
+      "datamosh",
+      "dog whistle"
+    ]
+  },
+  {
+    "word": "dogon",
+    "connections": []
+  },
+  {
+    "word": "doomscrolling",
+    "connections": []
+  },
+  {
+    "word": "douen",
+    "connections": [
+      "dystopia",
+      "doxxing",
+      "dark matter",
+      "deathrock",
+      "drifting"
+    ]
+  },
+  {
+    "word": "doxxing",
+    "connections": [
+      "dark web",
+      "cyberpunk",
+      "hacker",
+      "data mining"
+    ]
+  },
+  {
+    "word": "drag-king",
+    "connections": [
+      "gender fluid",
+      "queer coding",
+      "subvertising",
+      "queer theory"
+    ]
+  },
+  {
+    "word": "dreamtime",
+    "connections": []
+  },
+  {
+    "word": "drifting",
+    "connections": []
+  },
+  {
+    "word": "dub",
+    "connections": [
+      "reggae",
+      "dancehall",
+      "raga",
+      "ska"
+    ]
+  },
+  {
+    "word": "dungeon crawl",
+    "connections": []
+  },
+  {
+    "word": "dynasty",
+    "connections": []
+  },
+  {
+    "word": "dystopia",
+    "connections": [
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "e-boy",
+    "connections": [
+      "cyberpunk",
+      "e-sports",
+      "meme",
+      "cyber-goth",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "e-girl",
+    "connections": [
+      "cyberpunk",
+      "emo",
+      "cosplay"
+    ]
+  },
+  {
+    "word": "e-sports",
+    "connections": [
+      "cyberpunk",
+      "e-boy",
+      "e-girl"
+    ]
+  },
+  {
+    "word": "saudade",
+    "connections": [
+      "nostalgia",
+      "hiraeth",
+      "solastalgia",
+      "sankofa"
+    ]
+  },
+  {
+    "word": "scam art",
+    "connections": []
+  },
+  {
+    "word": "schadenfreude",
+    "connections": [
+      "sadhu",
+      "scholarship",
+      "scam art",
+      "scientist",
+      "shaman"
+    ]
+  },
+  {
+    "word": "scholarship",
+    "connections": [
+      "education"
+    ]
+  },
+  {
+    "word": "scholasticism",
+    "connections": [
+      "scholarship",
+      "scientist",
+      "neurodiversity",
+      "schadenfreude"
+    ]
+  },
+  {
+    "word": "scientist",
+    "connections": [
+      "hacker",
+      "neuro-punk",
+      "cybernetics",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "scrapbooking",
+    "connections": [
+      "crafting"
+    ]
+  },
+  {
+    "word": "scrimmage",
+    "connections": [
+      "scrapbooking",
+      "dungeon crawl",
+      "riot-grrrl",
+      "kick-on",
+      "bunker"
+    ]
+  },
+  {
+    "word": "seapunk",
+    "connections": []
+  },
+  {
+    "word": "seed",
+    "connections": []
+  },
+  {
+    "word": "sehnsucht",
+    "connections": [
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "seppuku",
+    "connections": [
+      "guru",
+      "shikigami",
+      "shibui",
+      "shaman"
+    ]
+  },
+  {
+    "word": "seva",
+    "connections": [
+      "shaman"
+    ]
+  },
+  {
+    "word": "shaman",
+    "connections": [
+      "sangoma",
+      "curandera",
+      "sufi",
+      "divine"
+    ]
+  },
+  {
+    "word": "shell shock",
+    "connections": []
+  },
+  {
+    "word": "shibui",
+    "connections": [
+      "wabi-sabi",
+      "zen",
+      "minimalism",
+      "aesthetics",
+      "shikigami"
+    ]
+  },
+  {
+    "word": "shikigami",
+    "connections": [
+      "shinrinyoku",
+      "shaman",
+      "shibui",
+      "surrealism"
+    ]
+  },
+  {
+    "word": "shinrinyoku",
+    "connections": []
+  },
+  {
+    "word": "ship",
+    "connections": [
+      "shipping"
+    ]
+  },
+  {
+    "word": "shipping",
+    "connections": [
+      "fan fiction",
+      "meme",
+      "cosplay",
+      "fandom",
+      "reality tv"
+    ]
+  },
+  {
+    "word": "shipping discourse",
+    "connections": [
+      "fan fiction",
+      "fandom",
+      "shipping",
+      "cosplay"
+    ]
+  },
+  {
+    "word": "shitposter",
+    "connections": [
+      "meme",
+      "troll farm",
+      "flame war",
+      "viral challenge",
+      "fan fiction"
+    ]
+  },
+  {
+    "word": "shitposting",
+    "connections": [
+      "meme",
+      "dank meme",
+      "meme lord",
+      "meme stock",
+      "cyber-goth"
+    ]
+  },
+  {
+    "word": "shogun",
+    "connections": [
+      "samurai",
+      "feud",
+      "bushido",
+      "bushcraft",
+      "shinrinyoku"
+    ]
+  },
+  {
+    "word": "shonen",
+    "connections": [
+      "gundam",
+      "otaku",
+      "shoujo"
+    ]
+  },
+  {
+    "word": "shoujo",
+    "connections": [
+      "shonen",
+      "otaku",
+      "kawaii"
+    ]
+  },
+  {
+    "word": "show and tell",
+    "connections": []
+  },
+  {
+    "word": "sick day",
+    "connections": [
+      "hygge",
+      "restorative justice",
+      "wellness influencer"
+    ]
+  },
+  {
+    "word": "side gig",
+    "connections": []
+  },
+  {
+    "word": "side hustle",
+    "connections": [
+      "hustle culture",
+      "bodega",
+      "side gig",
+      "side quest",
+      "startup"
+    ]
+  },
+  {
+    "word": "bodega",
+    "connections": [
+      "market"
+    ]
+  },
+  {
+    "word": "bodhisattva",
+    "connections": [
+      "zen",
+      "shaman",
+      "healing"
+    ]
+  },
+  {
+    "word": "body horror",
+    "connections": [
+      "transhumanism",
+      "cybernetics",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "bohemian",
+    "connections": [
+      "guru",
+      "vibes",
+      "vaporwave",
+      "avant-garde"
+    ]
+  },
+  {
+    "word": "boiler-room",
+    "connections": [
+      "sweatshop",
+      "bohemian",
+      "bollywood",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "bollywood",
+    "connections": []
+  },
+  {
+    "word": "bondage-gear",
+    "connections": []
+  },
+  {
+    "word": "bonfire",
+    "connections": []
+  },
+  {
+    "word": "bonsai",
+    "connections": [
+      "zen",
+      "kintsugi",
+      "wabi-sabi",
+      "haiku"
+    ]
+  },
+  {
+    "word": "boomer",
+    "connections": [
+      "generation",
+      "retro",
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "boot camp",
+    "connections": []
+  },
+  {
+    "word": "borat",
+    "connections": []
+  },
+  {
+    "word": "bouba-kiki",
+    "connections": [
+      "cyberpunk",
+      "dystopia",
+      "steampunk",
+      "retrofuturism",
+      "post-humanism"
+    ]
+  },
+  {
+    "word": "brain drain",
+    "connections": [
+      "burnout",
+      "automation",
+      "digital nomad",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "brujeria",
+    "connections": [
+      "witch house",
+      "dark matter",
+      "cyberpunk",
+      "cyberspace",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "brutalism",
+    "connections": [
+      "dystopia"
+    ]
+  },
+  {
+    "word": "bubble-goth",
+    "connections": [
+      "cyber-goth",
+      "darknet",
+      "dystopia",
+      "goth",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "bunker",
+    "connections": [
+      "bunker mentality",
+      "survivalist"
+    ]
+  },
+  {
+    "word": "bunker mentality",
+    "connections": [
+      "survivalist"
+    ]
+  },
+  {
+    "word": "burning man",
+    "connections": [
+      "burnout",
+      "survivalist"
+    ]
+  },
+  {
+    "word": "burnout",
+    "connections": [
+      "burning man",
+      "hustle culture",
+      "overstimulation",
+      "restorative justice"
+    ]
+  },
+  {
+    "word": "bush school",
+    "connections": [
+      "bushcraft",
+      "bushido",
+      "bunker",
+      "bunker mentality",
+      "survivalist"
+    ]
+  },
+  {
+    "word": "bushcraft",
+    "connections": [
+      "survivalist",
+      "permaculture",
+      "rewilding",
+      "bunker"
+    ]
+  },
+  {
+    "word": "bushido",
+    "connections": [
+      "bushcraft",
+      "samurai",
+      "zen"
+    ]
+  },
+  {
+    "word": "buy-n-large",
+    "connections": [
+      "dystopia",
+      "cyberpunk",
+      "retrofuturism",
+      "automation"
+    ]
+  },
+  {
+    "word": "calisthenics",
+    "connections": []
+  },
+  {
+    "word": "calligraffiti",
+    "connections": [
+      "street art",
+      "urban explorer",
+      "calligraphy",
+      "tagging"
+    ]
+  },
+  {
+    "word": "calligraphy",
+    "connections": [
+      "sufism",
+      "shaman",
+      "mandala",
+      "chakra",
+      "zen"
+    ]
+  },
+  {
+    "word": "calypso",
+    "connections": []
+  },
+  {
+    "word": "camp",
+    "connections": [
+      "glamping",
+      "cosplay",
+      "queer coding",
+      "retrofuturism",
+      "survivalist"
+    ]
+  },
+  {
+    "word": "omakase",
+    "connections": [
+      "izakaya"
+    ]
+  },
+  {
+    "word": "omotenashi",
+    "connections": []
+  },
+  {
+    "word": "oracle",
+    "connections": []
+  },
+  {
+    "word": "orature",
+    "connections": [
+      "folklore"
+    ]
+  },
+  {
+    "word": "orientalism",
+    "connections": [
+      "post-colonialism"
+    ]
+  },
+  {
+    "word": "otaku",
+    "connections": [
+      "cosplay"
+    ]
+  },
+  {
+    "word": "oumel khalsoum",
+    "connections": [
+      "vaporwave",
+      "glitch",
+      "cyberpunk",
+      "retrofuturism",
+      "synthwave"
+    ]
+  },
+  {
+    "word": "ouroboros",
+    "connections": []
+  },
+  {
+    "word": "overseer",
+    "connections": [
+      "overstimulation"
+    ]
+  },
+  {
+    "word": "overstimulation",
+    "connections": []
+  },
+  {
+    "word": "pachamama",
+    "connections": []
+  },
+  {
+    "word": "pachuco",
+    "connections": [
+      "zoot suit",
+      "cholo",
+      "boiler-room",
+      "ludology",
+      "quantified self"
+    ]
+  },
+  {
+    "word": "palaver",
+    "connections": [
+      "gossip",
+      "haggle",
+      "negging",
+      "shibui"
+    ]
+  },
+  {
+    "word": "pana poo",
+    "connections": [
+      "bushido",
+      "samurai"
+    ]
+  },
+  {
+    "word": "panafricanism",
+    "connections": [
+      "afrofuturism"
+    ]
+  },
+  {
+    "word": "panopticon",
+    "connections": []
+  },
+  {
+    "word": "parachute kid",
+    "connections": [
+      "overstimulation",
+      "third culture kid"
+    ]
+  },
+  {
+    "word": "parkour",
+    "connections": [
+      "urban explorer",
+      "dystopia",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "past lives",
+    "connections": []
+  },
+  {
+    "word": "pastel-goth",
+    "connections": [
+      "goth",
+      "emo",
+      "bubble-goth",
+      "cyber-goth"
+    ]
+  },
+  {
+    "word": "pastiche",
+    "connections": [
+      "remix"
+    ]
+  },
+  {
+    "word": "pemmican",
+    "connections": [
+      "survivalist",
+      "bushcraft"
+    ]
+  },
+  {
+    "word": "peripatetic",
+    "connections": [
+      "wabi-sabi",
+      "liminal space",
+      "limbo",
+      "nostalgia",
+      "stasis"
+    ]
+  },
+  {
+    "word": "permaculture",
+    "connections": []
+  },
+  {
+    "word": "pessimism",
+    "connections": [
+      "dystopia",
+      "existentialism",
+      "solastalgia",
+      "burnout",
+      "absurdism"
+    ]
+  },
+  {
+    "word": "petroglyph",
+    "connections": []
+  },
+  {
+    "word": "phygital",
+    "connections": [
+      "digital twin",
+      "neural lace",
+      "cyborg",
+      "cyberspace",
+      "quantified self"
+    ]
+  },
+  {
+    "word": "pick up game",
+    "connections": []
+  },
+  {
+    "word": "pilgrimage",
+    "connections": []
+  },
+  {
+    "word": "pin up",
+    "connections": [
+      "retro",
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "pizzica",
+    "connections": [
+      "folklore"
+    ]
+  },
+  {
+    "word": "placebo",
+    "connections": []
+  },
+  {
+    "word": "poacher",
+    "connections": []
+  },
+  {
+    "word": "poaching",
+    "connections": [
+      "bushcraft",
+      "poacher",
+      "poacher",
+      "bush school",
+      "bushido"
+    ]
+  },
+  {
+    "word": "ponzi scheme",
+    "connections": [
+      "scam art",
+      "pyramid scheme",
+      "quantified self",
+      "synthwave",
+      "flame war"
+    ]
+  },
+  {
+    "word": "post-colonialism",
+    "connections": [
+      "dystopia",
+      "post-humanism",
+      "retrofuturism",
+      "cyberpunk",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "post-humanism",
+    "connections": [
+      "cyberpunk",
+      "transhumanism",
+      "cyborg",
+      "neurodiversity",
+      "post-internet"
+    ]
+  },
+  {
+    "word": "post-internet",
+    "connections": [
+      "cyberspace",
+      "post-humanism",
+      "retrofuturism",
+      "synthwave",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "post-rock",
+    "connections": [
+      "cyberpunk",
+      "post-humanism",
+      "retrofuturism",
+      "dystopia",
+      "hacktivism"
+    ]
+  },
+  {
+    "word": "potlatch",
+    "connections": [
+      "potluck",
+      "powwow",
+      "poultice",
+      "pre-med",
+      "pre-teen"
+    ]
+  },
+  {
+    "word": "potluck",
+    "connections": [
+      "potlatch",
+      "powwow"
+    ]
+  },
+  {
+    "word": "poultice",
+    "connections": [
+      "healing",
+      "herbalism"
+    ]
+  },
+  {
+    "word": "powwow",
+    "connections": []
+  },
+  {
+    "word": "pre-med",
+    "connections": []
+  },
+  {
+    "word": "pre-socratic",
+    "connections": [
+      "socratic method"
+    ]
+  },
+  {
+    "word": "pre-teen",
+    "connections": []
+  },
+  {
+    "word": "precarity",
+    "connections": [
+      "vulnerability"
+    ]
+  },
+  {
+    "word": "preppy",
+    "connections": [
+      "pre-med",
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "pride",
+    "connections": []
+  },
+  {
+    "word": "primitivism",
+    "connections": [
+      "anarchism",
+      "folklore",
+      "shaman",
+      "synesthesia",
+      "syncretism"
+    ]
+  },
+  {
+    "word": "projection mapping",
+    "connections": []
+  },
+  {
+    "word": "proletariat",
+    "connections": [
+      "union",
+      "class war"
+    ]
+  },
+  {
+    "word": "propaganda",
+    "connections": [
+      "psy-ops",
+      "neuro-punk",
+      "meme",
+      "quantified self"
+    ]
+  },
+  {
+    "word": "psy-ops",
+    "connections": [
+      "propaganda",
+      "psychology",
+      "psychonaut",
+      "psychedelia",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "psychedelia",
+    "connections": []
+  },
+  {
+    "word": "psychobilly",
+    "connections": [
+      "cyberpunk",
+      "punk",
+      "rockabilly",
+      "rockabilly"
+    ]
+  },
+  {
+    "word": "psychogeography",
+    "connections": [
+      "urban explorer",
+      "sitcom",
+      "urban planning",
+      "psychology",
+      "neurodiversity"
+    ]
+  },
+  {
+    "word": "psychology",
+    "connections": [
+      "neurodiversity",
+      "neuro-punk",
+      "neuro art",
+      "neurotypical",
+      "psy-ops"
+    ]
+  },
+  {
+    "word": "psychonaut",
+    "connections": [
+      "cyberpunk",
+      "neuro-punk",
+      "cyborg",
+      "cyberspace",
+      "synthwave"
+    ]
+  },
+  {
+    "word": "pundit",
+    "connections": [
+      "troll farm",
+      "propaganda",
+      "cybernetics",
+      "data mining",
+      "neural lace"
+    ]
+  },
+  {
+    "word": "cuneiform",
+    "connections": []
+  },
+  {
+    "word": "curandera",
+    "connections": [
+      "shaman",
+      "divine",
+      "healing",
+      "holodeck"
+    ]
+  },
+  {
+    "word": "curandera punk",
+    "connections": [
+      "cyberpunk",
+      "cyborg",
+      "cyberspace",
+      "retrofuturism",
+      "neuro-punk"
+    ]
+  },
+  {
+    "word": "curanto",
+    "connections": []
+  },
+  {
+    "word": "cyber-goth",
+    "connections": [
+      "cyberpunk",
+      "cyberspace",
+      "cyborg",
+      "cybernetics",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "cyber-grief",
+    "connections": [
+      "cyberpunk",
+      "cyberspace",
+      "cyborg",
+      "cypherpunk",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "cybernetics",
+    "connections": [
+      "cyberpunk",
+      "cyberspace",
+      "cyborg",
+      "cypherpunk",
+      "digital nomad"
+    ]
+  },
+  {
+    "word": "cyberpunk",
+    "connections": [
+      "dystopia",
+      "cyberspace",
+      "cyborg",
+      "cybernetics",
+      "neuro-punk"
+    ]
+  },
+  {
+    "word": "cyberspace",
+    "connections": [
+      "cyborg",
+      "cybernetics",
+      "cypherpunk",
+      "metaverse",
+      "data mining"
+    ]
+  },
+  {
+    "word": "cyborg",
+    "connections": [
+      "cyberspace",
+      "cyber-goth",
+      "cybernetics",
+      "cyberpunk",
+      "cypherpunk"
+    ]
+  },
+  {
+    "word": "cymatics",
+    "connections": []
+  },
+  {
+    "word": "cypherpunk",
+    "connections": [
+      "hacktivism",
+      "cyberspace",
+      "cyborg",
+      "dystopia",
+      "neuro-punk"
+    ]
+  },
+  {
+    "word": "dabke",
+    "connections": [
+      "folklore",
+      "dancehall",
+      "cosplay",
+      "residency"
+    ]
+  },
+  {
+    "word": "dad joke",
+    "connections": []
+  },
+  {
+    "word": "dadaism",
+    "connections": [
+      "surrealism",
+      "absurdism",
+      "avant-garde",
+      "existentialism"
+    ]
+  },
+  {
+    "word": "dancehall",
+    "connections": [
+      "reggae",
+      "dub",
+      "ska",
+      "rockabilly"
+    ]
+  },
+  {
+    "word": "dandy",
+    "connections": [
+      "flaneur",
+      "flaneuse",
+      "bohemian"
+    ]
+  },
+  {
+    "word": "dank meme",
+    "connections": [
+      "meme",
+      "dark matter",
+      "data mining"
+    ]
+  },
+  {
+    "word": "dark matter",
+    "connections": [
+      "darknet",
+      "data mining",
+      "deep state",
+      "datamosh",
+      "deathrock"
+    ]
+  },
+  {
+    "word": "dark web",
+    "connections": [
+      "darknet",
+      "data mining",
+      "cyberspace",
+      "cybernetics"
+    ]
+  },
+  {
+    "word": "darknet",
+    "connections": [
+      "dark matter",
+      "datamosh",
+      "data haven",
+      "deep state",
+      "delinquent"
+    ]
+  },
+  {
+    "word": "data haven",
+    "connections": [
+      "dark web",
+      "data mining",
+      "cyberpunk",
+      "neural lace",
+      "digital nomad"
+    ]
+  },
+  {
+    "word": "data mining",
+    "connections": [
+      "data haven",
+      "cybernetics",
+      "datamosh",
+      "deep state"
+    ]
+  },
+  {
+    "word": "datamosh",
+    "connections": [
+      "glitch",
+      "cyberspace",
+      "data mining",
+      "digital nomad",
+      "neural lace"
+    ]
+  },
+  {
+    "word": "daydreaming",
+    "connections": [
+      "dreamtime"
+    ]
+  },
+  {
+    "word": "deathrock",
+    "connections": [
+      "goth"
+    ]
+  },
+  {
+    "word": "decolonize",
+    "connections": [
+      "post-colonialism",
+      "indigenous futurism",
+      "afrofuturism",
+      "diaspora"
+    ]
+  },
+  {
+    "word": "deep state",
+    "connections": []
+  },
+  {
+    "word": "delinquent",
+    "connections": []
+  },
+  {
+    "word": "dervish",
+    "connections": [
+      "lindy hop",
+      "shikigami",
+      "sufi",
+      "dancehall"
+    ]
+  },
+  {
+    "word": "lindy hop",
+    "connections": []
+  },
+  {
+    "word": "lo-fi",
+    "connections": [
+      "vaporwave"
+    ]
+  },
+  {
+    "word": "lore",
+    "connections": [
+      "folklore"
+    ]
+  },
+  {
+    "word": "luau",
+    "connections": [
+      "hula",
+      "tiki",
+      "torch song"
+    ]
+  },
+  {
+    "word": "luddite",
+    "connections": [
+      "ludology",
+      "meme",
+      "retrofuturism",
+      "cyberpunk",
+      "digital divide"
+    ]
+  },
+  {
+    "word": "ludology",
+    "connections": [
+      "game show",
+      "synthwave",
+      "gamified learning",
+      "cyberpunk",
+      "metaverse"
+    ]
+  },
+  {
+    "word": "lurk",
+    "connections": [
+      "lurker",
+      "cyber-goth",
+      "dark web",
+      "data mining",
+      "flaneur"
+    ]
+  },
+  {
+    "word": "lurker",
+    "connections": [
+      "lurk",
+      "ludology",
+      "dungeon crawl",
+      "shibui"
+    ]
+  },
+  {
+    "word": "lyceum",
+    "connections": [
+      "education",
+      "scholarship"
+    ]
+  },
+  {
+    "word": "madrasa",
+    "connections": [
+      "madrasah",
+      "mahu",
+      "mana",
+      "manifest"
+    ]
+  },
+  {
+    "word": "madrasah",
+    "connections": [
+      "madrasa",
+      "gurukul"
+    ]
+  },
+  {
+    "word": "magical girl",
+    "connections": []
+  },
+  {
+    "word": "maglev",
+    "connections": []
+  },
+  {
+    "word": "mahu",
+    "connections": [
+      "mana",
+      "mardi gras",
+      "maroon",
+      "maroonage"
+    ]
+  },
+  {
+    "word": "makerspace",
+    "connections": [
+      "hacker",
+      "hacktivism",
+      "cyberpunk",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "man-feels",
+    "connections": [
+      "manifesto",
+      "mana",
+      "mindfulness",
+      "meme",
+      "mentorship"
+    ]
+  },
+  {
+    "word": "mana",
+    "connections": []
+  },
+  {
+    "word": "mandala",
+    "connections": []
+  },
+  {
+    "word": "manhua",
+    "connections": [
+      "moe",
+      "otaku"
+    ]
+  },
+  {
+    "word": "manhwa",
+    "connections": [
+      "manhua"
+    ]
+  },
+  {
+    "word": "mania",
+    "connections": [
+      "gundam",
+      "hacker"
+    ]
+  },
+  {
+    "word": "manic pixie dream girl",
+    "connections": [
+      "stereotype"
+    ]
+  },
+  {
+    "word": "manifest",
+    "connections": [
+      "manifesto"
+    ]
+  },
+  {
+    "word": "manifesto",
+    "connections": []
+  },
+  {
+    "word": "mansplaining",
+    "connections": [
+      "gaslighting",
+      "gatekeeping",
+      "swap meet",
+      "sweatshop",
+      "sympatico"
+    ]
+  },
+  {
+    "word": "maqam",
+    "connections": []
+  },
+  {
+    "word": "maquiladora",
+    "connections": [
+      "sweatshop"
+    ]
+  },
+  {
+    "word": "mardi gras",
+    "connections": []
+  },
+  {
+    "word": "market",
+    "connections": [
+      "bazaar"
+    ]
+  },
+  {
+    "word": "maroon",
+    "connections": [
+      "maroonage"
+    ]
+  },
+  {
+    "word": "maroonage",
+    "connections": []
+  },
+  {
+    "word": "math rock",
+    "connections": []
+  },
+  {
+    "word": "maturity",
+    "connections": []
+  },
+  {
+    "word": "maximalism",
+    "connections": []
+  },
+  {
+    "word": "mbuki-mvuki",
+    "connections": []
+  },
+  {
+    "word": "mecha",
+    "connections": [
+      "gundam",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "medicate",
+    "connections": []
+  },
+  {
+    "word": "meme",
+    "connections": [
+      "viral challenge"
+    ]
+  },
+  {
+    "word": "meme lord",
+    "connections": [
+      "meme"
+    ]
+  },
+  {
+    "word": "meme stock",
+    "connections": []
+  },
+  {
+    "word": "mentorship",
+    "connections": [
+      "guru",
+      "shaman",
+      "sufi",
+      "curandera"
+    ]
+  },
+  {
+    "word": "mercenary",
+    "connections": []
+  },
+  {
+    "word": "meta-modernism",
+    "connections": []
+  },
+  {
+    "word": "metaverse",
+    "connections": [
+      "cyberpunk",
+      "digital nomad"
+    ]
+  },
+  {
+    "word": "migration",
+    "connections": [
+      "diaspora"
+    ]
+  },
+  {
+    "word": "mikveh",
+    "connections": []
+  },
+  {
+    "word": "mind palace",
+    "connections": []
+  },
+  {
+    "word": "mindfulness",
+    "connections": []
+  },
+  {
+    "word": "minimalism",
+    "connections": [
+      "zen",
+      "aesthetics"
+    ]
+  },
+  {
+    "word": "mixtape",
+    "connections": [
+      "remix"
+    ]
+  },
+  {
+    "word": "modding",
+    "connections": [
+      "hacktivism",
+      "neurodiversity",
+      "cybernetics",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "moe",
+    "connections": [
+      "kawaii",
+      "otaku",
+      "waifu"
+    ]
+  },
+  {
+    "word": "moksha",
+    "connections": [
+      "mono no aware",
+      "synesthesia",
+      "transcendence",
+      "zen",
+      "zen garden"
+    ]
+  },
+  {
+    "word": "mono no aware",
+    "connections": [
+      "wabi-sabi",
+      "saudade",
+      "solastalgia",
+      "hiraeth",
+      "fernweh"
+    ]
+  },
+  {
+    "word": "mor style",
+    "connections": [
+      "mukbang",
+      "muralism",
+      "minimalism",
+      "moe",
+      "moksha"
+    ]
+  },
+  {
+    "word": "mosh pit",
+    "connections": [
+      "grunge",
+      "punk",
+      "rockabilly"
+    ]
+  },
+  {
+    "word": "mud bath",
+    "connections": []
+  },
+  {
+    "word": "mukbang",
+    "connections": [
+      "food"
+    ]
+  },
+  {
+    "word": "multiverse",
+    "connections": [
+      "cosmic"
+    ]
+  },
+  {
+    "word": "muralism",
+    "connections": [
+      "collective"
+    ]
+  },
+  {
+    "word": "cold war",
+    "connections": []
+  },
+  {
+    "word": "collective",
+    "connections": [
+      "commons",
+      "company",
+      "council",
+      "cosmonaut"
+    ]
+  },
+  {
+    "word": "comfort",
+    "connections": [
+      "cosmic",
+      "cosmonaut",
+      "cosplay",
+      "cozy game"
+    ]
+  },
+  {
+    "word": "commedia dell arte",
+    "connections": []
+  },
+  {
+    "word": "commons",
+    "connections": [
+      "collective",
+      "company",
+      "comfort",
+      "cosmic",
+      "cottagecore"
+    ]
+  },
+  {
+    "word": "company",
+    "connections": [
+      "union",
+      "startup",
+      "collective",
+      "co-op"
+    ]
+  },
+  {
+    "word": "connoisseur",
+    "connections": [
+      "sommelier",
+      "gourmet",
+      "soul food",
+      "heritage",
+      "permaculture"
+    ]
+  },
+  {
+    "word": "contemplation",
+    "connections": [
+      "mindfulness"
+    ]
+  },
+  {
+    "word": "convivencia",
+    "connections": [
+      "cosmic",
+      "syncretism",
+      "commons",
+      "contemplation"
+    ]
+  },
+  {
+    "word": "corroboree",
+    "connections": [
+      "cosmic",
+      "cosmonaut",
+      "cottagecore",
+      "crowdsourcing"
+    ]
+  },
+  {
+    "word": "cosmic",
+    "connections": [
+      "cosmonaut",
+      "cosplay",
+      "retrofuturism",
+      "synthwave",
+      "terraforming"
+    ]
+  },
+  {
+    "word": "cosmonaut",
+    "connections": [
+      "space",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "cosplay",
+    "connections": []
+  },
+  {
+    "word": "cottagecore",
+    "connections": [
+      "nostalgia",
+      "hygge",
+      "rewilding"
+    ]
+  },
+  {
+    "word": "council",
+    "connections": [
+      "union",
+      "stasis",
+      "sanctuary"
+    ]
+  },
+  {
+    "word": "cowboy",
+    "connections": []
+  },
+  {
+    "word": "cozy game",
+    "connections": [
+      "comfort",
+      "crafting",
+      "calisthenics",
+      "co-living"
+    ]
+  },
+  {
+    "word": "crafting",
+    "connections": []
+  },
+  {
+    "word": "cramming",
+    "connections": []
+  },
+  {
+    "word": "cringe",
+    "connections": []
+  },
+  {
+    "word": "crip couture",
+    "connections": [
+      "queer coding",
+      "queer rage",
+      "queer theory",
+      "punk",
+      "pyramid scheme"
+    ]
+  },
+  {
+    "word": "crip lit",
+    "connections": [
+      "crip couture",
+      "crip time",
+      "queer coding",
+      "queer theory",
+      "queer rage"
+    ]
+  },
+  {
+    "word": "crip time",
+    "connections": [
+      "queer theory",
+      "ableism",
+      "crip lit"
+    ]
+  },
+  {
+    "word": "cross-fit",
+    "connections": []
+  },
+  {
+    "word": "crowdsourcing",
+    "connections": []
+  },
+  {
+    "word": "cruising",
+    "connections": []
+  },
+  {
+    "word": "cryo-sleep",
+    "connections": [
+      "cyberpunk",
+      "cyberspace",
+      "cyborg",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "cryptid",
+    "connections": [
+      "folklore"
+    ]
+  },
+  {
+    "word": "crystal healing",
+    "connections": []
+  },
+  {
+    "word": "cult classic",
+    "connections": [
+      "punk",
+      "retro",
+      "film noir",
+      "firewall",
+      "glitch"
+    ]
+  },
+  {
+    "word": "punk",
+    "connections": [
+      "cyberpunk",
+      "dystopia",
+      "post-humanism",
+      "neuro-punk",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "pyramid scheme",
+    "connections": [
+      "ponzi scheme",
+      "scam art",
+      "quantified self",
+      "reality tv"
+    ]
+  },
+  {
+    "word": "quantified self",
+    "connections": [
+      "biohacking",
+      "neuro-punk",
+      "neurodiversity",
+      "neural lace"
+    ]
+  },
+  {
+    "word": "queer coding",
+    "connections": [
+      "queer theory",
+      "queer rage",
+      "queer theory",
+      "queer theory"
+    ]
+  },
+  {
+    "word": "queer rage",
+    "connections": [
+      "queer theory",
+      "queer coding",
+      "queer theory",
+      "queer coding"
+    ]
+  },
+  {
+    "word": "queer theory",
+    "connections": [
+      "queer rage",
+      "queer coding"
+    ]
+  },
+  {
+    "word": "quetzalcoatl",
+    "connections": [
+      "aztec",
+      "quinceanera",
+      "syncretism"
+    ]
+  },
+  {
+    "word": "quinceanera",
+    "connections": []
+  },
+  {
+    "word": "raga",
+    "connections": [
+      "tabla"
+    ]
+  },
+  {
+    "word": "rage quit",
+    "connections": [
+      "rage room",
+      "catharsis",
+      "venting"
+    ]
+  },
+  {
+    "word": "rage room",
+    "connections": []
+  },
+  {
+    "word": "raid",
+    "connections": [
+      "flame war",
+      "meme",
+      "troll farm",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "ramen",
+    "connections": []
+  },
+  {
+    "word": "rave",
+    "connections": [
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "reality tv",
+    "connections": [
+      "survivalist",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "recess",
+    "connections": [
+      "nostalgia",
+      "retro",
+      "retrofuturism",
+      "urban explorer"
+    ]
+  },
+  {
+    "word": "red scare",
+    "connections": [
+      "cold war",
+      "propaganda"
+    ]
+  },
+  {
+    "word": "regalia",
+    "connections": []
+  },
+  {
+    "word": "reggae",
+    "connections": [
+      "ska",
+      "dancehall",
+      "dub",
+      "reggae sunsplash"
+    ]
+  },
+  {
+    "word": "reggae sunsplash",
+    "connections": [
+      "dub",
+      "dancehall",
+      "reggae",
+      "raga"
+    ]
+  },
+  {
+    "word": "relic",
+    "connections": []
+  },
+  {
+    "word": "remittance",
+    "connections": [
+      "residency"
+    ]
+  },
+  {
+    "word": "remix",
+    "connections": []
+  },
+  {
+    "word": "residency",
+    "connections": [
+      "resistance",
+      "restorative justice",
+      "retro",
+      "retrofuturism",
+      "rewilding"
+    ]
+  },
+  {
+    "word": "resistance",
+    "connections": [
+      "cyberpunk",
+      "dystopia",
+      "post-humanism",
+      "survivalist",
+      "proletariat"
+    ]
+  },
+  {
+    "word": "restorative justice",
+    "connections": [
+      "healing"
+    ]
+  },
+  {
+    "word": "retro",
+    "connections": [
+      "nostalgia",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "retro gaming",
+    "connections": [
+      "nostalgia",
+      "retrofuturism",
+      "vaporwave",
+      "cyberpunk",
+      "synthwave"
+    ]
+  },
+  {
+    "word": "retrofuturism",
+    "connections": [
+      "vaporwave",
+      "dieselpunk",
+      "cyberpunk",
+      "biopunk",
+      "solarpunk"
+    ]
+  },
+  {
+    "word": "rewilding",
+    "connections": [
+      "bushcraft",
+      "permaculture"
+    ]
+  },
+  {
+    "word": "film noir",
+    "connections": []
+  },
+  {
+    "word": "firewall",
+    "connections": [
+      "hacker",
+      "cyberpunk",
+      "cyberspace",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "flame war",
+    "connections": [
+      "troll farm",
+      "gaslighting",
+      "flirting",
+      "gatekeeping",
+      "flash mob"
+    ]
+  },
+  {
+    "word": "flamenco",
+    "connections": [
+      "flaneur",
+      "folklore",
+      "gakuran",
+      "gamelan",
+      "syncretism"
+    ]
+  },
+  {
+    "word": "flaneur",
+    "connections": [
+      "urban explorer",
+      "flaneuse",
+      "psychogeography",
+      "street art"
+    ]
+  },
+  {
+    "word": "flaneuse",
+    "connections": [
+      "flaneur",
+      "psychogeography",
+      "urban explorer"
+    ]
+  },
+  {
+    "word": "flapper",
+    "connections": []
+  },
+  {
+    "word": "flash mob",
+    "connections": [
+      "viral challenge"
+    ]
+  },
+  {
+    "word": "flirting",
+    "connections": []
+  },
+  {
+    "word": "flow",
+    "connections": []
+  },
+  {
+    "word": "folie a deux",
+    "connections": [
+      "madrasa",
+      "samadhi",
+      "guru",
+      "samsara"
+    ]
+  },
+  {
+    "word": "folklore",
+    "connections": []
+  },
+  {
+    "word": "food",
+    "connections": [
+      "soul food",
+      "slow food",
+      "foraging"
+    ]
+  },
+  {
+    "word": "foraging",
+    "connections": [
+      "survivalist",
+      "bushcraft"
+    ]
+  },
+  {
+    "word": "forelsket",
+    "connections": [
+      "nostalgia",
+      "hygge"
+    ]
+  },
+  {
+    "word": "freeganism",
+    "connections": [
+      "minimalism",
+      "foraging"
+    ]
+  },
+  {
+    "word": "freestyle",
+    "connections": []
+  },
+  {
+    "word": "freeter",
+    "connections": [
+      "gig economy"
+    ]
+  },
+  {
+    "word": "freudian slip",
+    "connections": [
+      "psy-ops",
+      "gaslighting",
+      "dreamtime",
+      "neural lace",
+      "cybernetics"
+    ]
+  },
+  {
+    "word": "fufu",
+    "connections": []
+  },
+  {
+    "word": "fugu",
+    "connections": []
+  },
+  {
+    "word": "gacha",
+    "connections": [
+      "gamified learning",
+      "game show",
+      "ganja",
+      "glitch art"
+    ]
+  },
+  {
+    "word": "gakuran",
+    "connections": [
+      "uniform",
+      "gundam"
+    ]
+  },
+  {
+    "word": "gallows humor",
+    "connections": []
+  },
+  {
+    "word": "game show",
+    "connections": [
+      "reality tv",
+      "talk show",
+      "telenovela"
+    ]
+  },
+  {
+    "word": "gamelan",
+    "connections": []
+  },
+  {
+    "word": "gamified learning",
+    "connections": [
+      "edutainment",
+      "hacktivism",
+      "neuro-punk",
+      "quantified self"
+    ]
+  },
+  {
+    "word": "ganja",
+    "connections": [
+      "gakuran",
+      "gallows humor",
+      "gatekeeping",
+      "glam rock"
+    ]
+  },
+  {
+    "word": "gaslighting",
+    "connections": []
+  },
+  {
+    "word": "gatekeeping",
+    "connections": []
+  },
+  {
+    "word": "swap meet",
+    "connections": [
+      "bartering",
+      "bazaar",
+      "market"
+    ]
+  },
+  {
+    "word": "sweat lodge",
+    "connections": []
+  },
+  {
+    "word": "sweatshop",
+    "connections": [
+      "syncretism",
+      "synesthesia",
+      "flamenco",
+      "tagging",
+      "taharah"
+    ]
+  },
+  {
+    "word": "sympatico",
+    "connections": [
+      "syncretism",
+      "synesthesia",
+      "s\u00e9ance",
+      "glow-up"
+    ]
+  },
+  {
+    "word": "syncretism",
+    "connections": []
+  },
+  {
+    "word": "synesthesia",
+    "connections": []
+  },
+  {
+    "word": "synthwave",
+    "connections": [
+      "retrofuturism",
+      "cyberpunk",
+      "vaporwave",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "s\u00e9ance",
+    "connections": []
+  },
+  {
+    "word": "tabla",
+    "connections": []
+  },
+  {
+    "word": "tagging",
+    "connections": [
+      "street art"
+    ]
+  },
+  {
+    "word": "taharah",
+    "connections": []
+  },
+  {
+    "word": "taiko",
+    "connections": []
+  },
+  {
+    "word": "talanoa",
+    "connections": [
+      "talk show",
+      "talk story",
+      "tang ping",
+      "tangle",
+      "tapa"
+    ]
+  },
+  {
+    "word": "talchum",
+    "connections": [
+      "dancehall",
+      "trad goth",
+      "cosmonaut",
+      "synesthesia",
+      "taharah"
+    ]
+  },
+  {
+    "word": "talk show",
+    "connections": []
+  },
+  {
+    "word": "talk story",
+    "connections": [
+      "folklore"
+    ]
+  },
+  {
+    "word": "tang ping",
+    "connections": [
+      "gundam",
+      "v-tuber",
+      "hacker",
+      "hacktivism",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "tangle",
+    "connections": []
+  },
+  {
+    "word": "tapa",
+    "connections": [
+      "taharah",
+      "tarot",
+      "taps",
+      "s\u00e9ance"
+    ]
+  },
+  {
+    "word": "taps",
+    "connections": []
+  },
+  {
+    "word": "tarot",
+    "connections": [
+      "psychobilly",
+      "subvertising",
+      "dadaism",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "tawhid",
+    "connections": [
+      "mono no aware",
+      "shikigami",
+      "zen garden meditation"
+    ]
+  },
+  {
+    "word": "teach for america",
+    "connections": [
+      "teahouse",
+      "education",
+      "mentorship",
+      "internment"
+    ]
+  },
+  {
+    "word": "teahouse",
+    "connections": [
+      "zen garden"
+    ]
+  },
+  {
+    "word": "teddy boy",
+    "connections": [
+      "greaser",
+      "rockabilly",
+      "punk"
+    ]
+  },
+  {
+    "word": "teen angst",
+    "connections": [
+      "emo",
+      "teen movie",
+      "dark matter",
+      "existentialism",
+      "post-humanism"
+    ]
+  },
+  {
+    "word": "teen movie",
+    "connections": []
+  },
+  {
+    "word": "telenovela",
+    "connections": [
+      "soap opera"
+    ]
+  },
+  {
+    "word": "terra nullius",
+    "connections": [
+      "terraforming",
+      "indigenous knowledge",
+      "land back",
+      "apartheid"
+    ]
+  },
+  {
+    "word": "terraforming",
+    "connections": [
+      "space",
+      "terra nullius",
+      "dystopia",
+      "post-humanism",
+      "utopia"
+    ]
+  },
+  {
+    "word": "MRE",
+    "connections": []
+  },
+  {
+    "word": "abacus",
+    "connections": [
+      "math rock",
+      "mecha",
+      "algorithm"
+    ]
+  },
+  {
+    "word": "ableism",
+    "connections": [
+      "neurodiversity",
+      "intersectionality",
+      "neuro-punk",
+      "indigenous knowledge"
+    ]
+  },
+  {
+    "word": "absurdism",
+    "connections": [
+      "existentialism",
+      "absurdist humor",
+      "dadaism",
+      "surrealism"
+    ]
+  },
+  {
+    "word": "absurdist humor",
+    "connections": [
+      "surrealism",
+      "absurdism",
+      "dadaism",
+      "existentialism"
+    ]
+  },
+  {
+    "word": "acupuncture",
+    "connections": []
+  },
+  {
+    "word": "adulting",
+    "connections": [
+      "maturity"
+    ]
+  },
+  {
+    "word": "aesthetics",
+    "connections": [
+      "punk",
+      "post-humanism",
+      "retrofuturism",
+      "cyberpunk",
+      "synthwave"
+    ]
+  },
+  {
+    "word": "affirmation",
+    "connections": []
+  },
+  {
+    "word": "afrobeats",
+    "connections": [
+      "afrofuturism",
+      "algorithm",
+      "cyberpunk",
+      "synthwave"
+    ]
+  },
+  {
+    "word": "afrofuturism",
+    "connections": [
+      "cyberpunk",
+      "dystopia",
+      "retrofuturism",
+      "synthwave"
+    ]
+  },
+  {
+    "word": "after hours",
+    "connections": []
+  },
+  {
+    "word": "agent orange",
+    "connections": [
+      "vietnam war"
+    ]
+  },
+  {
+    "word": "agora",
+    "connections": [
+      "market",
+      "bazaar",
+      "souk"
+    ]
+  },
+  {
+    "word": "agoraphobia",
+    "connections": []
+  },
+  {
+    "word": "agri tech",
+    "connections": [
+      "gen z humor",
+      "agoraphobia",
+      "algorave",
+      "anansi"
+    ]
+  },
+  {
+    "word": "ahimsa",
+    "connections": []
+  },
+  {
+    "word": "algorave",
+    "connections": [
+      "rave",
+      "cybernetics",
+      "glitch",
+      "algorithm"
+    ]
+  },
+  {
+    "word": "algoriddim",
+    "connections": [
+      "glitch",
+      "hacker",
+      "hacktivism",
+      "cyberpunk",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "algorithm",
+    "connections": [
+      "cyberpunk",
+      "cyberspace",
+      "cyborg",
+      "quantified self",
+      "data mining"
+    ]
+  },
+  {
+    "word": "allyship",
+    "connections": []
+  },
+  {
+    "word": "altar",
+    "connections": [
+      "sacred grove"
+    ]
+  },
+  {
+    "word": "ambrosia",
+    "connections": []
+  },
+  {
+    "word": "americana",
+    "connections": [
+      "folklore",
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "anansesem",
+    "connections": [
+      "folklore",
+      "trickster",
+      "anansi",
+      "animism",
+      "afrofuturism"
+    ]
+  },
+  {
+    "word": "anansi",
+    "connections": [
+      "trickster",
+      "lore",
+      "anansesem",
+      "animism",
+      "afrofuturism"
+    ]
+  },
+  {
+    "word": "anarchism",
+    "connections": [
+      "punk",
+      "cyberpunk",
+      "dystopia"
+    ]
+  },
+  {
+    "word": "androgyny",
+    "connections": [
+      "anansi",
+      "animism",
+      "gender fluid",
+      "gender reveal",
+      "transhumanism"
+    ]
+  },
+  {
+    "word": "animism",
+    "connections": [
+      "shaman",
+      "indigenous knowledge"
+    ]
+  },
+  {
+    "word": "apartheid",
+    "connections": []
+  },
+  {
+    "word": "the blues",
+    "connections": [
+      "gospel"
+    ]
+  },
+  {
+    "word": "the medium is the message",
+    "connections": [
+      "third culture kid",
+      "tie dye",
+      "tiki",
+      "tiki bar"
+    ]
+  },
+  {
+    "word": "third culture kid",
+    "connections": []
+  },
+  {
+    "word": "third eye",
+    "connections": []
+  },
+  {
+    "word": "third place",
+    "connections": [
+      "tie dye",
+      "tiki",
+      "torch song",
+      "tourism",
+      "trad goth"
+    ]
+  },
+  {
+    "word": "tie dye",
+    "connections": [
+      "tiki",
+      "tiki bar",
+      "torch song",
+      "tourism",
+      "trad goth"
+    ]
+  },
+  {
+    "word": "tiki",
+    "connections": [
+      "tiki bar",
+      "torch song",
+      "trad goth",
+      "tincture",
+      "tourism"
+    ]
+  },
+  {
+    "word": "tiki bar",
+    "connections": [
+      "tiki"
+    ]
+  },
+  {
+    "word": "tincture",
+    "connections": [
+      "elixir",
+      "herbalism",
+      "witch house",
+      "shaman"
+    ]
+  },
+  {
+    "word": "torch song",
+    "connections": [
+      "nostalgia"
+    ]
+  },
+  {
+    "word": "torpe",
+    "connections": [
+      "cyberpunk",
+      "dystopia",
+      "neuro-punk",
+      "post-humanism",
+      "cyberspace"
+    ]
+  },
+  {
+    "word": "tourism",
+    "connections": []
+  },
+  {
+    "word": "trad goth",
+    "connections": [
+      "deathrock",
+      "industrial"
+    ]
+  },
+  {
+    "word": "transcendence",
+    "connections": [
+      "transhumanism"
+    ]
+  },
+  {
+    "word": "transhumanism",
+    "connections": [
+      "cyberpunk",
+      "post-humanism",
+      "neuro-punk",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "trauma informed",
+    "connections": [
+      "nostalgia",
+      "healing",
+      "restorative justice",
+      "mindfulness",
+      "empathy"
+    ]
+  },
+  {
+    "word": "trekkie",
+    "connections": [
+      "star trek",
+      "cyberpunk",
+      "fan fiction",
+      "fandom",
+      "space opera"
+    ]
+  },
+  {
+    "word": "trench art",
+    "connections": [
+      "war paint",
+      "survivalist",
+      "nostalgia",
+      "relic"
+    ]
+  },
+  {
+    "word": "trepanation",
+    "connections": []
+  },
+  {
+    "word": "triage",
+    "connections": []
+  },
+  {
+    "word": "trickster",
+    "connections": [
+      "troll farm",
+      "trench art",
+      "taharah"
+    ]
+  },
+  {
+    "word": "trivium",
+    "connections": []
+  },
+  {
+    "word": "troll farm",
+    "connections": [
+      "dark web",
+      "propaganda",
+      "data mining",
+      "flame war"
+    ]
+  },
+  {
+    "word": "tryst",
+    "connections": [
+      "affirmation",
+      "ambrosia",
+      "altar",
+      "anansesem",
+      "anansi"
+    ]
+  },
+  {
+    "word": "tumblr",
+    "connections": [
+      "cyberpunk",
+      "vaporwave",
+      "nostalgia",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "tumblr era",
+    "connections": [
+      "vaporwave",
+      "nostalgia",
+      "retrofuturism"
+    ]
+  },
+  {
+    "word": "tv dinner",
+    "connections": [
+      "nostalgia",
+      "retrofuturism",
+      "surrealism",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "two spirit",
+    "connections": [
+      "genderfluid",
+      "queer coding",
+      "transhumanism",
+      "cyberpunk"
+    ]
+  },
+  {
+    "word": "ubiquitous computing",
+    "connections": [
+      "cyberspace",
+      "cyberpunk",
+      "cyborg",
+      "neuro-punk",
+      "post-humanism"
+    ]
+  },
+  {
+    "word": "ubuntu",
+    "connections": []
+  },
+  {
+    "word": "gaymer",
+    "connections": [
+      "cyberpunk",
+      "queer coding",
+      "retrofuturism",
+      "queer theory"
+    ]
+  },
+  {
+    "word": "geesba",
+    "connections": [
+      "geisha",
+      "gender fluid",
+      "gender reveal",
+      "genderfluid",
+      "gene sequencing"
+    ]
+  },
+  {
+    "word": "geisha",
+    "connections": []
+  },
+  {
+    "word": "gele",
+    "connections": [
+      "headcanon",
+      "heritage",
+      "hijab"
+    ]
+  },
+  {
+    "word": "gen z humor",
+    "connections": [
+      "meme",
+      "tumblr",
+      "dark web",
+      "cosplay",
+      "vaporwave"
+    ]
+  },
+  {
+    "word": "gender fluid",
+    "connections": [
+      "gender reveal",
+      "gen z humor",
+      "genderfluid",
+      "genderfluid",
+      "generation"
+    ]
+  },
+  {
+    "word": "gender reveal",
+    "connections": [
+      "gender fluid",
+      "genderfluid",
+      "gene sequencing",
+      "generation",
+      "generative"
+    ]
+  },
+  {
+    "word": "genderfluid",
+    "connections": [
+      "queer theory",
+      "gender reveal",
+      "androgyny",
+      "queer coding",
+      "transhumanism"
+    ]
+  },
+  {
+    "word": "gene sequencing",
+    "connections": [
+      "biopunk",
+      "neurodiversity",
+      "post-humanism",
+      "genocide",
+      "digital divide"
+    ]
+  },
+  {
+    "word": "generation",
+    "connections": [
+      "gen z humor",
+      "generative",
+      "genocide",
+      "gentrification",
+      "gestalt"
+    ]
+  },
+  {
+    "word": "generative",
+    "connections": [
+      "algorithm"
+    ]
+  },
+  {
+    "word": "genocide",
+    "connections": []
+  },
+  {
+    "word": "gentrification",
+    "connections": [
+      "urban planning",
+      "post-colonialism"
+    ]
+  },
+  {
+    "word": "geocities",
+    "connections": [
+      "glitch",
+      "cyberspace",
+      "retrofuturism",
+      "net art"
+    ]
+  },
+  {
+    "word": "gestalt",
+    "connections": [
+      "holodeck",
+      "neural lace",
+      "metaverse",
+      "cyberspace",
+      "cyborg"
+    ]
+  },
+  {
+    "word": "gezellig",
+    "connections": [
+      "cosmic",
+      "cosmonaut",
+      "cosplay",
+      "cottagecore",
+      "comfort"
+    ]
+  },
+  {
+    "word": "ghatam",
+    "connections": [
+      "gig economy",
+      "algorithm",
+      "glitch",
+      "ghazal",
+      "ghosting"
+    ]
+  },
+  {
+    "word": "ghazal",
+    "connections": [
+      "glitch",
+      "glitch art",
+      "glitching",
+      "glow-up",
+      "goblincore"
+    ]
+  },
+  {
+    "word": "ghosting",
+    "connections": [
+      "dark matter",
+      "gaslighting",
+      "gatekeeping",
+      "glitch"
+    ]
+  },
+  {
+    "word": "gig economy",
+    "connections": [
+      "glam rock",
+      "glamping",
+      "glitch",
+      "ghosting",
+      "gigil"
+    ]
+  },
+  {
+    "word": "gigil",
+    "connections": [
+      "gig economy",
+      "glam rock",
+      "glamping",
+      "glitch",
+      "glitch art"
+    ]
+  },
+  {
+    "word": "glam rock",
+    "connections": [
+      "glitch",
+      "glitch art",
+      "glitching",
+      "goblincore",
+      "goth"
+    ]
+  },
+  {
+    "word": "glamping",
+    "connections": [
+      "glitch",
+      "glitch art",
+      "glitching",
+      "goblincore",
+      "golem"
+    ]
+  },
+  {
+    "word": "glitch",
+    "connections": [
+      "glitch art",
+      "glitching",
+      "cyberpunk",
+      "cyberspace",
+      "data mining"
+    ]
+  },
+  {
+    "word": "glitch art",
+    "connections": [
+      "cyberpunk",
+      "vaporwave",
+      "retrofuturism",
+      "data mining",
+      "neuro-punk"
+    ]
+  },
+  {
+    "word": "glitching",
+    "connections": [
+      "glitch",
+      "glitch art",
+      "glow-up",
+      "goblincore",
+      "goth"
+    ]
+  },
+  {
+    "word": "glow-up",
+    "connections": [
+      "glitch",
+      "glitch art",
+      "glitching",
+      "goblincore",
+      "golem"
+    ]
+  },
+  {
+    "word": "goblincore",
+    "connections": [
+      "folklore"
+    ]
+  },
+  {
+    "word": "golem",
+    "connections": [
+      "folklore"
+    ]
+  },
+  {
+    "word": "gospel",
+    "connections": [
+      "gossip",
+      "goth",
+      "grimoire",
+      "guru",
+      "vampire"
+    ]
+  }
+]

@@ -35,4 +35,8 @@ ENV/
 .idea/
 .vscode/
 *.swp
-*.swo key.env
+*.swo
+
+# Ignore environment files
+key.env
+.env 

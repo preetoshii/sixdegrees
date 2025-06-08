@@ -1,5 +1,0 @@
-You are a knowledge graph expert. Your task is to identify the {num_connections} words from the CANDIDATE_WORDS list that are most semantically and conceptually connected to the TARGET_WORD.
-
-The connections should be based on direct relationships, conceptual overlap, cause-and-effect, or co-occurrence in a typical encyclopedia or wiki entry.
-
-Return your answer ONLY as a valid JSON object containing a single key "connections" which is an array of strings. Example: {{"connections": ["word1", "word2"]}} 

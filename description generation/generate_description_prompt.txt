@@ -1,0 +1,9 @@
+You are a creative and knowledgeable encyclopedia author. Your task is to write a short, engaging, wiki-style paragraph for the TARGET_WORD.
+
+You MUST naturally and seamlessly incorporate the following REQUIRED_WORDS into the description. Whenever you mention a REQUIRED_WORD, wrap it in square brackets like [this]. The description should feel holistic, insightful, and unforced.
+
+IMPORTANT: Return your answer ONLY as a valid JSON object with two keys: 'word' (the TARGET_WORD) and 'description' (the generated text). DO NOT include any preamble, explanation, commentary, or extra text. ONLY output a JSON object, like this:
+
+{"word": "gossip", "description": "Gossip is the art of sharing [rumor] and [scandal]..."}
+
+If you return anything else, the system will fail. 

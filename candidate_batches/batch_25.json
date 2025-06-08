@@ -1,0 +1,247 @@
+[
+  {
+    "word": "speakeasy",
+    "tags": {
+      "Subculture": "nightlife",
+      "Generation": "Boomer",
+      "AffectiveTone": "mysterious",
+      "Setting": "underground"
+    }
+  },
+  {
+    "word": "speculative",
+    "tags": {
+      "Culture": "Global Indigenous",
+      "Setting": "dorm room"
+    }
+  },
+  {
+    "word": "speedrun",
+    "tags": {
+      "Generation": "Millennial",
+      "IdentityExperience": "spiritual seeker",
+      "Setting": "street",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "spelunking",
+    "tags": {
+      "Domain": "nature",
+      "Generation": "Boomer",
+      "Setting": "underground"
+    }
+  },
+  {
+    "word": "sputnik",
+    "tags": {
+      "Generation": "Millennial",
+      "IdentityExperience": "mental health experience",
+      "PersonalityLens": "analyst",
+      "Setting": "outer space"
+    }
+  },
+  {
+    "word": "squat",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "stan",
+    "tags": {
+      "IdentityExperience": "mental health experience",
+      "Generation": "Futuristic",
+      "AffectiveTone": "absurd",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "star trek",
+    "tags": {
+      "Setting": "outer space",
+      "AffectiveTone": "nostalgic",
+      "IdentityExperience": "spiritual seeker",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "stardew valley",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "PersonalityLens": "doer",
+      "Setting": "temple",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "starfarer",
+    "tags": {
+      "Culture": "African",
+      "PersonalityLens": "dreamer",
+      "Setting": "outer space"
+    }
+  },
+  {
+    "word": "startup",
+    "tags": {
+      "Generation": "Timeless",
+      "PersonalityLens": "doer",
+      "Setting": "market",
+      "Subculture": "digital/online culture"
+    }
+  },
+  {
+    "word": "stasis",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Domain": "philosophy",
+      "Setting": "outer space"
+    }
+  },
+  {
+    "word": "steampunk",
+    "tags": {
+      "Generation": "Millennial",
+      "PersonalityLens": "doer",
+      "Domain": "fiction",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "steel pan",
+    "tags": {
+      "Culture": "Caribbean",
+      "Setting": "school",
+      "AffectiveTone": "nostalgic"
+    }
+  },
+  {
+    "word": "stereotype",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Domain": "pop culture",
+      "IdentityExperience": "racialized / minority"
+    }
+  },
+  {
+    "word": "stim",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "IdentityExperience": "neurodivergent",
+      "PersonalityLens": "doer"
+    }
+  },
+  {
+    "word": "stim toy",
+    "tags": {
+      "IdentityExperience": "neurodivergent",
+      "AffectiveTone": "joyful",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "stoa",
+    "tags": {
+      "Culture": "Western",
+      "PersonalityLens": "thinker"
+    }
+  },
+  {
+    "word": "stoicism",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "Generation": "Ancient / Classical",
+      "IdentityExperience": "mental health experience",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "stowaway",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Culture": "Hybrid / global culture",
+      "IdentityExperience": "immigrant / refugee",
+      "Setting": "outer space"
+    }
+  },
+  {
+    "word": "street art",
+    "tags": {
+      "Generation": "Gen Z",
+      "Subculture": "digital/online culture",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "street performer",
+    "tags": {
+      "Generation": "Millennial",
+      "Setting": "city"
+    }
+  },
+  {
+    "word": "street wear",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "subvertising",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "IdentityExperience": "working-class / underpaid",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "sufi",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Domain": "spirituality",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "sufi whirling",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "sufism",
+    "tags": {
+      "PersonalityLens": "thinker",
+      "Culture": "Central Asian",
+      "IdentityExperience": "neurodivergent",
+      "AffectiveTone": "mysterious"
+    }
+  },
+  {
+    "word": "surrealism",
+    "tags": {
+      "Subculture": "art",
+      "AffectiveTone": "mysterious",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "survivalist",
+    "tags": {
+      "Generation": "Timeless",
+      "PersonalityLens": "doer",
+      "Setting": "jungle"
+    }
+  },
+  {
+    "word": "susu",
+    "tags": {
+      "Culture": "Caribbean",
+      "Domain": "economics & work",
+      "PersonalityLens": "feeler"
+    }
+  }
+]

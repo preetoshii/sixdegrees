@@ -1,0 +1,252 @@
+[
+  {
+    "word": "rickroll",
+    "tags": {
+      "Domain": "pop culture",
+      "Subculture": "memes",
+      "Generation": "Millennial",
+      "AffectiveTone": "typically humorous"
+    }
+  },
+  {
+    "word": "riot-grrrl",
+    "tags": {
+      "Subculture": "music",
+      "Generation": "Gen X",
+      "AffectiveTone": "rebellious",
+      "IdentityExperience": "gender-expansive / trans"
+    }
+  },
+  {
+    "word": "rivethead",
+    "tags": {
+      "Subculture": "fashion",
+      "Generation": "Gen X",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "rizz",
+    "tags": {
+      "Setting": "street",
+      "Generation": "Gen Z",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "rockabilly",
+    "tags": {
+      "Subculture": "fashion",
+      "Generation": "Boomer",
+      "AffectiveTone": "nostalgic"
+    }
+  },
+  {
+    "word": "roda",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "rude boy",
+    "tags": {
+      "Subculture": "fashion",
+      "Culture": "Caribbean",
+      "AffectiveTone": "rebellious"
+    }
+  },
+  {
+    "word": "ruin porn",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Domain": "pop culture",
+      "Setting": "jungle",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "rumi",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Domain": "philosophy",
+      "Generation": "Millennial",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "sabbatical",
+    "tags": {
+      "PersonalityLens": "dreamer",
+      "Domain": "economics & work",
+      "IdentityExperience": "spiritual seeker",
+      "Generation": "Gen X"
+    }
+  },
+  {
+    "word": "sacred grove",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "sadhu",
+    "tags": {
+      "PersonalityLens": "explorer",
+      "Culture": "South Asian",
+      "Generation": "Futuristic"
+    }
+  },
+  {
+    "word": "sagas",
+    "tags": {
+      "Culture": "African",
+      "Setting": "home"
+    }
+  },
+  {
+    "word": "salaryman",
+    "tags": {
+      "Domain": "economics & work",
+      "PersonalityLens": "thinker",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "salon",
+    "tags": {
+      "Generation": "Boomer",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "samadhi",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Culture": "Central Asian",
+      "IdentityExperience": "racialized / minority",
+      "Setting": "temple"
+    }
+  },
+  {
+    "word": "samizdat",
+    "tags": {
+      "Culture": "Central Asian",
+      "Domain": "art",
+      "Setting": "dorm room",
+      "PersonalityLens": "rebel"
+    }
+  },
+  {
+    "word": "samovar",
+    "tags": {
+      "Domain": "pop culture",
+      "Setting": "home",
+      "Culture": "Central Asian",
+      "IdentityExperience": "spiritual seeker"
+    }
+  },
+  {
+    "word": "samsara",
+    "tags": {
+      "Domain": "spirituality",
+      "Culture": "South Asian",
+      "AffectiveTone": "chaotic",
+      "Generation": "Ancient / Classical"
+    }
+  },
+  {
+    "word": "samurai",
+    "tags": {
+      "Culture": "East Asian",
+      "Subculture": "anime",
+      "Domain": "history"
+    }
+  },
+  {
+    "word": "sanctuary",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "IdentityExperience": "racialized / minority",
+      "Setting": "internet",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "sangoma",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Culture": "African",
+      "Generation": "Gen X",
+      "PersonalityLens": "healer"
+    }
+  },
+  {
+    "word": "sankofa",
+    "tags": {
+      "Setting": "village",
+      "Culture": "African",
+      "Domain": "education & learning",
+      "AffectiveTone": "joyful"
+    }
+  },
+  {
+    "word": "sankore university",
+    "tags": {
+      "PersonalityLens": "thinker",
+      "Culture": "African",
+      "Domain": "education & learning",
+      "AffectiveTone": "absurd"
+    }
+  },
+  {
+    "word": "santeria",
+    "tags": {
+      "PersonalityLens": "analyst",
+      "Domain": "spirituality",
+      "Culture": "Caribbean"
+    }
+  },
+  {
+    "word": "sapeur",
+    "tags": {
+      "PersonalityLens": "analyst",
+      "Culture": "African",
+      "Generation": "Gen X",
+      "Setting": "market"
+    }
+  },
+  {
+    "word": "sari",
+    "tags": {
+      "Subculture": "fashion",
+      "Culture": "South Asian",
+      "AffectiveTone": "joyful",
+      "Generation": "Timeless"
+    }
+  },
+  {
+    "word": "sarmatian punk",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Culture": "Central Asian",
+      "Generation": "Ancient / Classical",
+      "PersonalityLens": "rebel"
+    }
+  },
+  {
+    "word": "sarong",
+    "tags": {
+      "Culture": "Pacific Islander",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "satsang",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "IdentityExperience": "spiritual seeker"
+    }
+  }
+]

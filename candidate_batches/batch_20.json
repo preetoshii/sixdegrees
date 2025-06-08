@@ -1,209 +1,181 @@
 [
   {
-    "word": "space-tourism",
+    "word": "pizzica",
     "tags": {
-      "Subculture": "fashion",
-      "Setting": "outer space",
-      "AffectiveTone": "absurd",
-      "Domain": "health & wellness"
+      "Culture": "Western",
+      "Domain": "health & wellness",
+      "AffectiveTone": "chaotic",
+      "Subculture": "music"
     }
   },
   {
-    "word": "music-theory",
+    "word": "placebo",
     "tags": {
-      "PersonalityLens": "feeler",
-      "Subculture": "music",
-      "Domain": "education & learning"
-    }
-  },
-  {
-    "word": "steel-pan",
-    "tags": {
-      "Culture": "Caribbean",
-      "Setting": "school",
-      "AffectiveTone": "nostalgic"
-    }
-  },
-  {
-    "word": "doge",
-    "tags": {
-      "Subculture": "memes",
-      "PersonalityLens": "feeler",
-      "AffectiveTone": "joyful"
-    }
-  },
-  {
-    "word": "star-trek",
-    "tags": {
-      "Setting": "outer space",
-      "AffectiveTone": "nostalgic",
-      "IdentityExperience": "spiritual seeker",
-      "PersonalityLens": "explorer"
-    }
-  },
-  {
-    "word": "mixtape",
-    "tags": {
-      "AffectiveTone": "nostalgic",
+      "AffectiveTone": "mysterious",
+      "Domain": "philosophy",
       "IdentityExperience": "mental health experience",
-      "Generation": "Gen X"
+      "Setting": "market"
     }
   },
   {
-    "word": "cosmic-horror",
+    "word": "poacher",
     "tags": {
-      "Domain": "emotion",
-      "AffectiveTone": "chaotic",
-      "Generation": "Timeless",
-      "Setting": "outer space"
+      "Domain": "nature",
+      "IdentityExperience": "racialized / minority",
+      "Setting": "market",
+      "Subculture": "fashion"
     }
   },
   {
-    "word": "dervish",
+    "word": "poaching",
     "tags": {
-      "IdentityExperience": "neurodivergent",
-      "PersonalityLens": "feeler",
-      "AffectiveTone": "chaotic",
-      "Culture": "Central Asian"
+      "AffectiveTone": "mysterious",
+      "Domain": "nature",
+      "IdentityExperience": "racialized / minority",
+      "PersonalityLens": "doer"
     }
   },
   {
-    "word": "sankore-university",
-    "tags": {
-      "PersonalityLens": "thinker",
-      "Culture": "African",
-      "Domain": "education & learning",
-      "AffectiveTone": "absurd"
-    }
-  },
-  {
-    "word": "borat",
+    "word": "ponzi scheme",
     "tags": {
       "AffectiveTone": "absurd",
-      "Culture": "Central Asian",
-      "Setting": "school"
+      "Domain": "economics & work",
+      "IdentityExperience": "diaspora"
     }
   },
   {
-    "word": "haka",
+    "word": "post-colonialism",
     "tags": {
-      "Culture": "Pacific Islander",
-      "Subculture": "sports & fitness",
-      "Setting": "war zone",
-      "PersonalityLens": "thinker"
-    }
-  },
-  {
-    "word": "barefoot-college",
-    "tags": {
-      "Generation": "Millennial",
-      "Domain": "education & learning",
-      "IdentityExperience": "disabled / chronically ill",
-      "Setting": "village"
-    }
-  },
-  {
-    "word": "space-cowboy",
-    "tags": {
+      "IdentityExperience": "racialized / minority",
+      "Culture": "Hybrid / global culture",
       "AffectiveTone": "melancholic",
-      "PersonalityLens": "dreamer",
-      "Setting": "outer space",
-      "Generation": "Millennial"
-    }
-  },
-  {
-    "word": "house-of-wisdom",
-    "tags": {
-      "Culture": "Middle Eastern",
-      "Domain": "education & learning",
-      "Generation": "Gen Alpha",
-      "PersonalityLens": "dreamer"
-    }
-  },
-  {
-    "word": "cyborg",
-    "tags": {
-      "Culture": "Diasporic",
-      "Generation": "Gen X",
-      "Subculture": "fashion",
-      "Domain": "tech"
-    }
-  },
-  {
-    "word": "artist-in-residence",
-    "tags": {
-      "Subculture": "art",
-      "Culture": "Caribbean",
-      "Setting": "dorm room",
-      "Domain": "economics & work"
-    }
-  },
-  {
-    "word": "automation",
-    "tags": {
-      "AffectiveTone": "melancholic",
-      "Generation": "Boomer",
-      "Setting": "factory",
-      "IdentityExperience": "working-class / underpaid"
-    }
-  },
-  {
-    "word": "space-oddity",
-    "tags": {
-      "Setting": "outer space",
-      "Domain": "emotion",
-      "Culture": "Caribbean"
-    }
-  },
-  {
-    "word": "urban-planning",
-    "tags": {
-      "Domain": "science",
-      "PersonalityLens": "thinker",
-      "IdentityExperience": "LGBTQ+",
-      "Setting": "city"
-    }
-  },
-  {
-    "word": "oumel-khalsoum",
-    "tags": {
-      "Generation": "Boomer",
-      "AffectiveTone": "melancholic",
-      "Culture": "Middle Eastern"
-    }
-  },
-  {
-    "word": "bahay-kubo",
-    "tags": {
-      "Culture": "Pacific Islander",
-      "IdentityExperience": "working-class / underpaid",
-      "Setting": "dorm room"
-    }
-  },
-  {
-    "word": "pachamama",
-    "tags": {
-      "Setting": "jungle",
-      "PersonalityLens": "organizer",
-      "Culture": "Latinx",
-      "AffectiveTone": "joyful"
-    }
-  },
-  {
-    "word": "lyceum",
-    "tags": {
-      "Setting": "dorm room",
-      "Generation": "Ancient / Classical",
       "Domain": "philosophy"
     }
   },
   {
-    "word": "buy-n-large",
+    "word": "post-humanism",
     "tags": {
-      "AffectiveTone": "absurd",
+      "Domain": "philosophy",
+      "Subculture": "art",
+      "Generation": "Futuristic",
+      "AffectiveTone": "absurd"
+    }
+  },
+  {
+    "word": "post-internet",
+    "tags": {
+      "Generation": "Futuristic",
+      "PersonalityLens": "analyst",
+      "Setting": "city"
+    }
+  },
+  {
+    "word": "post-rock",
+    "tags": {
+      "Subculture": "music",
+      "Generation": "Gen X",
+      "AffectiveTone": "melancholic",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "potlatch",
+    "tags": {
+      "Culture": "Global Indigenous",
+      "Domain": "nightlife",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "potluck",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Generation": "Timeless",
+      "PersonalityLens": "feeler",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "poultice",
+    "tags": {
+      "Domain": "health & wellness",
+      "IdentityExperience": "working-class / underpaid",
+      "Setting": "temple"
+    }
+  },
+  {
+    "word": "powwow",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Culture": "Global Indigenous",
+      "Generation": "Gen Z",
+      "Setting": "school"
+    }
+  },
+  {
+    "word": "pre-med",
+    "tags": {
+      "Setting": "school",
+      "IdentityExperience": "mental health experience",
+      "Domain": "health & wellness"
+    }
+  },
+  {
+    "word": "pre-socratic",
+    "tags": {
+      "Domain": "philosophy",
+      "Generation": "Ancient / Classical",
       "PersonalityLens": "thinker",
-      "Subculture": "memes",
-      "Setting": "market"
+      "Culture": "Western"
+    }
+  },
+  {
+    "word": "pre-teen",
+    "tags": {
+      "Domain": "pop culture",
+      "PersonalityLens": "feeler",
+      "IdentityExperience": "neurodivergent"
+    }
+  },
+  {
+    "word": "precarity",
+    "tags": {
+      "Culture": "Hybrid / global culture",
+      "Generation": "Millennial",
+      "IdentityExperience": "working-class / underpaid"
+    }
+  },
+  {
+    "word": "preppy",
+    "tags": {
+      "Subculture": "fashion",
+      "Setting": "school",
+      "Culture": "Western",
+      "Generation": "Boomer"
+    }
+  },
+  {
+    "word": "pride",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "IdentityExperience": "LGBTQ+",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "primitivism",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Domain": "emotion",
+      "Generation": "Millennial",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "projection mapping",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "PersonalityLens": "thinker"
     }
   },
   {
@@ -215,205 +187,67 @@
     }
   },
   {
-    "word": "sommelier",
+    "word": "propaganda",
     "tags": {
-      "Subculture": "nightlife",
-      "PersonalityLens": "healer",
-      "Domain": "economics & work"
+      "AffectiveTone": "mysterious",
+      "PersonalityLens": "analyst"
     }
   },
   {
-    "word": "singularity",
+    "word": "psy-ops",
     "tags": {
-      "Domain": "tech",
       "AffectiveTone": "chaotic",
-      "Generation": "Futuristic"
+      "Setting": "war zone"
     }
   },
   {
-    "word": "club-kid",
+    "word": "psychedelia",
     "tags": {
-      "Subculture": "nightlife",
-      "Generation": "Gen Alpha",
-      "PersonalityLens": "explorer"
+      "Culture": "Western",
+      "AffectiveTone": "chaotic",
+      "Subculture": "music"
     }
   },
   {
-    "word": "dancehall",
+    "word": "psychobilly",
     "tags": {
-      "Culture": "Caribbean",
-      "Domain": "pop culture",
-      "Generation": "Millennial"
-    }
-  },
-  {
-    "word": "mukbang",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "food culture",
-      "AffectiveTone": "absurd"
-    }
-  },
-  {
-    "word": "asmr",
-    "tags": {
-      "Domain": "pop culture",
-      "AffectiveTone": "peaceful",
-      "Subculture": "digital/online culture"
-    }
-  },
-  {
-    "word": "viral-challenge",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "digital/online culture",
-      "Generation": "Gen Z",
+      "Subculture": "fashion",
+      "Generation": "Gen X",
       "AffectiveTone": "chaotic"
     }
   },
   {
-    "word": "reality-tv",
+    "word": "psychogeography",
     "tags": {
-      "Domain": "pop culture",
-      "Generation": "Millennial",
-      "AffectiveTone": "typically humorous"
-    }
-  },
-  {
-    "word": "celebrity-gossip",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "fandoms",
-      "AffectiveTone": "chaotic"
-    }
-  },
-  {
-    "word": "fandom",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "fandoms",
-      "IdentityExperience": "neurodivergent"
-    }
-  },
-  {
-    "word": "shipping",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "fandoms",
-      "IdentityExperience": "LGBTQ+"
-    }
-  },
-  {
-    "word": "fan-fiction",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "fandoms",
-      "Domain": "fiction"
-    }
-  },
-  {
-    "word": "head-canon",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "fandoms",
-      "PersonalityLens": "dreamer"
-    }
-  },
-  {
-    "word": "cosplay",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "fandoms",
-      "Subculture": "fashion"
-    }
-  },
-  {
-    "word": "meme-lord",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "memes",
+      "Setting": "street",
+      "IdentityExperience": "diaspora",
+      "AffectiveTone": "absurd",
       "PersonalityLens": "mystic"
     }
   },
   {
-    "word": "rickroll",
+    "word": "psychology",
     "tags": {
-      "Domain": "pop culture",
-      "Subculture": "memes",
-      "Generation": "Millennial",
-      "AffectiveTone": "typically humorous"
+      "IdentityExperience": "neurodivergent",
+      "PersonalityLens": "dreamer",
+      "Culture": "African",
+      "Generation": "Gen Alpha"
     }
   },
   {
-    "word": "b-movie",
+    "word": "psychonaut",
     "tags": {
-      "Domain": "pop culture",
-      "AffectiveTone": "absurd",
-      "Generation": "Gen X"
+      "PersonalityLens": "explorer",
+      "Domain": "spirituality",
+      "Subculture": "science"
     }
   },
   {
-    "word": "cult-classic",
+    "word": "pundit",
     "tags": {
-      "Domain": "pop culture",
-      "Subculture": "fandoms",
-      "AffectiveTone": "mysterious"
-    }
-  },
-  {
-    "word": "sitcom",
-    "tags": {
-      "Domain": "pop culture",
-      "AffectiveTone": "typically humorous",
-      "Setting": "home"
-    }
-  },
-  {
-    "word": "soap-opera",
-    "tags": {
-      "Domain": "pop culture",
-      "AffectiveTone": "melancholic",
-      "Generation": "Boomer"
-    }
-  },
-  {
-    "word": "talk-show",
-    "tags": {
-      "Domain": "pop culture",
-      "Generation": "Boomer",
-      "Setting": "studio"
-    }
-  },
-  {
-    "word": "game-show",
-    "tags": {
-      "Domain": "pop culture",
-      "AffectiveTone": "joyful",
-      "Generation": "Boomer"
-    }
-  },
-  {
-    "word": "late-night-tv",
-    "tags": {
-      "Domain": "pop culture",
-      "Subculture": "nightlife",
-      "Generation": "Gen X"
-    }
-  },
-  {
-    "word": "teen-movie",
-    "tags": {
-      "Domain": "pop culture",
-      "Generation": "Millennial",
-      "Setting": "school"
-    }
-  },
-  {
-    "word": "blockbuster",
-    "tags": {
-      "Domain": "pop culture",
-      "Generation": "Gen X",
-      "Domain": "economics & work"
+      "Culture": "Hybrid / global culture",
+      "Generation": "Gen Alpha",
+      "PersonalityLens": "thinker"
     }
   }
 ]

@@ -1,0 +1,255 @@
+[
+  {
+    "word": "swap meet",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Domain": "economics & work",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "sweat lodge",
+    "tags": {
+      "Domain": "economics & work",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "sweatshop",
+    "tags": {
+      "Culture": "Diasporic",
+      "Generation": "Gen Alpha",
+      "IdentityExperience": "immigrant / refugee",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "sympatico",
+    "tags": {
+      "Generation": "Timeless",
+      "IdentityExperience": "neurodivergent",
+      "PersonalityLens": "feeler",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "syncretism",
+    "tags": {
+      "Domain": "spirituality",
+      "Culture": "Hybrid / global culture",
+      "PersonalityLens": "analyst"
+    }
+  },
+  {
+    "word": "synesthesia",
+    "tags": {
+      "Culture": "African",
+      "Domain": "science",
+      "PersonalityLens": "thinker",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "synthwave",
+    "tags": {
+      "Subculture": "music",
+      "Generation": "Millennial",
+      "AffectiveTone": "nostalgic",
+      "Domain": "tech"
+    }
+  },
+  {
+    "word": "s\u00e9ance",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "tabla",
+    "tags": {
+      "Culture": "South Asian",
+      "Domain": "music",
+      "Subculture": "music"
+    }
+  },
+  {
+    "word": "tagging",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Generation": "Gen Alpha",
+      "PersonalityLens": "rebel",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "taharah",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Domain": "health & wellness",
+      "IdentityExperience": "LGBTQ+"
+    }
+  },
+  {
+    "word": "taiko",
+    "tags": {
+      "Culture": "East Asian",
+      "Subculture": "music",
+      "AffectiveTone": "chaotic"
+    }
+  },
+  {
+    "word": "talanoa",
+    "tags": {
+      "Culture": "Pacific Islander",
+      "Domain": "philosophy",
+      "Setting": "market",
+      "Subculture": "digital/online culture"
+    }
+  },
+  {
+    "word": "talchum",
+    "tags": {
+      "Culture": "East Asian",
+      "Subculture": "art",
+      "Domain": "spirituality",
+      "AffectiveTone": "typically humorous"
+    }
+  },
+  {
+    "word": "talk show",
+    "tags": {
+      "Domain": "pop culture",
+      "Generation": "Boomer",
+      "Setting": "studio"
+    }
+  },
+  {
+    "word": "talk story",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Culture": "Pacific Islander",
+      "PersonalityLens": "analyst",
+      "Setting": "village"
+    }
+  },
+  {
+    "word": "tang ping",
+    "tags": {
+      "Setting": "dorm room",
+      "PersonalityLens": "dreamer",
+      "Culture": "East Asian",
+      "IdentityExperience": "mental health experience"
+    }
+  },
+  {
+    "word": "tangle",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "Generation": "Gen Alpha",
+      "IdentityExperience": "neurodivergent"
+    }
+  },
+  {
+    "word": "tapa",
+    "tags": {
+      "Generation": "Timeless",
+      "PersonalityLens": "doer",
+      "Culture": "Pacific Islander",
+      "Setting": "market"
+    }
+  },
+  {
+    "word": "taps",
+    "tags": {
+      "Setting": "war zone",
+      "Subculture": "music",
+      "PersonalityLens": "thinker"
+    }
+  },
+  {
+    "word": "tarot",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "tawhid",
+    "tags": {
+      "Domain": "philosophy",
+      "Culture": "Middle Eastern",
+      "PersonalityLens": "mystic"
+    }
+  },
+  {
+    "word": "teach for america",
+    "tags": {
+      "Setting": "jungle",
+      "Domain": "education & learning",
+      "Generation": "Millennial",
+      "AffectiveTone": "chaotic"
+    }
+  },
+  {
+    "word": "teahouse",
+    "tags": {
+      "Culture": "Central Asian",
+      "Domain": "health & wellness",
+      "PersonalityLens": "mystic",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "teddy boy",
+    "tags": {
+      "Subculture": "fashion",
+      "Generation": "Boomer",
+      "Culture": "Western",
+      "AffectiveTone": "rebellious"
+    }
+  },
+  {
+    "word": "teen angst",
+    "tags": {
+      "PersonalityLens": "doer",
+      "AffectiveTone": "melancholic",
+      "Generation": "Gen Alpha"
+    }
+  },
+  {
+    "word": "teen movie",
+    "tags": {
+      "Domain": "pop culture",
+      "Generation": "Millennial",
+      "Setting": "school"
+    }
+  },
+  {
+    "word": "telenovela",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "Culture": "Latinx",
+      "Generation": "Millennial",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "terra nullius",
+    "tags": {
+      "Domain": "science",
+      "Setting": "factory",
+      "AffectiveTone": "chaotic",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "terraforming",
+    "tags": {
+      "Domain": "science",
+      "Generation": "Gen Alpha",
+      "IdentityExperience": "immigrant / refugee",
+      "AffectiveTone": "peaceful"
+    }
+  }
+]

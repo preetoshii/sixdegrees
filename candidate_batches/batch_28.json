@@ -1,0 +1,255 @@
+[
+  {
+    "word": "ubuntu diop",
+    "tags": {
+      "Culture": "African",
+      "IdentityExperience": "mental health experience",
+      "Generation": "Gen Alpha"
+    }
+  },
+  {
+    "word": "ukulele",
+    "tags": {
+      "Culture": "Pacific Islander",
+      "Generation": "Timeless",
+      "IdentityExperience": "disabled / chronically ill",
+      "Subculture": "music"
+    }
+  },
+  {
+    "word": "uniform",
+    "tags": {
+      "Generation": "Timeless",
+      "Setting": "school",
+      "Domain": "fiction",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "union",
+    "tags": {
+      "Domain": "economics & work",
+      "Generation": "Boomer",
+      "PersonalityLens": "healer"
+    }
+  },
+  {
+    "word": "unionize",
+    "tags": {
+      "Domain": "emotion",
+      "IdentityExperience": "working-class / underpaid",
+      "PersonalityLens": "healer",
+      "Setting": "underground"
+    }
+  },
+  {
+    "word": "unschooling",
+    "tags": {
+      "Generation": "Gen Alpha",
+      "Domain": "education & learning",
+      "Setting": "underground"
+    }
+  },
+  {
+    "word": "upcycling",
+    "tags": {
+      "Subculture": "fashion",
+      "IdentityExperience": "disabled / chronically ill",
+      "Generation": "Gen Z"
+    }
+  },
+  {
+    "word": "urban explorer",
+    "tags": {
+      "Domain": "pop culture",
+      "IdentityExperience": "immigrant / refugee",
+      "PersonalityLens": "dreamer",
+      "Setting": "underground"
+    }
+  },
+  {
+    "word": "urban planning",
+    "tags": {
+      "Domain": "science",
+      "PersonalityLens": "thinker",
+      "IdentityExperience": "LGBTQ+",
+      "Setting": "city"
+    }
+  },
+  {
+    "word": "utopia",
+    "tags": {
+      "Domain": "fiction",
+      "PersonalityLens": "dreamer",
+      "AffectiveTone": "peaceful"
+    }
+  },
+  {
+    "word": "uv tattoo",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "v-tuber",
+    "tags": {
+      "Domain": "pop culture",
+      "Generation": "Futuristic",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "vampire",
+    "tags": {
+      "Domain": "fiction",
+      "PersonalityLens": "healer",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "vaporwave",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Generation": "Futuristic",
+      "IdentityExperience": "immigrant / refugee",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "vaudeville",
+    "tags": {
+      "Culture": "Western",
+      "Generation": "Boomer",
+      "Domain": "pop culture",
+      "AffectiveTone": "typically humorous"
+    }
+  },
+  {
+    "word": "venting",
+    "tags": {
+      "Domain": "emotion",
+      "IdentityExperience": "disabled / chronically ill",
+      "Setting": "underground",
+      "Subculture": "digital/online culture"
+    }
+  },
+  {
+    "word": "vernissage",
+    "tags": {
+      "Culture": "Western",
+      "PersonalityLens": "feeler",
+      "Setting": "city",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "vibes",
+    "tags": {
+      "Culture": "African",
+      "Generation": "Millennial",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "vietnam war",
+    "tags": {
+      "Generation": "Boomer",
+      "IdentityExperience": "racialized / minority",
+      "Setting": "jungle"
+    }
+  },
+  {
+    "word": "village idiot",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "Setting": "village",
+      "IdentityExperience": "disabled / chronically ill"
+    }
+  },
+  {
+    "word": "viral challenge",
+    "tags": {
+      "Domain": "pop culture",
+      "Subculture": "digital/online culture",
+      "Generation": "Gen Z",
+      "AffectiveTone": "chaotic"
+    }
+  },
+  {
+    "word": "visual kei",
+    "tags": {
+      "Subculture": "music",
+      "Culture": "East Asian",
+      "AffectiveTone": "chaotic"
+    }
+  },
+  {
+    "word": "vlog",
+    "tags": {
+      "Domain": "emotion",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "vodou",
+    "tags": {
+      "Culture": "Caribbean",
+      "Domain": "spirituality",
+      "Setting": "jungle",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "vogueing",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Culture": "African",
+      "IdentityExperience": "LGBTQ+",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "vulnerability",
+    "tags": {
+      "Domain": "emotion",
+      "PersonalityLens": "feeler",
+      "AffectiveTone": "peaceful"
+    }
+  },
+  {
+    "word": "wabi-sabi",
+    "tags": {
+      "Culture": "East Asian",
+      "Domain": "philosophy",
+      "AffectiveTone": "peaceful"
+    }
+  },
+  {
+    "word": "waifu",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "Generation": "Futuristic",
+      "IdentityExperience": "spiritual seeker",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "war paint",
+    "tags": {
+      "Culture": "Global Indigenous",
+      "Subculture": "fashion",
+      "AffectiveTone": "rebellious",
+      "IdentityExperience": "racialized / minority"
+    }
+  },
+  {
+    "word": "wayfinding",
+    "tags": {
+      "Culture": "Pacific Islander",
+      "Domain": "nature",
+      "Generation": "Gen Alpha",
+      "Setting": "school"
+    }
+  }
+]

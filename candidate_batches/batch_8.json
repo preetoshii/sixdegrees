@@ -1,0 +1,372 @@
+[
+  {
+    "word": "tabla",
+    "tags": {
+      "Culture": "South Asian",
+      "Domain": "music",
+      "Subculture": "music"
+    }
+  },
+  {
+    "word": "douen",
+    "tags": {
+      "Culture": "Caribbean",
+      "Domain": "music",
+      "IdentityExperience": "immigrant / refugee"
+    }
+  },
+  {
+    "word": "stasis",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Domain": "philosophy",
+      "Setting": "outer space"
+    }
+  },
+  {
+    "word": "dabke",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Domain": "fandoms",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "dynasty",
+    "tags": {
+      "Culture": "East Asian",
+      "Generation": "Gen Alpha",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "council",
+    "tags": {
+      "Culture": "African",
+      "Domain": "fiction",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "potlatch",
+    "tags": {
+      "Culture": "Global Indigenous",
+      "Domain": "nightlife",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "overstimulation",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Domain": "philosophy",
+      "Setting": "outer space"
+    }
+  },
+  {
+    "word": "maquiladora",
+    "tags": {
+      "Culture": "Latinx",
+      "Domain": "factory",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "hula",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Culture": "Pacific Islander",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "side-gig",
+    "tags": {
+      "Culture": "Latinx",
+      "Domain": "home",
+      "Setting": "home"
+    }
+  },
+  {
+    "word": "bushcraft",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Domain": "education & learning",
+      "PersonalityLens": "doer"
+    }
+  },
+  {
+    "word": "sijo",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Domain": "philosophy",
+      "PersonalityLens": "analyst"
+    }
+  },
+  {
+    "word": "projection-mapping",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "PersonalityLens": "thinker"
+    }
+  },
+  {
+    "word": "dad-joke",
+    "tags": {
+      "Generation": "Boomer",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "self-dx",
+    "tags": {
+      "IdentityExperience": "gender-expansive / trans",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "curandera-punk",
+    "tags": {
+      "Culture": "Latinx",
+      "PersonalityLens": "healer"
+    }
+  },
+  {
+    "word": "tincture",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Setting": "war zone"
+    }
+  },
+  {
+    "word": "palaver",
+    "tags": {
+      "Culture": "African",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "retro",
+    "tags": {
+      "Generation": "Boomer",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "arcadia",
+    "tags": {
+      "Generation": "Futuristic",
+      "Setting": "temple"
+    }
+  },
+  {
+    "word": "tryst",
+    "tags": {
+      "Generation": "Futuristic",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "sacred-grove",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "exorcism",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Domain": "spirituality"
+    }
+  },
+  {
+    "word": "maroonage",
+    "tags": {
+      "Culture": "Caribbean",
+      "IdentityExperience": "diaspora"
+    }
+  },
+  {
+    "word": "simmer",
+    "tags": {
+      "Generation": "Millennial",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "sagas",
+    "tags": {
+      "Culture": "African",
+      "Setting": "home"
+    }
+  },
+  {
+    "word": "trivium",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Generation": "Ancient / Classical"
+    }
+  },
+  {
+    "word": "squat",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "petroglyph",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "shitposter",
+    "tags": {
+      "Generation": "Gen Z",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "rage-room",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "meme-lord",
+    "tags": {
+      "Generation": "Gen Z",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "bonfire",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Setting": "jungle"
+    }
+  },
+  {
+    "word": "mind-palace",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "PersonalityLens": "healer"
+    }
+  },
+  {
+    "word": "street-performer",
+    "tags": {
+      "Generation": "Millennial",
+      "Setting": "city"
+    }
+  },
+  {
+    "word": "liming",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "mad-scientist",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "crystal-healing",
+    "tags": {
+      "Domain": "pop culture",
+      "PersonalityLens": "healer"
+    }
+  },
+  {
+    "word": "self-medicate",
+    "tags": {
+      "Domain": "health & wellness",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "sarong",
+    "tags": {
+      "Culture": "Pacific Islander",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "manic-pixie-dream-girl",
+    "tags": {
+      "Culture": "Central Asian",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "socratic-method",
+    "tags": {
+      "Generation": "Ancient / Classical",
+      "Setting": "school"
+    }
+  },
+  {
+    "word": "nostalgia-trip",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Setting": "home"
+    }
+  },
+  {
+    "word": "guerilla-art",
+    "tags": {
+      "Culture": "African",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "absurdist-humor",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Setting": "village"
+    }
+  },
+  {
+    "word": "mutual-aid",
+    "tags": {
+      "Culture": "Diasporic",
+      "PersonalityLens": "healer"
+    }
+  },
+  {
+    "word": "cat-girl",
+    "tags": {
+      "Generation": "Gen Alpha",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "chosen-family",
+    "tags": {
+      "Domain": "fiction",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "company-town",
+    "tags": {
+      "Culture": "Western",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "heirloom",
+    "tags": {
+      "Culture": "Caribbean",
+      "IdentityExperience": "diaspora"
+    }
+  }
+]

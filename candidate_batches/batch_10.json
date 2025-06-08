@@ -1,0 +1,362 @@
+[
+  {
+    "word": "propaganda",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "PersonalityLens": "analyst"
+    }
+  },
+  {
+    "word": "zakat",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "tarot",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "data-mining",
+    "tags": {
+      "Culture": "Western",
+      "IdentityExperience": "immigrant / refugee"
+    }
+  },
+  {
+    "word": "slow-food",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "shell-shock",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Setting": "war zone"
+    }
+  },
+  {
+    "word": "stoa",
+    "tags": {
+      "Culture": "Western",
+      "PersonalityLens": "thinker"
+    }
+  },
+  {
+    "word": "genocide",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "IdentityExperience": "racialized / minority"
+    }
+  },
+  {
+    "word": "roda",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "terra-nullius",
+    "tags": {
+      "Domain": "science",
+      "Setting": "factory",
+      "AffectiveTone": "chaotic",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "hospice",
+    "tags": {
+      "Generation": "Timeless",
+      "Setting": "city"
+    }
+  },
+  {
+    "word": "atoll",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "PersonalityLens": "thinker"
+    }
+  },
+  {
+    "word": "sweat-lodge",
+    "tags": {
+      "Domain": "economics & work",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "elegy",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "PersonalityLens": "mystic"
+    }
+  },
+  {
+    "word": "mosh-pit",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "uv-tattoo",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "neural-lace",
+    "tags": {
+      "Domain": "health & wellness",
+      "IdentityExperience": "neurodivergent"
+    }
+  },
+  {
+    "word": "dungeon-crawl",
+    "tags": {
+      "Culture": "Central Asian",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "mikveh",
+    "tags": {
+      "Culture": "Caribbean",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "chai-latte",
+    "tags": {
+      "Culture": "Central Asian",
+      "Generation": "Timeless"
+    }
+  },
+  {
+    "word": "street-wear",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "bondage-gear",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "gurukulam",
+    "tags": {
+      "Culture": "Global Indigenous",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "arabesque",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "vlog",
+    "tags": {
+      "Domain": "emotion",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "yandere",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "feel-good",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "IdentityExperience": "mental health experience"
+    }
+  },
+  {
+    "word": "arcology",
+    "tags": {
+      "Generation": "Gen Alpha",
+      "Setting": "jungle"
+    }
+  },
+  {
+    "word": "calisthenics",
+    "tags": {
+      "Culture": "African",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "headcanon",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Setting": "market"
+    }
+  },
+  {
+    "word": "s\u00e9ance",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "gundam",
+    "tags": {
+      "Culture": "Diasporic",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "glow-up",
+    "tags": {
+      "Generation": "Futuristic",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "la-veille",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "newspeak",
+    "tags": {
+      "Culture": "Diasporic",
+      "Setting": "war zone"
+    }
+  },
+  {
+    "word": "soca",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Subculture": "music"
+    }
+  },
+  {
+    "word": "hang-loose",
+    "tags": {
+      "Culture": "Pacific Islander",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "cyber-goth",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "co-living",
+    "tags": {
+      "IdentityExperience": "diaspora",
+      "Setting": "dorm room"
+    }
+  },
+  {
+    "word": "queer-theory",
+    "tags": {
+      "Domain": "philosophy",
+      "Setting": "school"
+    }
+  },
+  {
+    "word": "singularity",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Generation": "Timeless"
+    }
+  },
+  {
+    "word": "meme-stock",
+    "tags": {
+      "Domain": "science",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "third-eye",
+    "tags": {
+      "Culture": "Diasporic",
+      "PersonalityLens": "mystic"
+    }
+  },
+  {
+    "word": "hustle-culture",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "IdentityExperience": "working-class / underpaid"
+    }
+  },
+  {
+    "word": "cross-fit",
+    "tags": {
+      "Culture": "Diasporic",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "madrasah",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Setting": "temple"
+    }
+  },
+  {
+    "word": "sufi-whirling",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "satsang",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "IdentityExperience": "spiritual seeker"
+    }
+  },
+  {
+    "word": "diaspora-gothic",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "gamified-learning",
+    "tags": {
+      "Domain": "health & wellness",
+      "PersonalityLens": "organizer",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "ganja",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Setting": "internet"
+    }
+  }
+]

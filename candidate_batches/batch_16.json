@@ -1,0 +1,414 @@
+[
+  {
+    "word": "flash-mob",
+    "tags": {
+      "PersonalityLens": "thinker",
+      "Setting": "street",
+      "Culture": "Hybrid / global culture",
+      "AffectiveTone": "joyful"
+    }
+  },
+  {
+    "word": "telenovela",
+    "tags": {
+      "Subculture": "anime",
+      "Culture": "Latinx",
+      "IdentityExperience": "spiritual seeker"
+    }
+  },
+  {
+    "word": "indigenous-knowledge",
+    "tags": {
+      "Setting": "jungle",
+      "Domain": "education & learning",
+      "IdentityExperience": "racialized / minority"
+    }
+  },
+  {
+    "word": "agent-orange",
+    "tags": {
+      "Generation": "Boomer",
+      "Culture": "Hybrid / global culture",
+      "IdentityExperience": "mental health experience",
+      "Setting": "jungle"
+    }
+  },
+  {
+    "word": "mukbang",
+    "tags": {
+      "Subculture": "food culture",
+      "Setting": "war zone",
+      "Generation": "Gen Z"
+    }
+  },
+  {
+    "word": "trekkie",
+    "tags": {
+      "Generation": "Boomer",
+      "PersonalityLens": "thinker",
+      "Domain": "history",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "agora",
+    "tags": {
+      "Generation": "Ancient / Classical",
+      "Setting": "city",
+      "AffectiveTone": "chaotic"
+    }
+  },
+  {
+    "word": "h-bomb",
+    "tags": {
+      "Domain": "science",
+      "Setting": "underground",
+      "PersonalityLens": "thinker"
+    }
+  },
+  {
+    "word": "generative-art",
+    "tags": {
+      "Subculture": "art",
+      "Generation": "Gen Alpha",
+      "Setting": "outer space",
+      "Domain": "art"
+    }
+  },
+  {
+    "word": "mana-regen",
+    "tags": {
+      "PersonalityLens": "analyst",
+      "Culture": "Pacific Islander",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "vietnam-war",
+    "tags": {
+      "Generation": "Boomer",
+      "IdentityExperience": "racialized / minority",
+      "Setting": "jungle"
+    }
+  },
+  {
+    "word": "kundalini",
+    "tags": {
+      "Culture": "South Asian",
+      "Domain": "spirituality",
+      "PersonalityLens": "dreamer",
+      "AffectiveTone": "chaotic"
+    }
+  },
+  {
+    "word": "gen-z-humor",
+    "tags": {
+      "Culture": "South Asian",
+      "Generation": "Gen Alpha",
+      "AffectiveTone": "melancholic"
+    }
+  },
+  {
+    "word": "carpe-diem",
+    "tags": {
+      "Domain": "philosophy",
+      "Subculture": "memes",
+      "Setting": "war zone",
+      "AffectiveTone": "joyful"
+    }
+  },
+  {
+    "word": "omotenashi",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Subculture": "food culture",
+      "PersonalityLens": "doer",
+      "Culture": "East Asian"
+    }
+  },
+  {
+    "word": "dreamtime",
+    "tags": {
+      "IdentityExperience": "racialized / minority",
+      "AffectiveTone": "nostalgic",
+      "Culture": "Global Indigenous"
+    }
+  },
+  {
+    "word": "ed-tech",
+    "tags": {
+      "Subculture": "gaming",
+      "Domain": "education & learning",
+      "IdentityExperience": "neurodivergent"
+    }
+  },
+  {
+    "word": "psychogeography",
+    "tags": {
+      "Setting": "street",
+      "IdentityExperience": "diaspora",
+      "AffectiveTone": "absurd",
+      "PersonalityLens": "mystic"
+    }
+  },
+  {
+    "word": "manhwa",
+    "tags": {
+      "Domain": "art",
+      "Culture": "East Asian",
+      "AffectiveTone": "typically humorous"
+    }
+  },
+  {
+    "word": "triage",
+    "tags": {
+      "Setting": "war zone",
+      "IdentityExperience": "working-class / underpaid",
+      "PersonalityLens": "healer"
+    }
+  },
+  {
+    "word": "oasis",
+    "tags": {
+      "Domain": "nature",
+      "AffectiveTone": "peaceful",
+      "Culture": "Middle Eastern",
+      "PersonalityLens": "organizer"
+    }
+  },
+  {
+    "word": "haveli",
+    "tags": {
+      "PersonalityLens": "doer",
+      "Culture": "South Asian",
+      "Setting": "underground"
+    }
+  },
+  {
+    "word": "nollywood",
+    "tags": {
+      "Domain": "science",
+      "Culture": "African",
+      "PersonalityLens": "dreamer",
+      "IdentityExperience": "working-class / underpaid"
+    }
+  },
+  {
+    "word": "samovar",
+    "tags": {
+      "Domain": "pop culture",
+      "Setting": "home",
+      "Culture": "Central Asian",
+      "IdentityExperience": "spiritual seeker"
+    }
+  },
+  {
+    "word": "woodstock",
+    "tags": {
+      "Setting": "dorm room",
+      "IdentityExperience": "LGBTQ+",
+      "Generation": "Boomer",
+      "AffectiveTone": "chaotic"
+    }
+  },
+  {
+    "word": "food-porn",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "Subculture": "food culture",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "fela-kuti",
+    "tags": {
+      "Generation": "Gen X",
+      "Culture": "African",
+      "PersonalityLens": "rebel",
+      "AffectiveTone": "typically humorous"
+    }
+  },
+  {
+    "word": "inner-child",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "PersonalityLens": "healer",
+      "Setting": "home"
+    }
+  },
+  {
+    "word": "meta-modernism",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Generation": "Futuristic",
+      "IdentityExperience": "neurodivergent",
+      "PersonalityLens": "organizer"
+    }
+  },
+  {
+    "word": "jet-set",
+    "tags": {
+      "Domain": "economics & work",
+      "AffectiveTone": "joyful",
+      "Generation": "Boomer",
+      "Subculture": "fashion"
+    }
+  },
+  {
+    "word": "pre-socratic",
+    "tags": {
+      "Domain": "philosophy",
+      "Generation": "Ancient / Classical",
+      "PersonalityLens": "thinker",
+      "Culture": "Western"
+    }
+  },
+  {
+    "word": "anarchism",
+    "tags": {
+      "Domain": "philosophy",
+      "PersonalityLens": "rebel",
+      "AffectiveTone": "rebellious"
+    }
+  },
+  {
+    "word": "utopia",
+    "tags": {
+      "Domain": "fiction",
+      "PersonalityLens": "dreamer",
+      "AffectiveTone": "peaceful"
+    }
+  },
+  {
+    "word": "meme-stock",
+    "tags": {
+      "Domain": "economics & work",
+      "Subculture": "memes",
+      "Generation": "Gen Z",
+      "AffectiveTone": "chaotic"
+    }
+  },
+  {
+    "word": "soylent",
+    "tags": {
+      "Subculture": "food culture",
+      "Domain": "tech",
+      "Generation": "Futuristic"
+    }
+  },
+  {
+    "word": "lindy-hop",
+    "tags": {
+      "Subculture": "music",
+      "Generation": "Boomer",
+      "AffectiveTone": "joyful"
+    }
+  },
+  {
+    "word": "kabuki",
+    "tags": {
+      "Culture": "East Asian",
+      "Subculture": "art",
+      "Domain": "history"
+    }
+  },
+  {
+    "word": "dadaism",
+    "tags": {
+      "Subculture": "art",
+      "AffectiveTone": "absurd",
+      "Generation": "Boomer"
+    }
+  },
+  {
+    "word": "surrealism",
+    "tags": {
+      "Subculture": "art",
+      "AffectiveTone": "mysterious",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "brutalism",
+    "tags": {
+      "Subculture": "art",
+      "Setting": "city",
+      "AffectiveTone": "melancholic"
+    }
+  },
+  {
+    "word": "maximalism",
+    "tags": {
+      "Subculture": "fashion",
+      "AffectiveTone": "chaotic",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "minimalism",
+    "tags": {
+      "Subculture": "fashion",
+      "AffectiveTone": "peaceful",
+      "PersonalityLens": "organizer"
+    }
+  },
+  {
+    "word": "wabi-sabi",
+    "tags": {
+      "Culture": "East Asian",
+      "Domain": "philosophy",
+      "AffectiveTone": "peaceful"
+    }
+  },
+  {
+    "word": "ikigai",
+    "tags": {
+      "Culture": "East Asian",
+      "Domain": "philosophy",
+      "PersonalityLens": "doer"
+    }
+  },
+  {
+    "word": "gezellig",
+    "tags": {
+      "Culture": "Western",
+      "Setting": "home",
+      "AffectiveTone": "joyful"
+    }
+  },
+  {
+    "word": "hygge",
+    "tags": {
+      "Culture": "Western",
+      "Setting": "home",
+      "AffectiveTone": "peaceful"
+    }
+  },
+  {
+    "word": "commedia-dell-arte",
+    "tags": {
+      "Culture": "Western",
+      "Subculture": "art",
+      "AffectiveTone": "typically humorous",
+      "Domain": "history"
+    }
+  },
+  {
+    "word": "grand-guignol",
+    "tags": {
+      "Culture": "Western",
+      "Subculture": "art",
+      "AffectiveTone": "chaotic",
+      "Domain": "history"
+    }
+  },
+  {
+    "word": "vaudeville",
+    "tags": {
+      "Culture": "Western",
+      "Subculture": "art",
+      "AffectiveTone": "typically humorous",
+      "Generation": "Boomer"
+    }
+  }
+]

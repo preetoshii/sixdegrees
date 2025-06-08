@@ -1,0 +1,432 @@
+[
+  {
+    "word": "homesick",
+    "tags": {
+      "IdentityExperience": "mental health experience",
+      "Setting": "school",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "cruising",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "IdentityExperience": "LGBTQ+",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "tangle",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "Generation": "Gen Alpha",
+      "IdentityExperience": "neurodivergent"
+    }
+  },
+  {
+    "word": "grinder",
+    "tags": {
+      "Domain": "tech",
+      "Generation": "Gen Alpha",
+      "IdentityExperience": "spiritual seeker",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "hijra",
+    "tags": {
+      "Culture": "South Asian",
+      "Domain": "emotion",
+      "IdentityExperience": "gender-expansive / trans",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "poultice",
+    "tags": {
+      "Domain": "health & wellness",
+      "IdentityExperience": "working-class / underpaid",
+      "Setting": "temple"
+    }
+  },
+  {
+    "word": "grounding",
+    "tags": {
+      "Culture": "Diasporic",
+      "IdentityExperience": "mental health experience",
+      "PersonalityLens": "doer"
+    }
+  },
+  {
+    "word": "diaspora",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "IdentityExperience": "immigrant / refugee",
+      "Setting": "temple"
+    }
+  },
+  {
+    "word": "glitching",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Domain": "tech",
+      "Generation": "Gen Z",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "beef",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Culture": "African",
+      "Setting": "war zone",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "eco-grief",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Culture": "Diasporic",
+      "Domain": "nature",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "cyberpunk",
+    "tags": {
+      "Generation": "Futuristic",
+      "IdentityExperience": "mental health experience",
+      "Setting": "underground",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "parkour",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "IdentityExperience": "neurodivergent",
+      "Setting": "village",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "haka",
+    "tags": {
+      "Culture": "Pacific Islander",
+      "Generation": "Gen Alpha",
+      "IdentityExperience": "immigrant / refugee"
+    }
+  },
+  {
+    "word": "hiraeth",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "IdentityExperience": "diaspora",
+      "PersonalityLens": "mystic"
+    }
+  },
+  {
+    "word": "contemplation",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Domain": "philosophy",
+      "PersonalityLens": "mystic",
+      "Setting": "temple"
+    }
+  },
+  {
+    "word": "v-tuber",
+    "tags": {
+      "Domain": "pop culture",
+      "Generation": "Futuristic",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "bonsai",
+    "tags": {
+      "Culture": "East Asian",
+      "Domain": "nature",
+      "Generation": "Gen Alpha",
+      "PersonalityLens": "doer"
+    }
+  },
+  {
+    "word": "doxxing",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Generation": "Gen X",
+      "IdentityExperience": "racialized / minority",
+      "Subculture": "digital/online culture"
+    }
+  },
+  {
+    "word": "cottagecore",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Generation": "Futuristic",
+      "PersonalityLens": "dreamer",
+      "Setting": "village"
+    }
+  },
+  {
+    "word": "delinquent",
+    "tags": {
+      "Domain": "emotion",
+      "IdentityExperience": "racialized / minority",
+      "Setting": "street",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "cholo",
+    "tags": {
+      "Culture": "Latinx",
+      "IdentityExperience": "working-class / underpaid",
+      "PersonalityLens": "rebel"
+    }
+  },
+  {
+    "word": "hater",
+    "tags": {
+      "Generation": "Gen Z",
+      "IdentityExperience": "racialized / minority",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "mixtape",
+    "tags": {
+      "Generation": "Gen X",
+      "PersonalityLens": "healer",
+      "Setting": "school",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "oracle",
+    "tags": {
+      "Generation": "Ancient / Classical",
+      "IdentityExperience": "gender-expansive / trans",
+      "PersonalityLens": "healer",
+      "Setting": "market"
+    }
+  },
+  {
+    "word": "ayahuasca",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Culture": "Latinx",
+      "Setting": "jungle",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "fae",
+    "tags": {
+      "Generation": "Timeless",
+      "IdentityExperience": "gender-expansive / trans",
+      "PersonalityLens": "dreamer",
+      "Setting": "village"
+    }
+  },
+  {
+    "word": "lament",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Culture": "Global Indigenous",
+      "IdentityExperience": "diaspora",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "nostalgia",
+    "tags": {
+      "Culture": "Diasporic",
+      "Generation": "Gen X",
+      "IdentityExperience": "immigrant / refugee",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "raga",
+    "tags": {
+      "Culture": "Central Asian",
+      "PersonalityLens": "thinker",
+      "Setting": "factory",
+      "Subculture": "music"
+    }
+  },
+  {
+    "word": "tagging",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Generation": "Gen Alpha",
+      "PersonalityLens": "rebel",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "placebo",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Domain": "philosophy",
+      "IdentityExperience": "mental health experience",
+      "Setting": "market"
+    }
+  },
+  {
+    "word": "waifu",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "Generation": "Futuristic",
+      "IdentityExperience": "spiritual seeker",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "chant",
+    "tags": {
+      "Culture": "Hybrid / global culture",
+      "Generation": "Ancient / Classical",
+      "Subculture": "music"
+    }
+  },
+  {
+    "word": "bladerunner",
+    "tags": {
+      "Culture": "Latinx",
+      "Domain": "tech",
+      "Generation": "Gen Alpha",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "parkour",
+    "tags": {
+      "Generation": "Gen Z",
+      "IdentityExperience": "disabled / chronically ill"
+    }
+  },
+  {
+    "word": "griot",
+    "tags": {
+      "Culture": "African",
+      "Generation": "Ancient / Classical",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "stowaway",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Culture": "Hybrid / global culture",
+      "IdentityExperience": "immigrant / refugee",
+      "Setting": "outer space"
+    }
+  },
+  {
+    "word": "relic",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Culture": "Hybrid / global culture",
+      "Setting": "temple",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "gig-economy",
+    "tags": {
+      "Culture": "Diasporic",
+      "Domain": "economics & work",
+      "IdentityExperience": "disabled / chronically ill"
+    }
+  },
+  {
+    "word": "jumbie",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Culture": "Caribbean",
+      "Domain": "history",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "haggle",
+    "tags": {
+      "Generation": "Timeless",
+      "PersonalityLens": "feeler",
+      "Setting": "market",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "eco-anxiety",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Domain": "nature",
+      "Generation": "Gen Z",
+      "IdentityExperience": "disabled / chronically ill"
+    }
+  },
+  {
+    "word": "feud",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Domain": "emotion",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "burnout",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Domain": "economics & work",
+      "IdentityExperience": "gender-expansive / trans"
+    }
+  },
+  {
+    "word": "vodou",
+    "tags": {
+      "Culture": "Caribbean",
+      "Domain": "spirituality",
+      "Setting": "jungle",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "show-and-tell",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "IdentityExperience": "disabled / chronically ill",
+      "PersonalityLens": "doer",
+      "Setting": "school"
+    }
+  },
+  {
+    "word": "boot-camp",
+    "tags": {
+      "Domain": "education & learning",
+      "Generation": "Gen X",
+      "Setting": "war zone"
+    }
+  },
+  {
+    "word": "souk",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "Culture": "Middle Eastern",
+      "PersonalityLens": "analyst",
+      "Setting": "city"
+    }
+  },
+  {
+    "word": "union",
+    "tags": {
+      "Domain": "economics & work",
+      "Generation": "Boomer",
+      "PersonalityLens": "healer"
+    }
+  }
+]

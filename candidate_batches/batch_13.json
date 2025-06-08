@@ -1,0 +1,432 @@
+[
+  {
+    "word": "santeria",
+    "tags": {
+      "PersonalityLens": "analyst",
+      "Domain": "spirituality",
+      "Culture": "Caribbean"
+    }
+  },
+  {
+    "word": "schadenfreude",
+    "tags": {
+      "Generation": "Timeless",
+      "AffectiveTone": "typically humorous",
+      "IdentityExperience": "diaspora",
+      "PersonalityLens": "organizer"
+    }
+  },
+  {
+    "word": "peripatetic",
+    "tags": {
+      "Setting": "village",
+      "Domain": "philosophy",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "net-art",
+    "tags": {
+      "Domain": "tech",
+      "IdentityExperience": "neurodivergent",
+      "Setting": "internet"
+    }
+  },
+  {
+    "word": "weltschmerz",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "IdentityExperience": "working-class / underpaid",
+      "PersonalityLens": "healer",
+      "Domain": "art"
+    }
+  },
+  {
+    "word": "tapa",
+    "tags": {
+      "Generation": "Timeless",
+      "PersonalityLens": "doer",
+      "Culture": "Pacific Islander",
+      "Setting": "market"
+    }
+  },
+  {
+    "word": "luau",
+    "tags": {
+      "Setting": "market",
+      "Culture": "Pacific Islander",
+      "AffectiveTone": "joyful",
+      "Generation": "Gen Z"
+    }
+  },
+  {
+    "word": "darknet",
+    "tags": {
+      "Setting": "underground",
+      "Subculture": "digital/online culture",
+      "IdentityExperience": "immigrant / refugee"
+    }
+  },
+  {
+    "word": "gaymer",
+    "tags": {
+      "Domain": "science",
+      "IdentityExperience": "LGBTQ+",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "war-paint",
+    "tags": {
+      "Culture": "Global Indigenous",
+      "Subculture": "fashion",
+      "AffectiveTone": "rebellious",
+      "IdentityExperience": "racialized / minority"
+    }
+  },
+  {
+    "word": "pessimism",
+    "tags": {
+      "Culture": "Latinx",
+      "Generation": "Timeless",
+      "PersonalityLens": "rebel",
+      "Domain": "philosophy"
+    }
+  },
+  {
+    "word": "mahu",
+    "tags": {
+      "Subculture": "digital/online culture",
+      "IdentityExperience": "LGBTQ+",
+      "Culture": "Pacific Islander"
+    }
+  },
+  {
+    "word": "fernweh",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "PersonalityLens": "explorer",
+      "Generation": "Timeless"
+    }
+  },
+  {
+    "word": "singularity",
+    "tags": {
+      "IdentityExperience": "neurodivergent",
+      "Generation": "Futuristic",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "third-place",
+    "tags": {
+      "Generation": "Gen Z",
+      "Setting": "village",
+      "IdentityExperience": "diaspora"
+    }
+  },
+  {
+    "word": "kin-keeping",
+    "tags": {
+      "Generation": "Millennial",
+      "IdentityExperience": "neurodivergent",
+      "Setting": "home"
+    }
+  },
+  {
+    "word": "stoicism",
+    "tags": {
+      "Generation": "Timeless",
+      "Setting": "war zone",
+      "Domain": "philosophy",
+      "IdentityExperience": "gender-expansive / trans"
+    }
+  },
+  {
+    "word": "after-hours",
+    "tags": {
+      "Domain": "economics & work",
+      "Setting": "home",
+      "Subculture": "nightlife",
+      "PersonalityLens": "analyst"
+    }
+  },
+  {
+    "word": "two-spirit",
+    "tags": {
+      "Culture": "Global Indigenous",
+      "PersonalityLens": "analyst",
+      "IdentityExperience": "LGBTQ+",
+      "Subculture": "digital/online culture"
+    }
+  },
+  {
+    "word": "camp",
+    "tags": {
+      "PersonalityLens": "explorer",
+      "IdentityExperience": "racialized / minority",
+      "AffectiveTone": "absurd"
+    }
+  },
+  {
+    "word": "smudging",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "PersonalityLens": "mystic",
+      "IdentityExperience": "diaspora",
+      "Culture": "Global Indigenous"
+    }
+  },
+  {
+    "word": "shoujo",
+    "tags": {
+      "Domain": "art",
+      "Setting": "village",
+      "Generation": "Timeless",
+      "Subculture": "anime"
+    }
+  },
+  {
+    "word": "dogon",
+    "tags": {
+      "PersonalityLens": "thinker",
+      "Culture": "African",
+      "Setting": "outer space",
+      "AffectiveTone": "peaceful"
+    }
+  },
+  {
+    "word": "feels",
+    "tags": {
+      "Domain": "emotion",
+      "Generation": "Gen Z",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "lawrence-of-arabia",
+    "tags": {
+      "Generation": "Boomer",
+      "Culture": "Middle Eastern",
+      "IdentityExperience": "racialized / minority",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "karoshi",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Culture": "Middle Eastern",
+      "IdentityExperience": "mental health experience",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "samizdat",
+    "tags": {
+      "Culture": "Central Asian",
+      "Domain": "art",
+      "Setting": "dorm room",
+      "PersonalityLens": "rebel"
+    }
+  },
+  {
+    "word": "chaat",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "IdentityExperience": "disabled / chronically ill",
+      "Culture": "South Asian",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "fugu",
+    "tags": {
+      "Subculture": "food culture",
+      "IdentityExperience": "racialized / minority",
+      "AffectiveTone": "mysterious",
+      "Generation": "Gen X"
+    }
+  },
+  {
+    "word": "diaspora",
+    "tags": {
+      "Generation": "Boomer",
+      "Domain": "pop culture",
+      "Culture": "Diasporic",
+      "Setting": "village"
+    }
+  },
+  {
+    "word": "luddite",
+    "tags": {
+      "Domain": "history",
+      "PersonalityLens": "rebel",
+      "IdentityExperience": "working-class / underpaid",
+      "Generation": "Boomer"
+    }
+  },
+  {
+    "word": "avant-garde",
+    "tags": {
+      "Domain": "art",
+      "PersonalityLens": "explorer",
+      "Generation": "Boomer",
+      "AffectiveTone": "rebellious"
+    }
+  },
+  {
+    "word": "afro-futurism",
+    "tags": {
+      "Culture": "African",
+      "Domain": "fiction",
+      "Generation": "Futuristic"
+    }
+  },
+  {
+    "word": "saudade",
+    "tags": {
+      "IdentityExperience": "diaspora",
+      "AffectiveTone": "melancholic",
+      "Culture": "Latinx"
+    }
+  },
+  {
+    "word": "goblincore",
+    "tags": {
+      "Domain": "nature",
+      "Subculture": "fashion",
+      "AffectiveTone": "chaotic",
+      "Generation": "Gen Z"
+    }
+  },
+  {
+    "word": "lynching",
+    "tags": {
+      "Setting": "village",
+      "Culture": "Western",
+      "IdentityExperience": "racialized / minority"
+    }
+  },
+  {
+    "word": "moksha",
+    "tags": {
+      "Domain": "spirituality",
+      "Culture": "South Asian",
+      "AffectiveTone": "peaceful",
+      "Generation": "Ancient / Classical"
+    }
+  },
+  {
+    "word": "bodhisattva",
+    "tags": {
+      "PersonalityLens": "healer",
+      "Domain": "spirituality",
+      "AffectiveTone": "peaceful",
+      "Culture": "East Asian"
+    }
+  },
+  {
+    "word": "nomad",
+    "tags": {
+      "Setting": "jungle",
+      "Culture": "Central Asian",
+      "PersonalityLens": "explorer",
+      "Generation": "Timeless"
+    }
+  },
+  {
+    "word": "old-testament",
+    "tags": {
+      "Domain": "spirituality",
+      "Culture": "Middle Eastern",
+      "Generation": "Ancient / Classical"
+    }
+  },
+  {
+    "word": "shogun",
+    "tags": {
+      "Generation": "Ancient / Classical",
+      "Culture": "East Asian",
+      "IdentityExperience": "working-class / underpaid",
+      "Domain": "history"
+    }
+  },
+  {
+    "word": "ramen",
+    "tags": {
+      "Culture": "East Asian",
+      "Subculture": "food culture",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "filibuster",
+    "tags": {
+      "Domain": "history",
+      "AffectiveTone": "chaotic",
+      "Culture": "Western",
+      "PersonalityLens": "rebel"
+    }
+  },
+  {
+    "word": "algoriddim",
+    "tags": {
+      "Subculture": "music",
+      "Domain": "tech",
+      "Generation": "Futuristic"
+    }
+  },
+  {
+    "word": "seppuku",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Domain": "history",
+      "Culture": "East Asian",
+      "Generation": "Ancient / Classical"
+    }
+  },
+  {
+    "word": "talchum",
+    "tags": {
+      "Culture": "East Asian",
+      "Subculture": "art",
+      "Domain": "spirituality",
+      "AffectiveTone": "typically humorous"
+    }
+  },
+  {
+    "word": "retrofuturism",
+    "tags": {
+      "Generation": "Futuristic",
+      "Domain": "art",
+      "AffectiveTone": "nostalgic"
+    }
+  },
+  {
+    "word": "sari",
+    "tags": {
+      "Subculture": "fashion",
+      "Culture": "South Asian",
+      "AffectiveTone": "joyful",
+      "Generation": "Timeless"
+    }
+  },
+  {
+    "word": "apartheid",
+    "tags": {
+      "Culture": "African",
+      "Domain": "history",
+      "IdentityExperience": "racialized / minority",
+      "AffectiveTone": "melancholic"
+    }
+  },
+  {
+    "word": "negging",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Subculture": "digital/online culture",
+      "PersonalityLens": "rebel"
+    }
+  }
+]

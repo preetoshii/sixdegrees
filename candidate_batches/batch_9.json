@@ -1,0 +1,343 @@
+[
+  {
+    "word": "glitch",
+    "tags": {
+      "AffectiveTone": "typically humorous",
+      "PersonalityLens": "doer"
+    }
+  },
+  {
+    "word": "data-haven",
+    "tags": {
+      "Generation": "Timeless",
+      "Subculture": "digital/online culture"
+    }
+  },
+  {
+    "word": "food-desert",
+    "tags": {
+      "Domain": "health & wellness",
+      "Subculture": "food culture"
+    }
+  },
+  {
+    "word": "algorave",
+    "tags": {
+      "Generation": "Futuristic",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "e-sports",
+    "tags": {
+      "Generation": "Futuristic",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "speculative-fiction",
+    "tags": {
+      "Culture": "Global Indigenous",
+      "Setting": "dorm room"
+    }
+  },
+  {
+    "word": "gender-affirming-care",
+    "tags": {
+      "Domain": "emotion",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "heirloom-recipe",
+    "tags": {
+      "Culture": "Caribbean",
+      "Setting": "jungle"
+    }
+  },
+  {
+    "word": "glamping",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "installation-art",
+    "tags": {
+      "Domain": "health & wellness",
+      "Setting": "temple"
+    }
+  },
+  {
+    "word": "mardi-gras",
+    "tags": {
+      "Domain": "pop culture",
+      "Setting": "market"
+    }
+  },
+  {
+    "word": "queer-coding",
+    "tags": {
+      "Domain": "fiction",
+      "Setting": "city"
+    }
+  },
+  {
+    "word": "salon",
+    "tags": {
+      "Generation": "Boomer",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "raid",
+    "tags": {
+      "PersonalityLens": "explorer",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "space-elevator",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Setting": "outer space"
+    }
+  },
+  {
+    "word": "burning-man",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Subculture": "music"
+    }
+  },
+  {
+    "word": "company-store",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "Setting": "factory"
+    }
+  },
+  {
+    "word": "faith-healing",
+    "tags": {
+      "Domain": "spirituality",
+      "PersonalityLens": "feeler"
+    }
+  },
+  {
+    "word": "fan-dub",
+    "tags": {
+      "Generation": "Futuristic",
+      "Subculture": "fandoms"
+    }
+  },
+  {
+    "word": "homeschool",
+    "tags": {
+      "Domain": "health & wellness",
+      "Setting": "school"
+    }
+  },
+  {
+    "word": "street-art",
+    "tags": {
+      "Culture": "Middle Eastern",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "ashram",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "cypherpunk",
+    "tags": {
+      "Culture": "Hybrid / global culture",
+      "PersonalityLens": "explorer"
+    }
+  },
+  {
+    "word": "gentrification",
+    "tags": {
+      "Generation": "Boomer",
+      "Setting": "street"
+    }
+  },
+  {
+    "word": "gestalt",
+    "tags": {
+      "Domain": "philosophy",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "gaslighting",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "IdentityExperience": "mental health experience"
+    }
+  },
+  {
+    "word": "ubiquitous-computing",
+    "tags": {
+      "Setting": "home"
+    }
+  },
+  {
+    "word": "indigenous-futurism",
+    "tags": {
+      "AffectiveTone": "peaceful",
+      "Generation": "Gen Z"
+    }
+  },
+  {
+    "word": "freeter",
+    "tags": {
+      "Culture": "East Asian",
+      "PersonalityLens": "rebel"
+    }
+  },
+  {
+    "word": "kick-on",
+    "tags": {
+      "IdentityExperience": "spiritual seeker",
+      "Subculture": "nightlife"
+    }
+  },
+  {
+    "word": "land-art",
+    "tags": {
+      "AffectiveTone": "nostalgic",
+      "Subculture": "art"
+    }
+  },
+  {
+    "word": "scrimmage",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "sports & fitness"
+    }
+  },
+  {
+    "word": "gakuran",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Setting": "school"
+    }
+  },
+  {
+    "word": "kawaii-metal",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "PersonalityLens": "dreamer"
+    }
+  },
+  {
+    "word": "psy-ops",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Setting": "war zone"
+    }
+  },
+  {
+    "word": "highlife",
+    "tags": {
+      "Culture": "African",
+      "PersonalityLens": "healer"
+    }
+  },
+  {
+    "word": "sojourner",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Subculture": "digital/online culture"
+    }
+  },
+  {
+    "word": "affective-labor",
+    "tags": {
+      "PersonalityLens": "organizer"
+    }
+  },
+  {
+    "word": "queer-rage",
+    "tags": {
+      "AffectiveTone": "melancholic",
+      "Setting": "underground"
+    }
+  },
+  {
+    "word": "bio-luminescent-jungle",
+    "tags": {
+      "Domain": "science",
+      "Setting": "jungle"
+    }
+  },
+  {
+    "word": "astroturfing",
+    "tags": {
+      "AffectiveTone": "rebellious",
+      "Subculture": "gaming"
+    }
+  },
+  {
+    "word": "gender-fluid",
+    "tags": {
+      "Domain": "emotion",
+      "Setting": "home"
+    }
+  },
+  {
+    "word": "dark-matter",
+    "tags": {
+      "AffectiveTone": "chaotic",
+      "Setting": "underground"
+    }
+  },
+  {
+    "word": "liminal-space",
+    "tags": {
+      "AffectiveTone": "mysterious",
+      "Generation": "Gen X"
+    }
+  },
+  {
+    "word": "click-farm",
+    "tags": {
+      "Domain": "tech",
+      "Subculture": "memes"
+    }
+  },
+  {
+    "word": "digital-divide",
+    "tags": {
+      "Generation": "Timeless",
+      "Subculture": "digital/online culture"
+    }
+  },
+  {
+    "word": "permaculture",
+    "tags": {
+      "Culture": "Central Asian",
+      "PersonalityLens": "doer"
+    }
+  },
+  {
+    "word": "pyramid-scheme",
+    "tags": {
+      "AffectiveTone": "absurd",
+      "PersonalityLens": "doer"
+    }
+  },
+  {
+    "word": "zen-garden-meditation",
+    "tags": {
+      "AffectiveTone": "joyful",
+      "Setting": "temple"
+    }
+  }
+]
